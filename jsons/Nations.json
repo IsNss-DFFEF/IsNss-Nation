@@ -27,9 +27,12 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
+		"tradeRequest": "I offer this cooperation to benefit both of our regimes.",
+
 		"outerColor": [0,0,0],
 		"innerColor": [0,150,255],
-		"unique": "Cult of Personality",
+		"uniqueName": "Cult of Personality",
+		"uniques": ["",""]
 		"cities": ["Ixuniska"]
 	}
 ]
