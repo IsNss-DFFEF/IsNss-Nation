@@ -1,17 +1,28 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Motorcyclist",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Isnisia",
+		"replaces": "Marines",
+		"movement": 3,
+		"strength": 62,
+		"cost": 350,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics"],
+		"attackSound": [""]
+	}
+	{
+		"name": "InLA-40",
+		"unitType": "Armored",
+		"uniqueTo": "Isnisia",
+		"replaces": "Tank",
+		"movement": 6,
+		"strength": 65,
+		"cost": 365,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"promotions": ["Logistics","Shock I","Charge"],
+		"attackSound": ""
 	}
 ]
