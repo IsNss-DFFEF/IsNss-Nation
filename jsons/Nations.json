@@ -16,13 +16,13 @@
 		
 		"neutralHello": "Hello",
 		"neutralLetsHearIt": ["What is it?","Yes?","What do you offer?"],
-		"neutralNo": ["I cannot accept.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralNo": ["I cannot accept.","I refuse.","No."],
+		"neutralYes": ["Alright.","Indeed.","Marvelous."],
 
 		"hateHello": "I yet have plans for your nation.",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateLetsHearIt": ["What?","...","Go on."],
+		"hateNo": ["I categorically deny this offer","I refuse to concede any concessions","Absolutely not."],
+		"hateYes": ["Alright.","So shall it be.","Very well."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
