@@ -10,8 +10,8 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics"],
-		"attackSound": [""]
-	}
+		"attackSound": ""
+	},
 	{
 		"name": "InLA-40",
 		"unitType": "Armored",
