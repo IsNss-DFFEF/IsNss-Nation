@@ -24,15 +24,13 @@
 		"hateNo": ["I categorically deny this offer","I refuse to concede any concessions","Absolutely not."],
 		"hateYes": ["Alright.","So shall it be.","Very well."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
+		"afterPeace": "The next time this occurs Isnisia will secure a decisive victory.",
 		"tradeRequest": "I offer this cooperation to benefit both of our regimes.",
 
 		"outerColor": [0,0,0],
 		"innerColor": [0,150,255],
 		"uniqueName": "Cult of Personality",
 		"uniques": ["",""]
-		"cities": ["Ixuniska"]
+		"cities": ["Ixuniska","Riyevka"]
 	}
 ]
