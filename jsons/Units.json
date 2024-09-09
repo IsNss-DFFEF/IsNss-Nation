@@ -3,7 +3,7 @@
 		"name": "Motorcyclist",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Isnisia",
-		"replaces": "Marines",
+		"replaces": "Marine",
 		"movement": 3,
 		"strength": 62,
 		"cost": 350,
