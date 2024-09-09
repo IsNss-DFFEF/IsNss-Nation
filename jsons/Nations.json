@@ -30,7 +30,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [0,150,255],
 		"uniqueName": "Cult of Personality",
-		"uniques": ["[+20]% Production when constructing {[{Military} {Air}],[{Military Land}]} units [in all cities] <upon reaching [Modern era]>","","[+15]% Strength <when at war>","[-10]% [Gold] <when at war>","[-5]% [Culture] <when at war>","[-5]% [Food] <when at war>","[-5]% [Science] <when at war>","[+10]% [Faith] <when at war>","[+15]% [Production] <when at war>","[+15]% Production when constructing [Military] units [in all cities] <when at war>","[-35]% Production when constructing [non-[Military]] units [in all cities] <when at war>"]
+		"uniques": ["[+20]% Production when constructing [Military] units [in all cities] <upon reaching [Modern era]>","","[+15]% Strength <when at war>","[-15]% [Gold] <when at war>","[-10]% [Happiness] <when at war>","[-5]% [Culture] <when at war>","[-5]% [Science] <when at war>","[+10]% [Faith] <when at war>","[+20]% [Production] <when at war>","[+15]% Production when constructing [Military] units [in all cities] <when at war>","Provides [4] [Iron] <upon researching [Combined Arms]>"]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy"]
 	}
 ]
