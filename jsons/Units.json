@@ -3,6 +3,7 @@
 		"name": "Isnisian National Guard",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Isnisia",
+		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 66,
 		"cost": 390,
