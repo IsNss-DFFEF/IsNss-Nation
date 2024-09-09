@@ -1,0 +1,34 @@
+[
+  {
+      "name": "Template",
+      // Stats focused personalities
+      "culture": 2,
+      "faith": 6,
+      "food": 5,
+      "gold": 2,
+      "happiness": 2,
+      "production": 10,
+      "science": 5,
+      // Behavour focused personalities
+      "military": 10,
+      "aggressive": 3,
+      "declareWar": 8,
+      "commerce": 3,
+      "diplomacy": 1,
+      "loyal": 3,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 2,
+          "Liberty": 6,
+          "Honor": 8,
+          "Commerce": 2,
+          "Patronage": 4,
+          "Piety": 5,
+          "Rationalism": 2,
+          "Freedom": 2
+          "Autocracy": 9,
+          "Order": 2
+      },
+      "civilopediaText": [{"text": ""}]
+    ]
