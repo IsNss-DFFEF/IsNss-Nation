@@ -9,17 +9,17 @@
 		"startIntroPart1": "Oh great IsNss, you have marshalled the previously decadent, depraved, and hedonistic nation of Isnisia, whose elite for so long prioritized riches and pleasure over the security of the nation. From the rapid industrialization and modernization of the nation's previously trade-based economy, and the mobilization of millions upon millions of men ready to die for their country, the nation has pushed itself well above its international rivals, and is fully prepared and committed to the rightful expansion and conquest of the glorious Isnisia.",
 		"startIntroPart2": "Supreme Leader IsNss, will you lead the newly armed nation into victory, or utter defeat? Will your empire, last a thousand years, or will it crumble and devolve back into greed-driven and shortsighted squabbling?",
 		
-		"declaringWar": "I offer an apology in advance of your inevitable defeat. May your defenses resist weakly so that attrition be avoided.",
-		"attacked": "Very well. Good luck.",
+		"declaringWar": "War is inevitable and necessary, which is why I've put so much resources into it.",
+		"attacked": "Very well, I have prepared for this anyway.",
 		"defeated": "So shall it be...",
-		"introduction": "Hello, I am the Supreme Leader of Isnisia. May our nations never be enemies of eachother, to prevent the destruction of yours.",
+		"introduction": "Hello, I am the Supreme Leader of Isnisia. I wish, for your sake, that we do not oppose eachother.",
 		
-		"neutralHello": "Hello",
+		"neutralHello": "I yet have plans for your nation.",
 		"neutralLetsHearIt": ["What is it?","Yes?","What do you offer?"],
 		"neutralNo": ["I cannot accept.","I refuse.","No."],
 		"neutralYes": ["Alright.","Indeed.","Marvelous."],
 
-		"hateHello": "I yet have plans for your nation.",
+		"hateHello": "I will burn your palace and destroy your 'magnificent' cities.",
 		"hateLetsHearIt": ["What?","...","Go on."],
 		"hateNo": ["I categorically deny this offer","I refuse to concede any concessions","Absolutely not."],
 		"hateYes": ["Alright.","So shall it be.","Very well."],
