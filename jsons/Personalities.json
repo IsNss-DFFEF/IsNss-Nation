@@ -1,7 +1,6 @@
 [
   {
       "name": "Template",
-      // Stats focused personalities
       "culture": 2,
       "faith": 6,
       "food": 5,
@@ -9,7 +8,6 @@
       "happiness": 2,
       "production": 10,
       "science": 5,
-      // Behavour focused personalities
       "military": 10,
       "aggressive": 3,
       "declareWar": 8,
