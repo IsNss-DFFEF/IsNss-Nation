@@ -9,7 +9,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[100]% of excess Happiness is converted to [Production]","New [Military] units start with [5] Experience [in all cities]","Unsellable","Limited to [1] per civ"]
+		"uniques": ["Indicates the capital city","[100]% of excess Happiness is converted to [Production]","New [Military] units start with [5] Experience [in all cities]","Unsellable","Limited to [1] per Civilization"]
 	},
     {
         	"name": "Internal Security Administration",
@@ -20,5 +20,5 @@
         	"isNationalWonder": true,
 		"uniques": ["Hidden when espionage is disabled", "New spies start with [1] level(s)", "Promotes all spies [1] time(s)", "Gain an extra spy", "[-15]% enemy spy effectiveness [in this city]", "Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city","[+2 Production] [in all cities]","[-10]% [Happiness]","New [Military] units start with [5] Experience [in all cities]","Unsellable","Limited to [1] per civ"],
 		"requiredTech": "Radio"
-    }
+    },
 ]
