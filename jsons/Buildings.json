@@ -9,7 +9,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[+20]% [Culture] [in all cities]","New [Military] units start with [5] Experience [in all cities]","Unsellable","Limited to [1] per civ"]
+		"uniques": ["Indicates the capital city","[100]% of excess Happiness is converted to [Production]","New [Military] units start with [5] Experience [in all cities]","Unsellable","Limited to [1] per civ"]
 	},
     {
         	"name": "Internal Security Administration",
