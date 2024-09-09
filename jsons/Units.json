@@ -1,5 +1,18 @@
 [
 	{
+		"name": "Isnisian National Guard",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Isnisia",
+		"movement": 2,
+		"strength": 66,
+		"cost": 390,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"promotions": ["March"],
+		"uniques": ["[+20]% Strength decreasing with distance from the capital","Can build [Fort] improvements on tiles"]
+		"attackSound": "shot"
+	},
+	{
 		"name": "Motorcyclist",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Isnisia",
@@ -11,7 +24,8 @@
 		"requiredResource": "Iron",
 		"promotions": ["Logistics"],
 		"uniques": ["[+20]% to Flank Attack bonuses","Can move after attacking","Transfer Movement to [Civilian]"],
-		"attackSound": ""
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "shot"
 	},
 	{
 		"name": "InLA-40",
@@ -25,12 +39,13 @@
 		"requiredResource": "Oil",
 		"promotions": ["Logistics","Shock I","Charge"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus"]
-		"attackSound": ""
+		"attackSound": "tankshot"
 	},
 	{		
 		"name": "CAIsN-12",
 		"unitType": "Fighter",
 		"uniqueTo": "Isnisia",
+		"replaces": "Fighter",
 		"movement": 1,
 		"strength": 35,
 		"rangedStrength": 50,
