@@ -3,7 +3,7 @@
 		"name": "Isnisia",
 		"leaderName": "IsNss",
 		"adjective": ["Isnisian"],
-		"startBias": ["River","Coal","Avoid Tundra"],
+		"startBias": ["River","Coal","Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Domination",
 		"personality": "IsNss",
 		
