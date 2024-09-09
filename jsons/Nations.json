@@ -1,7 +1,6 @@
 [
 	{
 		"name": "Isnisia",
-		"icon": "Isnisianationicon",
 		"leaderName": "IsNss",
 		"adjective": ["Isnisian"],
 		"startBias": ["River","Coal","Avoid [Tundra]","Avoid [Snow]"],
