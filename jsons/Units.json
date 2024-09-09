@@ -42,4 +42,5 @@
 		"upgradesTo": "Jet Fighter",
 		"uniques": ["[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>","[+150]% Strength <vs [Helicopter] units>","[+15]% Strength <vs [Land] units>"],
 		"attackSound": "machinegun"
+	}
 ]
