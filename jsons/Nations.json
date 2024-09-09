@@ -2,7 +2,6 @@
 	{
 		"name": "Isnisia",
 		"leaderName": "IsNss",
-		"icon": "Isnisianationicon"
 		"adjective": ["Isnisian"],
 		"startBias": ["River","Coal","Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Domination",
