@@ -13,6 +13,8 @@
 	},
     {
         	"name": "Internal Security Administration",
+		"replaces": "National Intelligence Agency",
+		"uniqueTo": "Isnisia",
         	"cost": 120,
         	"isNationalWonder": true,
 		"uniques": ["Hidden when espionage is disabled", "New spies start with [1] level(s)", "Promotes all spies [1] time(s)", "Gain an extra spy", "[-15]% enemy spy effectiveness [in this city]", "Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city","[+2 Production][in all cities]","[-10]%[[Happiness]","New [[{Military} {Land}],[{Military} {Air}]] units start with [5] Experience [in all cities]"],
