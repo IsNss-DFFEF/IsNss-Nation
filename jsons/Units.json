@@ -10,7 +10,7 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics"],
-		"uniques": ["[+20]% to Flank Attack bonuses","Can move after attacking"],
+		"uniques": ["[+20]% to Flank Attack bonuses","Can move after attacking","Transfer Movement to [Civilian]"],
 		"attackSound": ""
 	},
 	{
