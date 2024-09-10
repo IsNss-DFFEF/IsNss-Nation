@@ -19,7 +19,7 @@
 		"uniqueTo": "Isnisia",
 		"replaces": "Marine",
 		"movement": 3,
-		"strength": 62,
+		"strength": 50,
 		"cost": 350,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Iron",
