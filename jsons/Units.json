@@ -20,11 +20,12 @@
 		"movement": 3,
 		"strength": 50,
 		"rangedStrength": 50,
+		"range": 1,
 		"cost": 335,
 		"requiredTech": "Combustion",
+		"requiredResource": "Oil",
 		"promotions": ["Logistics"],
-		"uniques": ["[+20]% to Flank Attack bonuses","Can move after attacking","Transfer Movement to [Civilian]"],
-		"upgradesTo": "Mechanized Infantry",
+		"uniques": ["Can move after attacking","Transfer Movement to [Civilian]"],
 		"attackSound": "shot"
 	},
 	{
