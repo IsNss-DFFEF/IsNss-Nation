@@ -24,9 +24,8 @@
 		"cost": 335,
 		"requiredTech": "Combustion",
 		"requiredResource": "Oil",
-		"promotions": ["Logistics"],
 		"uniques": ["Can move after attacking"],
-		"attackSound": "shot"
+		"attackSound": "machinegun"
 	},
 	{
 		"name": "InLA-40",
@@ -38,7 +37,7 @@
 		"cost": 365,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
-		"promotions": ["Logistics","Shock I","Charge"],
+		"promotions": ["Shock I","Charge"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus"]
 		"attackSound": "tankshot"
 	},
