@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Isnisian National Guard",
+		"name": "IISA Corps",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Isnisia",
-		"replaces": "Infantry",
 		"movement": 2,
-		"strength": 66,
-		"cost": 390,
-		"requiredTech": "Plastics",
-		"upgradesTo": "Mechanized Infantry",
-		"promotions": ["March"],
-		"uniques": ["[+20]% Strength decreasing with distance from the capital","Can build [Fort] improvements on tiles"]
+		"maintenance": 3
+		"strength": 85,
+		"cost": 400,
+		"requiredTech": "Electronics",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","March","Morale"],
+		"uniques": ["[-20]% XP gained from combat","Invisible to non-adjacent units","Can see invisible [enemy] units","Ignores Zone of Control","Only available <in cities with a [Internal Security Administration]>"]
 		"attackSound": "shot"
 	},
 	{
