@@ -11,18 +11,17 @@
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","March","Morale"],
 		"uniques": ["[-20]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","Invisible to non-adjacent units","Can see invisible [enemy] units","Ignores Zone of Control","Only available <in cities with a [Internal Security Administration]>","Limited to [6] per Civilization"]
-		"attackSound": "shot"
+		"attackSound": "tankshot"
 	},
 	{
-		"name": "Motorcyclist",
-		"unitType": "Gunpowder",
+		"name": "InCA-22",
+		"unitType": "Armored",
 		"uniqueTo": "Isnisia",
-		"replaces": "Marine",
 		"movement": 3,
 		"strength": 50,
-		"cost": 350,
-		"requiredTech": "Combined Arms",
-		"requiredResource": "Iron",
+		"rangedStrength": 50,
+		"cost": 335,
+		"requiredTech": "Combustion",
 		"promotions": ["Logistics"],
 		"uniques": ["[+20]% to Flank Attack bonuses","Can move after attacking","Transfer Movement to [Civilian]"],
 		"upgradesTo": "Mechanized Infantry",
