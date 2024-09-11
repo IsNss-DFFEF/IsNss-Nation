@@ -10,7 +10,7 @@
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","March","Morale"],
-		"uniques": ["[-20]% XP gained from combat","Invisible to non-adjacent units","Can see invisible [enemy] units","Ignores Zone of Control","Only available <in cities with a [Internal Security Administration]>"]
+		"uniques": ["[-20]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","Invisible to non-adjacent units","Can see invisible [enemy] units","Ignores Zone of Control","Only available <in cities with a [Internal Security Administration]>","Limited to [6] per Civilization"]
 		"attackSound": "shot"
 	},
 	{
