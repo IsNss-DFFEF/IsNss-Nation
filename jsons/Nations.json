@@ -20,7 +20,7 @@
 		"neutralNo": ["I cannot accept.","I refuse.","No."],
 		"neutralYes": ["Alright.","Indeed.","Marvelous."],
 
-		"hateHello": "I will burn your palace and destroy your 'magnificent' cities.",
+		"hateHello": "I will burn your palace down as I destroy your 'great' cities.",
 		"hateLetsHearIt": ["What?","...","Go on."],
 		"hateNo": ["I categorically deny this offer","I refuse to concede any concessions","Absolutely not."],
 		"hateYes": ["Alright.","So shall it be.","Very well."],
@@ -31,7 +31,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [0,150,255],
 		"uniqueName": "Cult of Personality",
-		"uniques": ["Rebel units may spawn <in [in all cities] cities> <when between [-10] and [15] Happiness> <after adopting [Autocracy]>","[+15]% Production when constructing [Military] units [in all cities] <after adopting [Militarism]>","[+15]% Strength <when at war> <after adopting [Populism]>","Empire enters a [6]-turn Golden Age <after adopting [Fascism]>",
+		"uniques": ["Rebel units may spawn <in [in all cities] cities> <when between [-10] and [15] Happiness> <after adopting [Autocracy]>","[+15]% Production when constructing [Military] units [in all cities] <after adopting [Militarism]>","[+15]% Strength <when at war> <after adopting [Populism]>","Empire enters a [6]-turn Golden Age <after adopting [Fascism]>","All newly-trained [Military] units [in all cities] receive the [Logistics] promotion <after adopting [Police State]>"
 			"[1] Movement <after adopting [Total War]> <when at war>","[1] additional attacks per turn <after adopting [Total War]> <when at war>",
 			"[-15]% [Gold] <when at war>","[-10]% [Happiness] <when at war>","[-5]% [Culture] <when at war>","[-5]% [Science] <when at war>","[+10]% [Faith] <when at war>","[+50]% [Production] <when at war>","[+50]% Production when constructing [Military] units [in all cities] <when at war>",
 			"Rebel units may spawn <in [Puppeted] cities> <in cities without a [Courthouse]>"]
