@@ -25,7 +25,7 @@
 		"requiredTech": "Combustion",
 		"requiredResource": "Oil",
 		"promotions": ["Logistics"],
-		"uniques": ["Can move after attacking","Transfer Movement to [Civilian]"],
+		"uniques": ["Can move after attacking"],
 		"attackSound": "shot"
 	},
 	{
