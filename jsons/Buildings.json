@@ -12,7 +12,7 @@
 		"uniques": ["Indicates the capital city","[+80]% of excess happiness is converted to [Production]","New [Military] units start with [5] Experience [in all cities]","Unsellable","Limited to [1] per Civilization"]
 	},
     {
-        	"name": "Isnisian Internal Security Administration",
+        	"name": "Internal Isnisian Security Administration",
 		"replaces": "National Intelligence Agency",
 		"uniqueTo": "Isnisia",
         	"cost": 120,
