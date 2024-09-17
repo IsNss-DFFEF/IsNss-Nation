@@ -5,12 +5,17 @@
 		"uniqueTo": "Isnisia",
 		"movement": 2,
 		"maintenance": 3
-		"strength": 90,
+		"strength": 84,
 		"cost": 400,
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","March","Morale"],
-		"uniques": ["[-20]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","Invisible to non-adjacent units","Can see invisible [enemy] units","Ignores Zone of Control","Only available <in cities with a [Internal Isnisian Security Administration]>","Limited to [8] per Civilization"]
+		"uniques": ["[-20]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","[-20]% Strength bonus for [Enemy] units within [1] tiles","Ignores Zone of Control","Only available <in cities with a [Internal Isnisian Security Administration]>","Limited to [6] per Civilization"]
+		"civilopediaText": [
+			{
+				"text": "The empire's feared police force, few in number yet extremely powerful on the battlefield. This unit's mere presence puts fear deep into the hearts of those bearing the misfortune of encountering it on the frontline."
+			}
+		],
 		"attackSound": "shot"
 	},
 	{
@@ -18,14 +23,20 @@
 		"unitType": "Armored",
 		"uniqueTo": "Isnisia",
 		"movement": 8,
-		"strength": 50,
+		"strength": 45,
 		"rangedStrength": 60,
 		"range": 1,
 		"cost": 345,
 		"requiredTech": "Combustion",
 		"requiredResource": "Oil",
+		"obsoleteTech": "Lasers",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+20]% Strength <vs [{Gunpowder},{Ranged Gunpowder}]>","Rough terrain penalty"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+35]% Strength <vs [{Gunpowder},{Ranged Gunpowder}]>","Rough terrain penalty","[-35]% Strength <when fighting in [Rough terrain] tiles> <when defending>"],
+		"civilopediaText": [
+			{
+				"text": "The InCC-22 was the empire's answer to the large amounts of infantry its enemies possesed. Its light armor and efficient machine guns destroying any infantry divisions it faces with relative ease. It faced significant difficulty on rough terrain however, with its mechanisms not suited to rough and bumpy terrain."
+			}
+		],
 		"attackSound": "machinegun"
 	},
 	{
@@ -41,6 +52,11 @@
 		"upgradesTo": "Modern Armor",
 		"promotions": ["Shock I","Charge"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus"]
+		"civilopediaText": [
+			{
+				"text": "The InLA-40 is the empire's powerful heavy tank. It boldly drives into battle with its shiny steel hull, almost impenetrable. Its prowess on the battlefield almost unmatched for 40 years before finally being outperformed by modern technology. Yet it still saw some use in modern campaigns."
+			}
+		],
 		"attackSound": "tankshot"
 	},
 	{		
@@ -57,7 +73,12 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
 		"upgradesTo": "Jet Fighter",
-		"uniques": ["[100]% chance to intercept air attacks","[+150]% Strength <vs [Bomber] units>","[+150]% Strength <vs [Helicopter] units>","[+15]% Strength <vs [Land] units>"],
+		"uniques": ["[80]% chance to intercept air attacks","[+100]% Strength <vs [Bomber] units>","[+200]% Strength <vs [Land] units>"],
+		"civilopediaText": [
+			{
+				"text": "The CAIsN-12 is the empire's CAS, designed to frequently carry out airstrikes on enemy positions, while still being able to enforce air superiority in a more limited fashion."
+			}
+		],
 		"attackSound": "machinegun"
 	}
 ]
