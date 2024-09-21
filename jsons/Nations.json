@@ -31,11 +31,11 @@
 		"outerColor": [0,0,0],
 		"innerColor": [0,150,255],
 		"uniqueName": "Esoteric Measures",
-		"uniques": ["Rebel units may spawn <in [in all cities] cities> <when between [-10] and [15] Happiness> <after adopting [Autocracy]>","[+15]% Production when constructing [Military] units [in all cities] <after adopting [Militarism]>","[+15]% Strength <when at war> <after adopting [Populism]>","Empire enters a [6]-turn Golden Age <after adopting [Fascism]>","All newly-trained [Military] units [in all cities] receive the [Logistics] promotion <after adopting [Police State]>",
+		"uniques": ["Rebel units may spawn <in [All] cities> <when between [-10] and [15] Happiness> <after adopting [Autocracy]>","[+15]% Production when constructing [Military] units [in all cities] <after adopting [Militarism]>","[+15]% Strength <when at war> <after adopting [Populism]>","Empire enters a [6]-turn Golden Age <after adopting [Fascism]>","All newly-trained [Military] units [in all cities] receive the [Logistics] promotion <after adopting [Police State]>",
 			"[1] Movement <after adopting [Total War]> <when at war>","[1] additional attacks per turn <after adopting [Total War]> <when at war>",
 			"[-20]% [Gold] <when at war>","[-15]% [Happiness] <when at war>","[-10]% [Culture] <when at war>","[-10]% [Science] <when at war>","[+10]% [Faith] <when at war>","[+85]% [Production] <when at war>","[+50]% Production when constructing [Military] units [in all cities] <when at war>",
 			"Rebel units may spawn <in [Puppeted] cities>", 
-			"Free social policy <after entering [Industrial era]>"]
+			"Free Social Policy <after entering [Industrial era]>"]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin"]
 	}
 ]
