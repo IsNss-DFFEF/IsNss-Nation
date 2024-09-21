@@ -10,7 +10,7 @@
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","March","Morale"],
-		"uniques": ["[-20]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","[-20]% Strength bonus for [Enemy] units within [1] tiles","Ignores Zone of Control","Only available <in cities with a [Internal Isnisian Security Administration]>","Limited to [6] per Civilization"]
+		"uniques": ["[-20]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","[-20]% Strength bonus for [enemy Military] units within [1] tiles","Ignores Zone of Control","Only available <in cities with a [Internal Isnisian Security Administration]>","Limited to [6] per Civilization"]
 		"civilopediaText": [
 			{
 				"text": "The empire's feared police force, few in number yet extremely powerful on the battlefield. This unit's mere presence puts fear deep into the hearts of those bearing the misfortune of encountering it on the frontline."
