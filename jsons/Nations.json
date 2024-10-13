@@ -38,12 +38,11 @@
 			"All newly-trained [Military] units [in all cities] receive the [Logistics] promotion <after adopting [Police State]>",
 			"[1] Movement <after adopting [Total War]> <when at war>","[1] additional attacks per turn <after adopting [Total War]> <when at war>",
 			
-			"[-50]% [Gold] <when at war>","[-50]% [Food] <when at war>","[-50]% [Happiness] <when at war>",
-			"[-25]% [Culture] <when at war>","[-25]% [Science] <when at war>",
-			"[+25]% [Faith] <when at war>",
-			"[+25]% [Production] <when at war>","[+175]% Production when constructing [Military] units [in all cities] <when at war>",
-			
-			"Rebel units may spawn <in [Puppeted] cities>", 
+			"[-3 Gold, -3 Food, -1 Science, -1 Culture, -1 Happiness, +6 Production] per [3] population [in all cities] <when at war>",
+			"[-2 Gold, +2 Production] from all [Gold] buildings <when at war>","[-2 Food, +2 Production] from all [Food] buildings <when at war>",
+			"[-2 Science, +2 Production] from all [Science] buildings <when at war>","[-2 Culture, +2 Production] from all [Culture] buildings <when at war>",
+			"[-2 Happiness, +2 Production] from all [Happiness] buildings <when at war>",
+			"[+50]% [Production] <when at war>","[+200]% Production when constructing [Military] units [in all cities] <when at war>",
 			
 			"Free social policy <after entering [Industrial era]>"]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
