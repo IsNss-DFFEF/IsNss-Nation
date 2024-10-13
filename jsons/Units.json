@@ -31,7 +31,7 @@
 		"requiredResource": "Oil",
 		"obsoleteTech": "Lasers",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+35]% Strength <vs [{Gunpowder},{Ranged Gunpowder}]>","Rough terrain penalty","[-35]% Strength <when fighting in [Rough terrain] tiles> <when defending>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+35]% Strength <vs [{Gunpowder}]>","[+35]% Strength <vs [{Ranged Gunpowder}]>","[+35]% Strength <vs [{Mounted}]>","[+35]% Strength <vs [{Siege}]>","Rough terrain penalty","[-35]% Strength <when fighting in [Rough terrain] tiles> <when defending>"],
 		"civilopediaText": [
 			{
 				"text": "The InCC-22 was the empire's answer to the large amounts of infantry its enemies possesed. Its light armor and efficient machine guns destroying any infantry divisions it faces with relative ease. It faced significant difficulty on rough terrain however, with its mechanisms not suited to rough and bumpy terrain."
