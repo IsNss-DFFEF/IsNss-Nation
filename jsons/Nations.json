@@ -31,12 +31,12 @@
 		"outerColor": [0,0,0],
 		"innerColor": [0,150,255],
 		"uniqueName": "Austerity Measures",
-		"uniques": ["[-3 Gold, -3 Food, -1 Science, -1 Culture, -1 Happiness, +6 Production] per [3] population [in all cities] <when at war>",
+		"uniques": ["[-3 Gold, -3 Food, -1 Science, -1 Culture, -1 Happiness, +6 Production] per [5] population [in all cities] <when at war>",
 			"[-2 Gold, +2 Production] from all [Gold] buildings <when at war>",
 			"[-2 Food, +2 Production] from all [Food] buildings <when at war>",
-			"[-2 Science, +2 Production] from all [Science] buildings <when at war>",
-			"[-2 Culture, +2 Production] from all [Culture] buildings <when at war>",
-			"[-2 Happiness, +2 Production] from all [Happiness] buildings <when at war>",
+			"[-1 Science, +1 Production] from all [Science] buildings <when at war>",
+			"[-1 Culture, +1 Production] from all [Culture] buildings <when at war>",
+			"[-1 Happiness, +1 Production] from all [Happiness] buildings <when at war>",
 			"[+50]% [Production] <when at war>","[+200]% Production when constructing [Military] units [in all cities] <when at war>",]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
