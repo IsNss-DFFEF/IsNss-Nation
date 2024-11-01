@@ -84,4 +84,20 @@
         "column": 54,
         "row": 3
 	}
+  {
+		"name": "Intimidation",
+    "prerequisites": ["Suppression III","Discipline III","Penetration III","Repression II"],
+		"uniques": ["[-20]% Strength for enemy [all] units in adjacent [all] tiles"],
+		"unitTypes": ["IISA"],
+        "column": 51,
+        "row": 4
+	}
+  {
+		"name": "Mechanization",
+    "prerequisites": ["Suppression III","Discipline III","Penetration III","Repression II"],
+		"uniques": ["[+3] Movement","[+15]% Strength","Consumes [1] [Oil]","Only available <after discovering [Mobile Tactics]>"],
+		"unitTypes": ["IISA"],
+        "column": 52,
+        "row": 4
+	}
 ]
