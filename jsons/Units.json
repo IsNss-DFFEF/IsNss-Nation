@@ -5,13 +5,12 @@
 		"uniqueTo": "Isnisia",
 		"movement": 2,
 		"maintenance": 3
-		"strength": 75,
+		"strength": 80,
 		"cost": 400,
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
-		"promotions": ["Logistics","March"],
-		"uniques": ["[-50]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","[-20]% Strength bonus for [enemy Military] units within [1] tiles","Ignores Zone of Control","Only available <in cities with a [Internal Isnisian Security Administration]>","Limited to [6] per Civilization",
-		"[+18]% Strength <upon entering the [Modern era]>","[+17]% Strength <upon entering the [Information era]>","[+18]% Strength <upon entering the [Future era]>"]
+		"uniques": ["[-50]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","Only available <in cities with a [Internal Isnisian Security Administration]>","Limited to [6] per Civilization",
+		"[+13]% Strength <upon entering the [Modern era]>","[+12]% Strength <upon entering the [Information era]>","[+13]% Strength <upon entering the [Future era]>"]
 		"civilopediaText": [
 			{
 				"text": "The empire's feared police force, few in number yet extremely powerful on the battlefield. This unit's mere presence puts fear deep into the hearts of those bearing the misfortune of encountering it on the frontline."
