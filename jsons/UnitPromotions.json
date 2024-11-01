@@ -95,7 +95,7 @@
   {
 		"name": "Mechanization",
     "prerequisites": ["Suppression III","Discipline III","Penetration III","Repression II"],
-		"uniques": ["[+3] Movement","[+15]% Strength","Consumes [1] [Oil]","Only available <after discovering [Mobile Tactics]>"],
+		"uniques": ["[+2] Movement","[+10]% Strength","Consumes [1] [Oil]","Only available <after discovering [Mobile Tactics]>"],
 		"unitTypes": ["IISA"],
         "column": 52,
         "row": 4
