@@ -55,7 +55,7 @@
   {
 		"name": "Penetration II",
     "prerequisites": ["Penetration I"],
-		"uniques": ["[+25]% Strength <vs [Wounded] units>","[+25]% Strength <when fighting in [Garrisoned] tiles> <when attacking>"],
+		"uniques": ["[+25]% Strength <vs [Wounded] units>","[+25]% Strength <vs cities> <when attacking>"],
 		"unitTypes": ["IISA"],
         "column": 53,
         "row": 2
