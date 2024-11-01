@@ -71,7 +71,7 @@
   {
 		"name": "Repression I",
     "prerequisites": ["Suppression I","Discipline I","Penetration I"],
-		"uniques": ["[+60 Gold, +12 Science, +12 Culture] <upon ending a turn in a [City] tile>""],
+		"uniques": ["[+60 Gold, +12 Science, +12 Culture] <upon ending a turn in a [City] tile>"],
 		"unitTypes": ["IISA"],
         "column": 54,
         "row": 2
