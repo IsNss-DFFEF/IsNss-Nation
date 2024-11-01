@@ -68,4 +68,20 @@
         "column": 53,
         "row": 3
 	}
+  {
+		"name": "Repression I",
+    "prerequisites": ["Suppression I","Discipline I","Penetration I"],
+		"uniques": ["[+60 Gold, +12 Science, +12 Culture] <upon ending a turn in a [City] tile>""],
+		"unitTypes": ["IISA"],
+        "column": 54,
+        "row": 2
+	}
+  {
+		"name": "Repression II",
+    "prerequisites": ["Repression I"],
+		"uniques": ["[+50%] Strength <vs [Barbarian] units>","[+25]% Strength <within [0] tiles of a [City]>"],
+		"unitTypes": ["IISA"],
+        "column": 54,
+        "row": 3
+	}
 ]
