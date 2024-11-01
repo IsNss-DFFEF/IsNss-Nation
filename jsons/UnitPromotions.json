@@ -47,7 +47,7 @@
 	},
   {
 		"name": "Penetration I",
-		"uniques": ["[+8]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+25]% Strength <when fighting in [Fort] tiles> <when attacking>","[+25]% Strength <when fighting in [Citadel] tiles> <when attacking>"],
 		"unitTypes": ["IISA"],
         "column": 3,
         "row": 1
@@ -55,7 +55,7 @@
   {
 		"name": "Penetration II",
     "prerequisites": ["Penetration I"],
-		"uniques": ["[+7]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+25]% Strength <vs [Wounded] units>","[+25]% Strength <when fighting in [Garrisoned] tiles> <when attacking>"],
 		"unitTypes": ["IISA"],
         "column": 3,
         "row": 2
@@ -63,8 +63,9 @@
   {
 		"name": "Penetration III",
     "prerequisites": ["Penetration II"],
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-15]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+1] Movement","Ignores Zone of Control"],
 		"unitTypes": ["IISA"],
         "column": 3,
         "row": 3
-	},
+	}
+]
