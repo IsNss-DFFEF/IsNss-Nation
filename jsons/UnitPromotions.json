@@ -99,5 +99,64 @@
 		"unitTypes": ["IISA"],
         "column": 52,
         "row": 4
-	}
+	},
+		//default promotions
+	{
+		"name": "Heal Instantly",
+		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","IISA"],
+		"innerColor": [195,53,43],
+		"outerColor": [253,236,234],
+        "row": 0,
+        "column": 0
+    	},
+	{
+		"name": "Besiege", 
+		"prerequisites": ["Shock II","Drill II","Suppression II","Discipline II","Penetration II","Repression I"],
+		"uniques": ["[+50]% Strength <vs cities>"],
+		"unitTypes": ["Sword","Gunpowder","IISA"],
+        "column": 6,
+        "row": 3
+	},
+	{
+		"name": "Amphibious",
+		"prerequisites": ["Shock I", "Drill I","Suppression I","Discipline I","Penetration I"],
+		"uniques": ["Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
+		"unitTypes": ["Sword","Gunpowder","IISA"],
+        "column": 6,
+        "row": 1
+	},
+	{
+		"name": "Medic",
+		"prerequisites": ["Shock I", "Drill I", "Scouting II", "Survivalism II","Suppression I","Discipline I","Penetration I"],
+		"uniques": ["All adjacent units heal [+5] HP when healing"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","IISA"],
+        "column": 10,
+        "row": 1
+	},
+	{
+		"name": "Medic II",
+		"prerequisites": ["Medic"],
+		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","IISA"],
+        "column": 10,
+        "row": 2
+	},
+	{
+		"name": "March",
+		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Suppression III","Discipline III","Penetration III"],
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted","IISA"],
+        "column": 10,
+        "row": 3
+	},
+	{
+		"name": "Logistics",
+		"prerequisites": ["Accuracy III","Barrage III","Targeting III", "Wolfpack III",
+			"Bombardment III", "Coastal Raider III","Boarding Party III","Siege III", "Mobility II", "Anti-Armor II","Suppression III","Discipline III","Penetration III"],
+		"uniques": ["[1] additional attacks per turn", "Can move after attacking"],
+		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Melee Water","Ranged Water","Submarine","Fighter","Bomber","Helicopter","IISA"],
+        "column": 24,
+        "row": 5
+	},
 ]
