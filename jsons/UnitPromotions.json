@@ -1,7 +1,7 @@
 [	
   {
 		"name": "Suppression I",
-		"uniques": ["[+15]% Strength <when attacking>"],
+		"uniques": ["[+13]% Strength <when attacking>"],
 		"unitTypes": ["IISA"],
         "column": 51,
         "row": 1
@@ -9,7 +9,7 @@
   {
 		"name": "Suppression II",
 		"prerequisites": ["Suppression I"],
-		"uniques": ["[+15]% Strength <when attacking>"],
+		"uniques": ["[+12]% Strength <when attacking>"],
 		"unitTypes": ["IISA"],
         "column": 51,
         "row": 2
@@ -17,14 +17,14 @@
   {
 		"name": "Suppression III",
 		"prerequisites": ["Suppression II"],
-		"uniques": ["Heals [50] damage if it kills a unit"],
+		"uniques": ["Heals [25] damage if it kills a unit"],
 		"unitTypes": ["IISA"],
         "column": 51,
         "row": 3
 	},
   {
 		"name": "Discipline I",
-		"uniques": ["[+8]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+8]% Strength bonus for [Military] units within [1] tiles","[-8]% Strength"],
 		"unitTypes": ["IISA"],
         "column": 52,
         "row": 1
@@ -32,7 +32,7 @@
   {
 		"name": "Discipline II",
     "prerequisites": ["Discipline I"],
-		"uniques": ["[+7]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+7]% Strength bonus for [Military] units within [1] tiles","[-7]% Strength"],
 		"unitTypes": ["IISA"],
         "column": 52,
         "row": 2
@@ -55,7 +55,7 @@
   {
 		"name": "Penetration II",
     "prerequisites": ["Penetration I"],
-		"uniques": ["[+25]% Strength <vs [Wounded] units>","[+25]% Strength <vs cities> <when attacking>"],
+		"uniques": ["[+15]% Strength <vs [Wounded] units>","[+15]% Strength <vs cities> <when attacking>"],
 		"unitTypes": ["IISA"],
         "column": 53,
         "row": 2
@@ -86,7 +86,7 @@
 	}
   {
 		"name": "Intimidation",
-    "prerequisites": ["Suppression III","Discipline III","Penetration III","Repression II"],
+    "prerequisites": ["Suppression III","Discipline III","Penetration III"],
 		"uniques": ["[-20]% Strength for enemy [all] units in adjacent [all] tiles"],
 		"unitTypes": ["IISA"],
         "column": 51,
@@ -94,7 +94,7 @@
 	}
   {
 		"name": "Mechanization",
-    "prerequisites": ["Suppression III","Discipline III","Penetration III","Repression II"],
+    "prerequisites": ["Suppression III","Discipline III","Penetration III"],
 		"uniques": ["[+2] Movement","[+10]% Strength","Consumes [1] [Oil]","Only available <after discovering [Mobile Tactics]>"],
 		"unitTypes": ["IISA"],
         "column": 52,
