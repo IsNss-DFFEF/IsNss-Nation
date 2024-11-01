@@ -1,0 +1,70 @@
+[	
+  {
+		"name": "Suppression I",
+		"uniques": ["[+15]% Strength <when attacking>"],
+		"unitTypes": ["IISA"],
+        "column": 1,
+        "row": 1
+	},
+  {
+		"name": "Suppression II",
+		"prerequisites": ["Suppression I"],
+		"uniques": ["[+15]% Strength <when attacking>"],
+		"unitTypes": ["IISA"],
+        "column": 1,
+        "row": 2
+	},
+  {
+		"name": "Suppression III",
+		"prerequisites": ["Suppression II"],
+		"uniques": ["Heals [50] damage if it kills a unit"],
+		"unitTypes": ["IISA"],
+        "column": 1,
+        "row": 3
+	},
+  {
+		"name": "Discipline I",
+		"uniques": ["[+8]% Strength bonus for [Military] units within [1] tiles"],
+		"unitTypes": ["IISA"],
+        "column": 2,
+        "row": 1
+	},
+  {
+		"name": "Discipline II",
+    "prerequisites": ["Discipline I"],
+		"uniques": ["[+7]% Strength bonus for [Military] units within [1] tiles"],
+		"unitTypes": ["IISA"],
+        "column": 2,
+        "row": 2
+	},
+  {
+		"name": "Discipline III",
+    "prerequisites": ["Discipline II"],
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-15]% Strength bonus for [Military] units within [1] tiles"],
+		"unitTypes": ["IISA"],
+        "column": 2,
+        "row": 3
+	},
+  {
+		"name": "Penetration I",
+		"uniques": ["[+8]% Strength bonus for [Military] units within [1] tiles"],
+		"unitTypes": ["IISA"],
+        "column": 3,
+        "row": 1
+	},
+  {
+		"name": "Penetration II",
+    "prerequisites": ["Penetration I"],
+		"uniques": ["[+7]% Strength bonus for [Military] units within [1] tiles"],
+		"unitTypes": ["IISA"],
+        "column": 3,
+        "row": 2
+	},
+  {
+		"name": "Penetration III",
+    "prerequisites": ["Penetration II"],
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-15]% Strength bonus for [Military] units within [1] tiles"],
+		"unitTypes": ["IISA"],
+        "column": 3,
+        "row": 3
+	},
