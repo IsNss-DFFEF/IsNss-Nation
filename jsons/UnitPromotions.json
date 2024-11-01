@@ -3,7 +3,7 @@
 		"name": "Suppression I",
 		"uniques": ["[+15]% Strength <when attacking>"],
 		"unitTypes": ["IISA"],
-        "column": 1,
+        "column": 51,
         "row": 1
 	},
   {
@@ -11,7 +11,7 @@
 		"prerequisites": ["Suppression I"],
 		"uniques": ["[+15]% Strength <when attacking>"],
 		"unitTypes": ["IISA"],
-        "column": 1,
+        "column": 51,
         "row": 2
 	},
   {
@@ -19,14 +19,14 @@
 		"prerequisites": ["Suppression II"],
 		"uniques": ["Heals [50] damage if it kills a unit"],
 		"unitTypes": ["IISA"],
-        "column": 1,
+        "column": 51,
         "row": 3
 	},
   {
 		"name": "Discipline I",
 		"uniques": ["[+8]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes": ["IISA"],
-        "column": 2,
+        "column": 52,
         "row": 1
 	},
   {
@@ -34,7 +34,7 @@
     "prerequisites": ["Discipline I"],
 		"uniques": ["[+7]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes": ["IISA"],
-        "column": 2,
+        "column": 52,
         "row": 2
 	},
   {
@@ -42,14 +42,14 @@
     "prerequisites": ["Discipline II"],
 		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-15]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes": ["IISA"],
-        "column": 2,
+        "column": 52,
         "row": 3
 	},
   {
 		"name": "Penetration I",
 		"uniques": ["[+25]% Strength <when fighting in [Fort] tiles> <when attacking>","[+25]% Strength <when fighting in [Citadel] tiles> <when attacking>"],
 		"unitTypes": ["IISA"],
-        "column": 3,
+        "column": 53,
         "row": 1
 	},
   {
@@ -57,7 +57,7 @@
     "prerequisites": ["Penetration I"],
 		"uniques": ["[+25]% Strength <vs [Wounded] units>","[+25]% Strength <when fighting in [Garrisoned] tiles> <when attacking>"],
 		"unitTypes": ["IISA"],
-        "column": 3,
+        "column": 53,
         "row": 2
 	},
   {
@@ -65,7 +65,7 @@
     "prerequisites": ["Penetration II"],
 		"uniques": ["[+1] Movement","Ignores Zone of Control"],
 		"unitTypes": ["IISA"],
-        "column": 3,
+        "column": 53,
         "row": 3
 	}
 ]
