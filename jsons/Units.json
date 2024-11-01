@@ -1,7 +1,7 @@
 [
 	{
 		"name": "IISA Corps",
-		"unitType": "Gunpowder",
+		"unitType": "IISA",
 		"uniqueTo": "Isnisia",
 		"movement": 2,
 		"maintenance": 3
