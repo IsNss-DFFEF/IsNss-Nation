@@ -1,16 +1,4 @@
 [
-	{
-		"name": "The Iron Palace",
-		"replaces": "Palace",
-		"uniqueTo": "Isnisia",
-		"production": 5,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
-		"cityStrength": 2,
-		"cost": 1,
-		"uniques": ["Indicates the capital city","[+80]% of excess happiness converted to [Production] <in [All] cities>","New [Military] units start with [5] Experience [in all cities]","Unsellable","Limited to [1] per Civilization"]
-	},
     {
         	"name": "Internal Isnisian Security Administration",
 		"replaces": "National Intelligence Agency",
