@@ -10,7 +10,7 @@
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
 		"uniques": ["[-20]% XP gained from combat","[+33]% Strength <when below [-10] Happiness>","Only available <in cities with a [Internal Isnisian Security Administration]>","Limited to [6] per Civilization",
-		"[+13]% Strength <during the [Modern era]>","[+25]% Strength <during the [Information era]>","[+38]% Strength <during the [Future era]>"]
+		"[+13]% Strength <during the [Atomic era]>","[+25]% Strength <during the [Information era]>","[+38]% Strength <during the [Future era]>"]
 		"civilopediaText": [
 			{
 				"text": "The empire's feared police force, few in number yet extremely powerful on the battlefield. This unit's mere presence puts fear deep into the hearts of those bearing the misfortune of encountering it on the frontline."
