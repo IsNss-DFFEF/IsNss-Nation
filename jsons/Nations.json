@@ -10,7 +10,7 @@
 		"startIntroPart1": "Oh great IsNss, you have marshalled the previously decadent, depraved, and hedonistic nation of Isnisia, whose elite for so long prioritized riches and pleasure over the security of the nation. From the rapid industrialization and modernization of the nation's previously trade-based economy, and the mobilization of millions upon millions of men ready to die for their country, the nation has pushed itself well above its international rivals, and is fully prepared and committed to the rightful expansion and conquest of the glorious Isnisia.",
 		"startIntroPart2": "Supreme Leader IsNss, will you lead the newly armed nation into victory, or utter defeat? Will your empire, last a thousand years, or will it crumble and devolve back into greed-driven and shortsighted squabbling?",
 		
-		"declaringWar": "War is inevitable and necessary, I can't simply throw all this preparation out can I?",
+		"declaringWar": "Though my preparations for this inevitable confrontation have been extensive, I cannot afford to wait any longer.",
 		"attacked": "Very well, I have prepared for this anyway.",
 		"defeated": "So shall it be...",
 		"introduction": "Greetings, behind me stands the eternal and beautifully efficient Isnisian empire. I wish our nations may never come across eachother.",
@@ -20,12 +20,12 @@
 		"neutralNo": ["I cannot accept.","I refuse.","No."],
 		"neutralYes": ["Alright.","Indeed.","Marvelous."],
 
-		"hateHello": "I will burn your palace down.",
+		"hateHello": "I will burn your empire to the ground.",
 		"hateLetsHearIt": ["What?","...","Go on."],
-		"hateNo": ["I categorically deny this offer","I refuse to concede any concessions","Absolutely not."],
-		"hateYes": ["Alright.","So shall it be.","Very well."],
+		"hateNo": ["I cannot accept.","I refuse.","No."],
+		"hateYes": ["Alright.","Great.","Very well."],
 		
-		"afterPeace": "This war may not have ended in my favor, yet the next will be.",
+		"afterPeace": "This war may not have been decisive, yet the next will be.",
 		"tradeRequest": "I offer this cooperation to benefit both of our regimes.",
 
 		"outerColor": [0,0,0],
