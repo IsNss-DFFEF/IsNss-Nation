@@ -24,7 +24,7 @@
 	},
   {
 		"name": "Discipline I",
-		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles <when defending>"],
+		"uniques": ["[+8]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes": ["IISA"],
         "column": 52,
         "row": 1
@@ -32,7 +32,7 @@
   {
 		"name": "Discipline II",
     "prerequisites": ["Discipline I"],
-		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles <when attacking>"],
+		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes": ["IISA"],
         "column": 52,
         "row": 2
@@ -40,7 +40,7 @@
   {
 		"name": "Discipline III",
     "prerequisites": ["Discipline II"],
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-15]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"],
 		"unitTypes": ["IISA"],
         "column": 52,
         "row": 3
