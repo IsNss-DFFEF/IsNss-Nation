@@ -34,7 +34,8 @@
 		"uniques": ["[-1 Gold, -1 Food, -1 Science, -1 Culture, +4 Production] per [3] population [in all cities] <when at war>",
 			"[+2 Production, -1 Gold] from all [All] buildings <when at war>",
 			"[+50]% [Production] <when at war>","[+50]% Production when constructing [Military] units [in all cities] <when at war>",
-			"[+6 Production, +6 Culture, +6 Science, +6 Happiness, -12 Gold] from all [Palace] buildings <when at war>"]
+			"[+6 Production, +6 Culture, +6 Science, +6 Happiness, -12 Gold] from all [Palace] buildings <when at war>",
+			"[+6 Production, +6 Science] from all [Citadel] tiles <after researching [Industrialization]"]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
 ]
