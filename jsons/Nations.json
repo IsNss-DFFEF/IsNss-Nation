@@ -35,7 +35,7 @@
 			"[+2 Production, -1 Gold] from all [All] buildings <when at war>",
 			"[+50]% [Production] <when at war>","[+50]% Production when constructing [Military] units [in all cities] <when at war>",
 			"[+6 Production, +6 Culture, +6 Science, +6 Happiness, -12 Gold] from all [Palace] buildings <when at war>",
-			"[+6 Production, +6 Science] from [Citadel] tiles [in all cities] <after researching [Industrialization]>"]
+			"[+6 Production, +6 Science] from [Citadel] tiles [in all cities] <after discovering [Industrialization]>"]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
 ]
