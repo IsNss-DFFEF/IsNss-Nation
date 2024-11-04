@@ -71,7 +71,7 @@
   {
 		"name": "Repression I",
     "prerequisites": ["Suppression I","Discipline I","Penetration I"],
-		"uniques": ["Gain [20]-[60] [Gold] <upon ending a turn in a [City] tile>","Gain [6]-[18] [Science] <upon ending a turn in a [City] tile>","Gain [6]-[18] [Culture] <upon ending a turn in a [City] tile>"],
+		"uniques": ["Gain [20]-[60] [Gold] <upon ending a turn in a [City center] tile>","Gain [6]-[18] [Science] <upon ending a turn in a [City] tile>","Gain [6]-[18] [Culture] <upon ending a turn in a [City] tile>"],
 		"unitTypes": ["IISA"],
         "column": 54,
         "row": 2
