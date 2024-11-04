@@ -38,27 +38,5 @@
 			}
 		],
 		"attackSound": "tankshot"
-	},
-	{		
-		"name": "CAIsN-12",
-		"unitType": "Fighter",
-		"uniqueTo": "Isnisia",
-		"replaces": "Fighter",
-		"movement": 1,
-		"strength": 35,
-		"rangedStrength": 50,
-		"range": 9,
-		"interceptRange": 6,
-		"cost": 350,
-		"requiredTech": "Radar",
-		"requiredResource": "Oil",
-		"upgradesTo": "Jet Fighter",
-		"uniques": ["[80]% chance to intercept air attacks","[+100]% Strength <vs [Bomber] units>","[+200]% Strength <vs [Land] units>"],
-		"civilopediaText": [
-			{
-				"text": "The CAIsN-12 is the empire's CAS, designed to frequently carry out airstrikes on enemy positions, while still being able to enforce air superiority in a more limited fashion."
-			}
-		],
-		"attackSound": "machinegun"
 	}
 ]
