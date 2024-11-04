@@ -11,6 +11,7 @@
 	},
 	{
 		"name": "Ixuniska Ironworks",
+		"replaces": "Ironworks",
 		"cost": 200,
 		"production": 4,
 		"science": 2,
