@@ -42,9 +42,9 @@
 			"Earn [50]% of the damage done to [All] units as [Gold] <when at war>",
 			
 			"Free [Great General] appears <upon adopting Autocracy>",
-			"[+8 Production, +2 Science, +2 Culture, +2 Happiness] from [Citadel] tiles <upon adopting Autocracy>",
-			"[+1 Production, +6 Science, +2 Culture, +2 Happiness] from [Manufactory] tiles <upon adopting Autocracy>",
-			"[+1 Production, +1 Science, +1 Culture, +1 Happiness] from [Fort] tiles <upon adopting Autocracy>",]
+			"[+8 Production, +2 Science, +2 Culture, +2 Happiness] from [Citadel] tiles <upon adopting [Autocracy]>",
+			"[+1 Production, +6 Science, +2 Culture, +2 Happiness] from [Manufactory] tiles <upon adopting [Autocracy]>",
+			"[+1 Production, +1 Science, +1 Culture, +1 Happiness] from [Fort] tiles <upon adopting [Autocracy]>"]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
 ]
