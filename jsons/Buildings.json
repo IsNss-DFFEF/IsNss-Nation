@@ -12,6 +12,7 @@
 	{
 		"name": "Ixuniska Ironworks",
 		"replaces": "Ironworks",
+		"uniqueTo": "Isnisia",
 		"cost": 200,
 		"production": 4,
 		"science": 2,
