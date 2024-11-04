@@ -30,12 +30,21 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [0,150,255],
-		"uniqueName": "Austerity Measures",
-		"uniques": ["[-1 Gold, -1 Food, -1 Science, -1 Culture, +4 Production] per [3] population [in all cities] <when at war>",
-			"[+2 Production, -1 Gold] from all [All] buildings <when at war>",
-			"[+50]% [Production] <when at war>","[+50]% Production when constructing [Military] units [in all cities] <when at war>",
-			"[+6 Production, +6 Culture, +6 Science, +6 Happiness, -12 Gold] from all [Palace] buildings <when at war>",
-			"[+6 Production, +6 Science] from [Citadel] tiles [in all cities] <after discovering [Industrialization]>"]
+		"uniqueName": "Veneration of Development and Defense",
+		"uniques": [
+			"[+1 Production] from all [Science] buildings","[+1 Production] from all [Culture] buildings","[+1 Production] from all [Happiness] buildings",
+			"[+1 Science, +1 Culture, +1 Production] from all [Production] buildings",
+			"[+1 Science, +1 Culture, +1 Production] from all [Defensive] buildings",
+
+			"[+2 Production, +1 Happiness, +1 Culture, -4 Gold] per [4] population [in your cities] <when at war>",
+			"[+2 Production, +4 Happiness, +2 Culture, -6 Gold] [in your cities] <when at war>",
+			"[+4 Production, +8 Happiness, +4 Culture, -12 Gold] [in Capital cities] <when at war>",
+			"Earn [50]% of the damage done to [All] units as [Gold] <when at war>",
+			
+			"Free [Great General] appears <upon adopting Autocracy>",
+			"[+8 Production, +2 Science, +2 Culture, +2 Happiness] from [Citadel] tiles <upon adopting Autocracy>",
+			"[+1 Production, +6 Science, +2 Culture, +2 Happiness] from [Manufactory] tiles <upon adopting Autocracy>",
+			"[+1 Production, +1 Science, +1 Culture, +1 Happiness] from [Fort] tiles <upon adopting Autocracy>",]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
 ]
