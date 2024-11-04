@@ -1,12 +1,26 @@
 [
-    {
+	{
         	"name": "Internal Isnisian Security Administration",
 		"replaces": "National Intelligence Agency",
 		"uniqueTo": "Isnisia",
         	"cost": 120,
 	    	"maintenance": 5,
         	"isNationalWonder": true,
-		"uniques": ["Hidden when espionage is disabled", "New spies start with [1] level(s)", "Promotes all spies [1] time(s)", "Gain an extra spy", "[-15]% enemy spy effectiveness [in this city]", "Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city","[+2 Production] [in all cities]","[-10]% [Happiness]","New [Military] units start with [5] Experience [in all cities]","Unsellable","Limited to [1] per Civilization"],
+		"uniques": ["Hidden when espionage is disabled", "New spies start with [1] level(s)", "Promotes all spies [1] time(s)", "Gain an extra spy", "[-15]% enemy spy effectiveness [in this city]", "Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city","[+2 Production] [in all cities]","New [Military] units start with [15] Experience [in all cities]","Unsellable","Limited to [1] per Civilization"],
 		"requiredTech": "Radio"
-    },
+	},
+	{
+		"name": "Ixuniska Ironworks",
+		"cost": 200,
+		"production": 4,
+		"science": 2,
+		"happiness": 2,
+		"culture": 2,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Gain a free [Factory] [in this city]", "Cost increases by [30] per owned city", "Provides [6] [Iron]", "Unsellable","Limited to [1] per Civilization"],
+		"specialistSlots": {"Engineer": 4},
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+
 ]
