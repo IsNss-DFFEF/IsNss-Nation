@@ -1,31 +1,31 @@
 [
   {
       "name": "IsNss",
-      "culture": 4,
-      "faith": 4,
+      "culture": 8,
+      "faith": 3,
       "food": 6,
       "gold": 6,
-      "happiness": 2,
+      "happiness": 8,
       "production": 10,
-      "science": 6,
-      "military": 10,
-      "aggressive": 8,
-      "declareWar": 8,
-      "commerce": 2,
-      "diplomacy": 2,
-      "loyal": 3,
-      "expansion": 6,
+      "science": 8,
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 3,
+      "diplomacy": 3,
+      "loyal": 5,
+      "expansion": 8,
 
       "priorities": {
           "Tradition": 2,
           "Liberty": 4,
           "Honor": 8,
-          "Commerce": 3,
-          "Patronage": 3,
-          "Piety": 3,
-          "Rationalism": 7,
-          "Freedom": 3
-          "Autocracy": 10,
-          "Order": 1}
+          "Commerce": 2,
+          "Patronage": 2,
+          "Piety": 2,
+          "Rationalism": 8,
+          "Freedom": 4
+          "Autocracy": 8,
+          "Order": 4}
       }
     ]
