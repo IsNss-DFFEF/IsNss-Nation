@@ -34,7 +34,7 @@
 		"uniques": [
 			"[+1 Production] from all [Science] buildings","[+1 Production] from all [Culture] buildings","[+1 Production] from all [Happiness] buildings",
 			"[+1 Science, +1 Culture, +1 Happiness] from all [Production] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness] from all [Military Base] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Arsenal] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Castle] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Wall] buildings",
+			"[+1 Science, +1 Culture, +1 Happiness] from all [Military Base] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Arsenal] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Castle] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Walls] buildings",
 			"[+1 Science, +1 Culture, +1 Happiness] from all [Military Academy] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Armory] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Barracks] buildings",
 
 			"[+2 Production, +1 Happiness, +1 Culture, -3 Gold] per [4] population [in your cities] <when at war>",
