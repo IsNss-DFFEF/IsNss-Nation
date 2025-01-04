@@ -10,8 +10,8 @@
 		"startIntroPart1": "Oh great IsNss, you have marshalled the previously decadent, depraved, and hedonistic nation of Isnisia, whose elite for so long prioritized riches and pleasure over the security of the nation. From the rapid industrialization and modernization of the nation's previously trade-based economy, and the mobilization of millions upon millions of men ready to die for their country, the nation has pushed itself well above its international rivals, and is fully prepared and committed to the rightful expansion and conquest of the glorious Isnisia.",
 		"startIntroPart2": "Supreme Leader IsNss, will you lead the newly armed nation into victory, or utter defeat? Will your empire, last a thousand years, or will it crumble and devolve back into greed-driven and shortsighted squabbling?",
 		
-		"declaringWar": "Though my preparations for this inevitable confrontation have been extensive, I cannot afford to wait any longer.",
-		"attacked": "Very well, I have prepared for this anyway.",
+		"declaringWar": "Your puny empire has been a stain on my map ever since I've encountered it. Today I shall cleanly wipe it from the world itself.",
+		"attacked": "Very well.",
 		"defeated": "So shall it be...",
 		"introduction": "Greetings, behind me stands the eternal and beautifully efficient Isnisian empire. I wish our nations may never come across eachother.",
 		
@@ -32,20 +32,23 @@
 		"innerColor": [0,150,255],
 		"uniqueName": "Veneration of Development and Defense",
 		"uniques": [
-			"[+1 Production] from all [Science] buildings","[+1 Production] from all [Culture] buildings","[+1 Production] from all [Happiness] buildings",
+			"[+1 Production] from all [Science] buildings",
+			"[+1 Production] from all [Culture] buildings",
+			"[+1 Production] from all [Happiness] buildings",
 			"[+1 Science, +1 Culture, +1 Happiness] from all [Production] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness] from all [Military Base] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Arsenal] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Castle] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Walls] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness] from all [Military Academy] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Armory] buildings","[+1 Science, +1 Culture, +1 Happiness] from all [Barracks] buildings",
+			
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Military Base] buildings",
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Arsenal] buildings",
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Castle] buildings",
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Walls] buildings",
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Military Academy] buildings",
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Armory] buildings",
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Barracks] buildings",
 
 			"[+2 Production, +1 Happiness, +1 Culture, -3 Gold] per [4] population [in your cities] <when at war>",
 			"[+2 Production, +4 Happiness, +2 Culture, -4 Gold] [in your cities] <when at war>",
 			"[+4 Production, +8 Happiness, +4 Culture, -8 Gold] [in capital] <when at war>",
-			"Earn [50]% of the damage done to [All] units as [Gold] <when at war>",
-			
-			"Free [Great General] appears <upon adopting Autocracy>",
-			"[+8 Production, +2 Science, +2 Culture, +2 Happiness] from [Citadel] tiles <upon adopting [Autocracy]>",
-			"[+1 Production, +6 Science, +2 Culture, +2 Happiness] from [Manufactory] tiles <upon adopting [Autocracy]>",
-			"[+1 Production, +1 Science, +1 Culture, +1 Happiness] from [Fort] tiles <upon adopting [Autocracy]>"]
+			"Earn [50]% of the damage done to [All] units as [Gold] <when at war>"]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy"]
 	}
 ]
