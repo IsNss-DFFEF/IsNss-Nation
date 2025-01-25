@@ -71,7 +71,7 @@
   {
 		"name": "Repression I",
     "prerequisites": ["Suppression I","Discipline I","Penetration I"],
-		"uniques": ["Gain [20]-[60] [Gold] <upon ending a turn in a [City center] tile>","Gain [6]-[18] [Science] <upon ending a turn in a [City] tile>","Gain [6]-[18] [Culture] <upon ending a turn in a [City] tile>"],
+		"uniques": ["Earn [50]% of the damage done to [All] units as [Gold]"],
 		"unitTypes": ["IISA"],
         "column": 54,
         "row": 2
@@ -87,7 +87,7 @@
   {
 		"name": "Intimidation",
     "prerequisites": ["Suppression III","Discipline III","Penetration III"],
-		"uniques": ["[-20]% Strength for enemy [all] units in adjacent [all] tiles"],
+		"uniques": ["[-10]% Strength for enemy [all] units in adjacent [all] tiles"],
 		"unitTypes": ["IISA"],
         "column": 51,
         "row": 4
