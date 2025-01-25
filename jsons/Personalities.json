@@ -17,15 +17,15 @@
       "expansion": 8,
 
       "priorities": {
-          "Tradition": 2,
-          "Liberty": 4,
-          "Honor": 8,
-          "Commerce": 2,
+          "Tradition": 0,
+          "Liberty": 0,
+          "Honor": 10,
+          "Commerce": 5,
           "Patronage": 2,
           "Piety": 2,
           "Rationalism": 8,
-          "Freedom": 4
-          "Autocracy": 8,
-          "Order": 4}
+          "Freedom": 0
+          "Autocracy": 10,
+          "Order": 0}
       }
     ]
