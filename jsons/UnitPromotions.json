@@ -71,7 +71,7 @@
   {
 		"name": "Repression I",
     "prerequisites": ["Suppression I","Discipline I","Penetration I"],
-		"uniques": ["Earn [50]% of the damage done to [All] units as [Gold]"],
+		"uniques": ["Earn [50]% of killed [All] unit's [Strength] as [Gold]"],
 		"unitTypes": ["IISA"],
         "column": 54,
         "row": 2
