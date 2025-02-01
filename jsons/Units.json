@@ -10,7 +10,7 @@
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
 		"uniques": ["[+33]% Strength <when below [-10] Happiness>",
-			"Only available <in cities with a [Internal Isnisian Security Administration]>",
+			"Only available <in cities with a [Internal Isnisian Security Administration]> <when Espionage is enabled>",
 			"Limited to [6] per Civilization"]
 		"civilopediaText": [
 			{
