@@ -1,22 +1,19 @@
 [
-	{
-        	"name": "Internal Isnisian Security Administration",
-		"replaces": "National Intelligence Agency",
-		"uniqueTo": "Isnisia",
-        	"cost": 120,
-	    	"maintenance": 5,
-        	"isNationalWonder": true,
-		"uniques": ["New spies start with [1] level(s) <when espionage is enabled>",
-			"Promotes all spies [1] time(s) <when espionage is enabled>",
-			"Gain an extra spy <when espionage is enabled>",
-			"[-30]% enemy spy effectiveness [in this city] <when espionage is enabled>",
-			"Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities> <when espionage is enabled>",
+	    {
+        "name": "Isnisian Internal Security Agency",
+        "cost": 120,
+	"maintenance": 5,
+        "isNationalWonder": true,
+        "uniques": [
+            "New spies start with [1] level(s)",
+            "Promotes all spies [1] time(s)",
+            "Gain an extra spy", // Order is significant here
+			"[-15]% enemy spy effectiveness [in this city]",
 			"Cost increases by [30] per owned city",
-			"[+10]% [Happiness] [in all cities]",
-			"Unsellable",
-			"Limited to [1] per Civilization"],
-		"requiredTech": "Radio"
-	},
+	
+			"[+10]% [Happiness] [in all cities]"],
+        "requiredTech": "Radio"
+    },
 	{
 		"name": "Ixuniska Ironworks",
 		"replaces": "Ironworks",
