@@ -1,6 +1,8 @@
 [
 	    {
         "name": "Isnisian Internal Security Agency",
+	"replaces": "National Intelligence Agency",
+	"uniqueTo": "Isnisia",
         "cost": 120,
 	"maintenance": 5,
         "isNationalWonder": true,
