@@ -7,7 +7,7 @@
         "uniques": [
             "New spies start with [1] level(s)",
             "Promotes all spies [1] time(s)",
-            "Gain an extra spy", // Order is significant here
+            "Gain an extra spy",
 			"[-15]% enemy spy effectiveness [in this city]",
 			"Cost increases by [30] per owned city",
 	
