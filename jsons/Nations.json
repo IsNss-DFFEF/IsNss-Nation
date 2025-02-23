@@ -29,7 +29,7 @@
 		"tradeRequest": "I offer this cooperation to benefit both of our regimes.",
 
 		"outerColor": [0,0,0],
-		"innerColor": [0,150,255],
+		"innerColor": [10,150,255],
 		"uniqueName": "Veneration of Development and Defense",
 		"uniques": [
 			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Military Base] buildings",
