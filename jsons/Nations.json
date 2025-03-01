@@ -10,20 +10,20 @@
 		"startIntroPart1": "Oh great IsNss, you have marshalled the previously decadent, depraved, and hedonistic nation of Isnisia, whose elite for so long prioritized riches and pleasure over the security of the nation. From the rapid industrialization and modernization of the nation's previously trade-based economy, and the mobilization of millions upon millions of men ready to die for their country, the nation has pushed itself well above its international rivals, and is fully prepared and committed to the rightful expansion and conquest of the glorious Isnisia.",
 		"startIntroPart2": "Supreme Leader IsNss, will you lead the newly armed nation into victory, or utter defeat? Will your empire, last a thousand years, or will it crumble and devolve back into greed-driven and shortsighted squabbling?",
 		
-		"declaringWar": "Your puny empire has been a stain on my map ever since I've encountered it. Today I shall cleanly wipe it from the world itself.",
+		"declaringWar": "Your puny empire has been a stain on my maps ever since I've uncovered it. Today I shall paint it a nice shade of blue.",
 		"attacked": "Very well.",
 		"defeated": "So shall it be...",
 		"introduction": "Greetings, behind me stands the eternal and beautifully efficient Isnisian empire. I wish our nations may never come across eachother.",
 		
 		"neutralHello": "I yet have plans for your nation.",
-		"neutralLetsHearIt": ["What is it?","Yes?","What do you offer?"],
-		"neutralNo": ["I cannot accept.","I refuse.","No."],
-		"neutralYes": ["Alright.","Indeed.","Marvelous."],
+		"neutralLetsHearIt": ["What is it?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Alright."],
 
 		"hateHello": "I will burn your empire to the ground.",
-		"hateLetsHearIt": ["What?","...","Go on."],
-		"hateNo": ["I cannot accept.","I refuse.","No."],
-		"hateYes": ["Alright.","Great.","Very well."],
+		"hateLetsHearIt": ["What?"],
+		"hateNo": ["No."],
+		"hateYes": ["Very well."],
 		
 		"afterPeace": "This war may not have been decisive, yet the next will be.",
 		"tradeRequest": "I offer this cooperation to benefit both of our regimes.",
