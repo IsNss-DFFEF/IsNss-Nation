@@ -79,7 +79,7 @@
   {
 		"name": "Repression II",
     "prerequisites": ["Repression I"],
-		"uniques": ["[+50%] Strength <vs [Barbarian] units>","[+25]% Strength <within [0] tiles of a [City]>"],
+		"uniques": ["[+50%] Strength <vs [Barbarian] units>","[+25]% Strength <within [1] tiles of a [City]>"],
 		"unitTypes": ["IISA"],
         "column": 54,
         "row": 3
