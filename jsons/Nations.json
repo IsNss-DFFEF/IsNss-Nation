@@ -40,5 +40,46 @@
 			"[+2 Science, +2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]"
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy","Liwina"]
+	},
+	{
+		"name": "Isnisia2",
+		"leaderName": "IsNss",
+		"adjective": ["Isnisian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		"personality": "IsNss",
+		
+		"startIntroPart1": "'I will build a great road' IsNss muttered,",
+		"startIntroPart2": "And a great road he shall build.",
+		
+		"declaringWar": "Your roads are shit!",
+		"attacked": "Very well.",
+		"defeated": "So shall it be...",
+		"introduction": "Greetings.",
+		
+		"neutralHello": "Would you like me to replace your entire road system?",
+		"neutralLetsHearIt": ["What is it?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Alright."],
+
+		"hateHello": "Improve your road planning!",
+		"hateLetsHearIt": ["What?"],
+		"hateNo": ["No."],
+		"hateYes": ["Very well."],
+		
+		"afterPeace": "Ok.",
+		"tradeRequest": "My roads will last longer than your empire",
+
+		"outerColor": [38,38,104],
+		"innerColor": [255,192,0],
+		"uniqueName": "Roadbuilders",
+		"uniques": [
+			"[+1 Culture, +1 Production] from [Road] tiles [in all cities]",
+			"[+1 Culture, +1 Food, +2 Production] from [Railroad] tiles [in all cities]",
+			"[+1 Happiness, +1 Culture] from each Trade Route",
+			"[-33]% maintenance on road & railroads",
+			"Can build [All Road] improvements at a [+25]% rate"
+		]
+		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren","Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon","Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin","Kistrisxy","Liwina"]
 	}
 ]
