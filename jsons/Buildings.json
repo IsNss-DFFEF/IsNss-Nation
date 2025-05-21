@@ -36,5 +36,16 @@
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
 	},
+		{
+		"name": "6 Lane Highway",
+		"uniqueTo": "Isnisia2",
+		"cost": 200,
+		"production": 3,
+		"happiness": 1,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": [],
+		"requiredTech": "Plastics"
+	},
 
 ]
