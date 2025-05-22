@@ -39,5 +39,52 @@
 			}
 		],
 		"attackSound": "tankshot"
+	},
+		{
+		"name": "Toyota Hilux",
+		"unitType": "Armored",
+		"uniqueTo": "Isnisia2",
+		"replaces": "Marines",
+		"range": 1,
+		"movement": 3,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Plastic",
+		"requiredResource": "Oil",
+		"promotions": ["March"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Rough terrain penalty",
+			"[+20]% Strength <when fighting in [All Road] tiles>",
+			"[+20]% Strength <when fighting in [Open] tiles>",
+			"[+2] Movement <in [All Road] tiles>"]
+		"civilopediaText": [
+			{
+				"text": "Toyota War"
+			}
+		],
+		"attackSound": "tankshot"
+	},
+			{
+		"name": "Railway Gun",
+		"unitType": "Armored",
+		"uniqueTo": "Isnisia2",
+		"range": 4,
+		"movement": 1,
+		"strength": 30,
+		"rangedStrength": 50,
+		"cost": 250,
+		"requiredTech": "Combustion",
+		"requiredResource": "Oil",
+		"promotions": ["Indirect Fire"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"[-1] Sight", "Never appears as a Barbarian unit",
+			"[+7] Movement <in [Railroad] tiles>","Consumes [1] [Iron]",
+			"[This Unit] takes [60] damage <in tiles without [Railroad]>"]
+		"civilopediaText": [
+			{
+				"text": "A gun on rails"
+			}
+		],
+		"attackSound": "tankshot"
 	}
 ]
