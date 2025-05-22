@@ -43,7 +43,7 @@
 		{
 		"name": "Toyota Hilux",
 		"unitType": "Armored",
-		"uniqueTo": "Isnisia2",
+		"uniqueTo": "Isnisistan",
 		"replaces": "Marine",
 		"range": 1,
 		"movement": 3,
@@ -67,7 +67,7 @@
 			{
 		"name": "Railway Gun",
 		"unitType": "Armored",
-		"uniqueTo": "Isnisia2",
+		"uniqueTo": "Isnisistan",
 		"range": 4,
 		"movement": 1,
 		"strength": 30,
