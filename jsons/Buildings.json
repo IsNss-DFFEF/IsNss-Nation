@@ -43,7 +43,6 @@
 		"production": 3,
 		"happiness": 1,
 		"culture": 1,
-		"isNationalWonder": true,
 		"uniques": [],
 		"requiredTech": "Plastics"
 	},
