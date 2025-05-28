@@ -55,8 +55,8 @@
 		"promotions": ["March"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Rough terrain penalty",
 			"[+20]% Strength <when fighting in [All Road] tiles>",
-			"[+20]% Strength <when fighting in [Open] tiles>",
-			"[+2] Movement <in [All Road] tiles>"]
+			"[+20]% Strength <when fighting in [Open terrain] tiles>",
+			"[+1] Movement <in [All Road] tiles>"]
 		"civilopediaText": [
 			{
 				"text": "Toyota War"
@@ -68,7 +68,7 @@
 		"name": "Railway Gun",
 		"unitType": "Armored",
 		"uniqueTo": "Isnisistan",
-		"range": 4,
+		"range": 3,
 		"movement": 1,
 		"strength": 30,
 		"rangedStrength": 50,
@@ -76,10 +76,10 @@
 		"requiredTech": "Combustion",
 		"requiredResource": "Oil",
 		"promotions": ["Indirect Fire"],
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+		"uniques": ["No defensive terrain bonus",
 			"[-1] Sight", "Never appears as a Barbarian unit",
 			"[+7] Movement <in [Railroad] tiles>","Consumes [1] [Iron]",
-			"[This Unit] takes [60] damage <in tiles without [Railroad]>"]
+			"[-100]% Strength <in tiles without [Railroad]>"]
 		"civilopediaText": [
 			{
 				"text": "A gun on rails"
