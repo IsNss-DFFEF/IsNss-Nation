@@ -7,8 +7,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "IsNssA",
 		
-		"startIntroPart1": "Oh great IsNss, you have marshalled the previously decadent, depraved, and hedonistic nation of Isnisia, whose elite for so long prioritized riches and pleasure over the security of the nation. From the rapid industrialization and modernization of the nation's previously trade-based economy, and the mobilization of millions upon millions of men ready to die for their country, the nation has pushed itself well above its international rivals, and is fully prepared and committed to the rightful expansion and conquest of the glorious Isnisia.",
-		"startIntroPart2": "Supreme Leader IsNss, will you lead the newly armed nation into victory, or utter defeat? Will your empire, last a thousand years, or will it crumble and devolve back into greed-driven and shortsighted squabbling?",
+		"startIntroPart1": "'Millions shall die' IsNss muttered,",
+		"startIntroPart2": "But trillions shall.",
 		
 		"declaringWar": "Your puny empire has been a stain on my maps ever since I've uncovered it. Today I shall paint it a nice shade of blue.",
 		"attacked": "Very well.",
@@ -35,7 +35,8 @@
 			"[+1 Culture, +1 Happiness] from all [Barracks] buildings",
 			"[+1 Culture, +1 Production] from [Fort] tiles [in all cities]",
 			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Heroic Epic] buildings",
-			"[+2 Science, +2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]"
+			"[+2 Science, +2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
+			"[+1 Happiness, +1 Culture] [in all cities with a garrison]",
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
@@ -71,7 +72,7 @@
 		"uniques": [
 			"[+1 Culture, +1 Production] from [Road] tiles [in all cities]",
 			"[+2 Culture, +1 Food, +1 Production] from [Railroad] tiles [in all cities]",
-			"[+1 Happiness, +1 Culture] from each Trade Route",
+			"[+1 Happiness, +1 Culture] [in all cities connected to capital]",
 			"[-33]% maintenance on road & railroads",
 			"Can build [All Road] improvements at a [+25]% rate"
 		]
