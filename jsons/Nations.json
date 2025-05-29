@@ -27,14 +27,15 @@
 		"innerColor": [10,150,255],
 		"uniqueName": "Veneration of Development and Defense",
 		"uniques": [
-			"[+1 Science, +1 Production] from all [Military Base] buildings",
 			"[+1 Science, +1 Production] from all [Arsenal] buildings",
+			"[+1 Science, +1 Production] from all [Castle] buildings",
 			"[+1 Science, +1 Production] from all [Walls] buildings",
 			"[+1 Culture, +1 Happiness] from all [Military Academy] buildings",
 			"[+1 Culture, +1 Happiness] from all [Armory] buildings",
 			"[+1 Culture, +1 Happiness] from all [Barracks] buildings",
-			"[+1 Culture, +1 Production] from [Fort] tiles [in all cities]",
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Military Base] buildings",
 			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Heroic Epic] buildings",
+			"[+1 Culture, +1 Production] from [Fort] tiles [in all cities]",
 			"[+2 Science, +2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"[+1 Happiness, +1 Culture] [in all cities with a garrison]",
 		]
