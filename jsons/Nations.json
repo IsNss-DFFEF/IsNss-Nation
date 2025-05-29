@@ -27,11 +27,14 @@
 		"innerColor": [10,150,255],
 		"uniqueName": "Veneration of Development and Defense",
 		"uniques": [
-			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Military Base] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Arsenal] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Castle] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Walls] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from [Fort] tiles [in all cities]",
+			"[+1 Science, +1 Production] from all [Military Base] buildings",
+			"[+1 Science, +1 Production] from all [Arsenal] buildings",
+			"[+1 Science, +1 Production] from all [Walls] buildings",
+			"[+1 Culture, +1 Happiness] from all [Military Academy] buildings",
+			"[+1 Culture, +1 Happiness] from all [Armory] buildings",
+			"[+1 Culture, +1 Happiness] from all [Barracks] buildings",
+			"[+1 Culture, +1 Production] from [Fort] tiles [in all cities]",
+			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Heroic Epic] buildings",
 			"[+2 Science, +2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]"
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
@@ -44,22 +47,22 @@
 		"leaderName": "IsNss",
 		"adjective": ["Isnisian"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
 		"personality": "IsNssB",
 		
 		"startIntroPart1": "'I will build a great road' IsNss muttered,",
 		"startIntroPart2": "And a great road he shall build.",
 		
 		"declaringWar": "Your roads are shit!",
-		"attacked": "Very well.",
-		"defeated": "So shall it be...",
+		"attacked": "Alright, alright...",
+		"defeated": "My roads will last longer than your empire.",
 		"introduction": "Greetings.",
 		
 		"neutralHello": "Would you like me to replace your entire road system?",
 		"hateHello": "Improve your road planning!",
 		
 		"afterPeace": "Ok.",
-		"tradeRequest": "My roads will last longer than your empire.",
+		"tradeRequest": "I have for you 30L of asphalt.",
 		"denounced": "You're banned from my transit systems!",
 
 		"outerColor": [38,38,104],
@@ -67,14 +70,11 @@
 		"uniqueName": "Roadbuilders",
 		"uniques": [
 			"[+1 Culture, +1 Production] from [Road] tiles [in all cities]",
-			"[+1 Culture, +1 Food, +2 Production] from [Railroad] tiles [in all cities]",
+			"[+2 Culture, +1 Food, +1 Production] from [Railroad] tiles [in all cities]",
 			"[+1 Happiness, +1 Culture] from each Trade Route",
 			"[-33]% maintenance on road & railroads",
 			"Can build [All Road] improvements at a [+25]% rate"
 		]
-		"cities": ["Metropolita","Solaile","Emerra","Vinitra","Congregacione",
-			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
-			"Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin",
-			"Kistrisxy","Liwina"]
+		"cities": ["Metropolita","Solaile","Emerra","Vinitra","Congregacione"]
 	}
 ]
