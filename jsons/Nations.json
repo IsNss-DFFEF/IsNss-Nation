@@ -35,7 +35,7 @@
 			"[+1 Culture, +1 Happiness] from all [Armory] buildings",
 			"[+1 Culture, +1 Happiness] from all [Barracks] buildings",
 			"[+1 Culture, +2 Happiness, +2 Production] from all [Heroic Epic] buildings",
-			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [2] tiles of a [City Center]>",
+			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [2] tiles of a [City center]>",
 			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"[+1 Happiness, +1 Culture] [in all cities with a garrison]",
 		]
