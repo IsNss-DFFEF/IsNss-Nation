@@ -32,13 +32,15 @@
 			"[+10] HP when healing <within [1] tiles of a [City center]>",
 			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"[+1 Culture, +2 Happiness, +2 Production] from all [Heroic Epic] buildings",
-			"Remove [all] and refund [120]% of its cost <upon entering the [Classical]>",
-			"Remove [all] and refund [120]% of its cost <upon entering the [Medieval]>",
-			"Remove [all] and refund [120]% of its cost <upon entering the [Renaissance]>",
-			"Remove [all] and refund [110]% of its cost <upon entering the [Industrial]>",
-			"Remove [all] and refund [110]% of its cost <upon entering the [Modern]>",
-			"Remove [all] and refund [110]% of its cost <upon entering the [Information]>",
-			"Remove [all] and refund [110]% of its cost <upon entering the [Future]>",
+			"Remove [Tradition] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Honor] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Piety] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Patronage] and refund [120]% of its cost <upon entering a new era>"
+			"Remove [Commerce] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Rationalism] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Freedom] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Order] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Autocracy] and refund [120]% of its cost <upon entering a new era>",
 			"Comment [Cannot adopt Liberty]"
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
