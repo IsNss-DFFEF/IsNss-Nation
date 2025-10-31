@@ -9,7 +9,7 @@
             "Domination": 10,
             "Scientific": 10
         },
-        "uniques": ["[+1 Culture] [in all cities]"],
+        "uniques": ["[+1 Culture] [in all cities]", "Unavailable <for [Isnisia] Civilizations>"],
         "policies": [
             {
                 "name": "Republic",
