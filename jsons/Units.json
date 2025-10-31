@@ -4,8 +4,8 @@
 		"unitType": "IISA",
 		"uniqueTo": "Isnisia",
 		"movement": 2,
-		"maintenance": 3
-		"strength": 80,
+		"maintenance": 4
+		"strength": 75,
 		"cost": 400,
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
@@ -13,7 +13,7 @@
 			"Only available <in cities with a [Internal Isnisian Security Administration]>",]
 		"civilopediaText": [
 			{
-				"text": "The empire's feared police force, few in number yet extremely powerful on the battlefield. This unit's mere presence puts fear deep into the hearts of those bearing the misfortune of encountering it on the frontline."
+				"text": "The Isnisian empire's feared police force, few in number yet extremely powerful on the battlefield. This unit's mere presence puts fear deep into the hearts of those bearing the misfortune of encountering it on the frontline."
 			}
 		],
 		"attackSound": "shot"
@@ -35,53 +35,6 @@
 		"civilopediaText": [
 			{
 				"text": "The InLA-40 is the empire's powerful heavy tank. It boldly drives into battle with its shiny steel hull, almost impenetrable. Its prowess on the battlefield almost unmatched for 40 years before finally being outperformed by modern technology. Yet it still saw some use in modern campaigns."
-			}
-		],
-		"attackSound": "tankshot"
-	},
-		{
-		"name": "Toyota Hilux",
-		"unitType": "Armored",
-		"uniqueTo": "Isnisistan",
-		"replaces": "Marine",
-		"range": 1,
-		"movement": 3,
-		"strength": 60,
-		"rangedStrength": 60,
-		"cost": 350,
-		"requiredTech": "Plastics",
-		"requiredResource": "Oil",
-		"promotions": ["March"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Rough terrain penalty",
-			"[+20]% Strength <when fighting in [All Road] tiles>",
-			"[+20]% Strength <when fighting in [Open terrain] tiles>",
-			"[+1] Movement <in [All Road] tiles>"]
-		"civilopediaText": [
-			{
-				"text": "Toyota War"
-			}
-		],
-		"attackSound": "tankshot"
-	},
-			{
-		"name": "Railway Gun",
-		"unitType": "Armored",
-		"uniqueTo": "Isnisistan",
-		"range": 3,
-		"movement": 1,
-		"strength": 30,
-		"rangedStrength": 50,
-		"cost": 250,
-		"requiredTech": "Combustion",
-		"requiredResource": "Oil",
-		"promotions": ["Indirect Fire"],
-		"uniques": ["No defensive terrain bonus",
-			"[-1] Sight", "Never appears as a Barbarian unit",
-			"[+7] Movement <in [Railroad] tiles>","Consumes [1] [Iron]",
-			"[-100]% Strength <in tiles without [Railroad]>"]
-		"civilopediaText": [
-			{
-				"text": "A gun on rails"
 			}
 		],
 		"attackSound": "tankshot"
