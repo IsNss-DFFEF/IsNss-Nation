@@ -10,17 +10,17 @@
 		"startIntroPart1": "The question must be asked, what is the price of peace and security? Everything has a cost, especially survival. Armies to protect a nation cost men and weapons, which cost food and materiale, neither of which are in secure supply. The obvious answer is to secure that supply. Land and resources are abundant in the world of Unciv if you look in the right place. However, every other nation must answer the same question, and naturally, every nation will be driven to expansion. The resources of Unciv are vast but finite, there will inevitably be some who will have less power than those around them. So what will be one's answer then? Once nations are set in stone and can only advance by taking the chisel of war, one must become a stronger stone, a stone which cannot be sculpted by mere chisels. Resilience allows nations to survive even the greatest of catastrophes, to be able reforge oneself is equivalent to immortality.",
 		"startIntroPart2": "Can you, IsNss, bear this cost of survival? Can you find the resilience to weather an eternal catastrophe? Can you build an empire that can withstand the test of time?",
 		
-		"declaringWar": "There are times when war is the only way forward for a nation",
-		"attacked": "Very well.",
-		"defeated": "Unfortunate.",
+		"declaringWar": "There are times when war is the only way forward for a nation.",
+		"attacked": "The fire rises.",
+		"defeated": "Overheating makes steel brittle.",
 		
 		"introduction": "Greetings, behind me stands the eternal and beautifully efficient Isnisian empire. I wish our nations may never come across eachother.",
 		
-		"neutralHello": "I yet have plans for your nation.",
-		"hateHello": "I will burn your empire to the ground.",
+		"neutralHello": "Hello.",
+		"hateHello": "Inane.",
 
-		"afterPeace": "This war may not have been decisive, yet the next will be.",
-		"tradeRequest": "I offer this cooperation to benefit both of our regimes.",
+		"afterPeace": "This fire was transformative, but the next may become destructive.",
+		"tradeRequest": "We may reforge eachother.",
 		"denounced": "I see.",
 
 		"outerColor": [30,35,45],
