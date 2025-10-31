@@ -13,7 +13,7 @@
 			"[-15]% enemy spy effectiveness [in this city]",
 			"Cost increases by [30] per owned city",
 	
-			"[+10]% [Happiness] [in all cities]"],
+			"[-10]% [Unhappiness] [in all cities]"],
         "requiredTech": "Radio"
     },
 	{
@@ -26,6 +26,8 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Electronics",
-		"uniques": ["Destroyed when the city is captured", "[+1 Production, +1 Science] from every [Fort] <within [1] tiles of a [City Center]>"]
+		"uniques": ["Destroyed when the city is captured",
+			"[+1 Production, +1 Science] from every [Fort] <within [1] tiles of a [City Center]> <in this city>",
+			"[+1 Production, +1 Science] from every [Fort] <within [1] tiles of a [Citadel]> <in this city>"]
 	},
 ]
