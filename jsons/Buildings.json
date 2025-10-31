@@ -35,32 +35,5 @@
 		"specialistSlots": {"Engineer": 4},
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
-	},
-		{
-		"name": "6 Lane Highway",
-		"uniqueTo": "Isnisistan",
-		"cost": 400,
-		"percentStatBonus": {"production": 25},
-		"production": 3,
-		"happiness": 1,
-		"culture": 1,
-		"uniques": ["[-1] population [in this city] <with [1]% chance> <every [4] turns>"],
-		"requiredTech": "Plastics"
-	}
-			{
-		"name": "48 Lane Highway",
-		"uniqueTo": "Isnisistan",
-		"cost": 400,
-		"percentStatBonus": {"production": 25},
-		"production": 3,
-		"happiness": 1,
-		"culture": 1,
-		"isNationalWonder": true,
-		"uniques": ["Only available <if [6 Lane Highway] is constructed in all [non-[Puppeted]] cities>",
-			"Cost increases by [80] per owned city",
-			"Unsellable",
-			"Limited to [1] per Civilization",
-			"[-1] population [in this city] <with [2]% chance> <every [1] turns>"]
-		"requiredTech": "Plastics"
 	}
 ]
