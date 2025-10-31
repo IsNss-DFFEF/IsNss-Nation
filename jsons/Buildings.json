@@ -3,10 +3,10 @@
         "name": "Internal Isnisian Security Administration",
 	"replaces": "National Intelligence Agency",
 	"uniqueTo": "Isnisia",
-        "cost": 120,
+    "cost": 120,
 	"maintenance": 5,
-        "isNationalWonder": true,
-        "uniques": [
+	"isNationalWonder": true,
+    "uniques": [
             "New spies start with [1] level(s)",
             "Promotes all spies [1] time(s)",
             "Gain an extra spy",
@@ -17,23 +17,15 @@
         "requiredTech": "Radio"
     },
 	{
-		"name": "Ixuniska Ironworks",
-		"replaces": "Ironworks",
+		"name": "Fortress Complex",
+		"replaces": "Military Base",
 		"uniqueTo": "Isnisia",
-		"cost": 200,
-		"production": 4,
-		"science": 2,
-		"happiness": 2,
-		"culture": 2,
-		"isNationalWonder": true,
-		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>",
-			"Gain a free [Factory] [in this city]",
-			"Cost increases by [30] per owned city",
-			"Provides [6] [Iron]",
-			"Unsellable",
-			"Limited to [1] per Civilization"],
-		"specialistSlots": {"Engineer": 4},
-		"requiredResource": "Coal",
-		"requiredTech": "Industrialization"
-	}
+		"cityStrength": 24,
+		"cityHealth": 50,
+		"maintenance": 4,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arsenal",
+		"requiredTech": "Electronics",
+		"uniques": ["Destroyed when the city is captured", "[+1 Production, +1 Science] from every [Fort] <within [1] tiles of a [City Center]>"]
+	},
 ]
