@@ -1,6 +1,6 @@
 [
   {
-      "name": "IsNssA",
+      "name": "IsNss",
       "culture": 8,
       "faith": 2,
       "food": 6,
@@ -31,38 +31,5 @@
           "Authority": 8,
           "Development": 0,
           "Innovation": 5}
-      },
-  {
-      "name": "IsNssB",
-      "culture": 6,
-      "faith": 2,
-      "food": 8,
-      "gold": 8,
-      "happiness": 6,
-      "production": 6,
-      "science": 6,
-      "military": 7,
-      "aggressive": 4,
-      "declareWar": 5,
-      "commerce": 9,
-      "diplomacy": 8,
-      "loyal": 10,
-      "expansion": 6,
-
-      "priorities": {
-          "Tradition": 10,
-          "Liberty": 0,
-          "Honor": 0,
-          "Commerce": 8,
-          "Patronage": 2,
-          "Piety": 2,
-          "Rationalism": 6,
-          "Freedom": 0
-          "Autocracy": 0,
-          "Order": 10,
-        
-          "Authority": 0,
-          "Development": 10,
-          "Innovation": 0}
       }
     ]
