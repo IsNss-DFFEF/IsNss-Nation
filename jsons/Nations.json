@@ -7,12 +7,18 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "IsNssA",
 		
-		"startIntroPart1": "'Millions shall die' IsNss muttered,",
-		"startIntroPart2": "But trillions shall.",
+		"startIntroPart1": "The question must be asked, what is the price of peace and security?",
+		"startIntroPart2": "Everything has a cost, especially survival. Armies to protect a nation cost men and weapons, which cost food and materiale, neither of which are in secure supply. The obvious answer is to secure that supply. Land and resources are abundant in the world of Unciv if you look in the right place.",
+		"startIntroPart3": "However, every other nation must answer the same question, and naturally, every nation will be driven to expansion. The resources of Unciv are vast but finite, there will inevitably be some who will have less power than those around them.",
+		"startIntroPart4": "So what will be one's answer then?", 
+		"startIntroPart5": "Once nations are set in stone and can only advance by taking the chisel of war, one must become a stronger stone, a stone which cannot be sculpted by mere chisels.",
+		"startIntroPart6": "Resilience allows nations to survive even the greatest of catastrophes, to be able reforge oneself is equivalent to immortality.",
+		"startIntroPart7": "Can you, IsNss, bear this cost of survival? Can you find the resilience to weather an eternal catastrophe?",
+		"startIntroPart8": "Can you build an empire that can withstand the test of time?",
 		
-		"declaringWar": "Your puny empire has been a stain on my maps ever since I've uncovered it. Today I shall paint it a nice shade of blue.",
+		"declaringWar": "There are times when war is the only way forward for a nation",
 		"attacked": "Very well.",
-		"defeated": "So shall it be...",
+		"defeated": "Unfortunate.",
 		
 		"introduction": "Greetings, behind me stands the eternal and beautifully efficient Isnisian empire. I wish our nations may never come across eachother.",
 		
@@ -25,19 +31,9 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [10,150,255],
-		"uniqueName": "Veneration of Development and Defense",
+		"uniqueName": "Eternal Reforging",
 		"uniques": [
-			"[+1 Production, +1 Culture] from all [Arsenal] buildings",
-			"[+1 Production, +1 Culture] from all [Castle] buildings",
-			"[+1 Production, +1 Culture] from all [Walls] buildings",
-			"[+1 Production, +1 Culture] from all [Military Base] buildings",
-			"[+1 Culture, +1 Happiness] from all [Military Academy] buildings",
-			"[+1 Culture, +1 Happiness] from all [Armory] buildings",
-			"[+1 Culture, +1 Happiness] from all [Barracks] buildings",
-			"[+1 Culture, +2 Happiness, +2 Production] from all [Heroic Epic] buildings",
-			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [2] tiles of a [City center]>",
-			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
-			"[+1 Happiness, +1 Culture] [in all cities with a garrison]",
+			"Remove [all] and refund [120]% of its cost <upon entering a new era>",
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
