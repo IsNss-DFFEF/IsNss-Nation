@@ -21,62 +21,26 @@
 
 		"afterPeace": "This war may not have been decisive, yet the next will be.",
 		"tradeRequest": "I offer this cooperation to benefit both of our regimes.",
-		"denounced": "I see...",
+		"denounced": "I see.",
 
 		"outerColor": [0,0,0],
 		"innerColor": [10,150,255],
 		"uniqueName": "Veneration of Development and Defense",
 		"uniques": [
-			"[+1 Science, +1 Production] from all [Arsenal] buildings",
-			"[+1 Science, +1 Production] from all [Castle] buildings",
-			"[+1 Science, +1 Production] from all [Walls] buildings",
+			"[+1 Production, +1 Culture] from all [Arsenal] buildings",
+			"[+1 Production, +1 Culture] from all [Castle] buildings",
+			"[+1 Production, +1 Culture] from all [Walls] buildings",
+			"[+1 Production, +1 Culture] from all [Military Base] buildings",
 			"[+1 Culture, +1 Happiness] from all [Military Academy] buildings",
 			"[+1 Culture, +1 Happiness] from all [Armory] buildings",
 			"[+1 Culture, +1 Happiness] from all [Barracks] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Military Base] buildings",
-			"[+1 Science, +1 Culture, +1 Happiness, +1 Production] from all [Heroic Epic] buildings",
-			"[+1 Culture, +1 Production] from [Fort] tiles [in all cities]",
-			"[+2 Science, +2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
+			"[+1 Culture, +2 Happiness, +2 Production] from all [Heroic Epic] buildings",
+			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [City Center]>",
+			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"[+1 Happiness, +1 Culture] [in all cities with a garrison]",
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
 			"Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin",
 			"Kistrisxy","Liwina"]
-	},
-	{
-		"name": "Isnisistan",
-		"leaderName": "IsNss",
-		"adjective": ["Isnisian"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		"personality": "IsNssB",
-		
-		"startIntroPart1": "'I will build a great road' IsNss muttered,",
-		"startIntroPart2": "And a great road he shall build.",
-		
-		"declaringWar": "Your roads are shit!",
-		"attacked": "Alright, alright...",
-		"defeated": "My roads will last longer than your empire.",
-		"introduction": "Greetings.",
-		
-		"neutralHello": "Would you like me to replace your entire road system?",
-		"hateHello": "Improve your road planning!",
-		
-		"afterPeace": "Ok.",
-		"tradeRequest": "I have for you 30L of asphalt.",
-		"denounced": "You're banned from my transit systems!",
-
-		"outerColor": [38,38,104],
-		"innerColor": [255,192,0],
-		"uniqueName": "Roadbuilders",
-		"uniques": [
-			"[+1 Culture, +1 Production] from [Road] tiles [in all cities]",
-			"[+2 Culture, +1 Food, +1 Production] from [Railroad] tiles [in all cities]",
-			"[+1 Happiness, +1 Culture] [in all cities connected to capital]",
-			"[-33]% maintenance on road & railroads",
-			"Can build [All Road] improvements at a [+25]% rate"
-		]
-		"cities": ["Metropolita","Solaile","Emerra","Vinitra","Congregacione"]
-	}
-]
+	}]
