@@ -27,21 +27,16 @@
 		"innerColor": [30,120,205],
 		"uniqueName": "Stronger than Steel",
 		"uniques": [
-			"[-33%] construction time for [Fort] improvements",
-			"[+1 Culture, +1 Happiness] from every [Fort] <within [1] tiles of a [City center]>",
-			"[+10] HP when healing <within [1] tiles of a [City center]>",
-			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
-			"[+1 Culture, +2 Happiness, +2 Production] from all [Heroic Epic] buildings",
-			"Remove [Tradition] and refund [120]% of its cost <upon entering a new era>",
-			"Remove [Honor] and refund [120]% of its cost <upon entering a new era>",
-			"Remove [Piety] and refund [120]% of its cost <upon entering a new era>",
-			"Remove [Patronage] and refund [120]% of its cost <upon entering a new era>"
-			"Remove [Commerce] and refund [120]% of its cost <upon entering a new era>",
-			"Remove [Rationalism] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Tradition] and refund [120]% of its cost <upon entering a new era>", "Remove [Tradition] and refund [120]% of its cost <upon entering a new era>","Remove [Aristocracy] and refund [120]% of its cost <upon entering a new era>","Remove [Oligarchy] and refund [120]% of its cost <upon entering a new era>","Remove [Landed Elite] and refund [120]% of its cost <upon entering a new era>","Remove [Monarchy] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Liberty] and refund [120]% of its cost <upon entering a new era>","Remove [Republic] and refund [120]% of its cost <upon entering a new era>","Remove [Organized Religion] and refund [120]% of its cost <upon entering a new era>","Remove [Meritocracy] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Honor] and refund [120]% of its cost <upon entering a new era>","Remove [Military Tradition] and refund [120]% of its cost <upon entering a new era>","Remove [Discipline] and refund [120]% of its cost <upon entering a new era>","Remove [Military Caste] and refund [120]% of its cost <upon entering a new era>","Remove [Professional Army] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Piety] and refund [120]% of its cost <upon entering a new era>","Remove [Free Religion] and refund [120]% of its cost <upon entering a new era>","Remove [Theocracy] and refund [120]% of its cost <upon entering a new era>","Remove [Mandate of Heaven] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Patronage] and refund [120]% of its cost <upon entering a new era>","Remove [Educated Elite] and refund [120]% of its cost <upon entering a new era>","Remove [Cultural Diplomacy] and refund [120]% of its cost <upon entering a new era>","Remove [Scholasticism] and refund [120]% of its cost <upon entering a new era>","Remove [Aesthetics] and refund [120]% of its cost <upon entering a new era>","Remove [Philantropy] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Commerce] and refund [120]% of its cost <upon entering a new era>","Remove [Protectionism] and refund [120]% of its cost <upon entering a new era>","Remove [Mercantilism] and refund [120]% of its cost <upon entering a new era>","Remove [Trade Unions] and refund [120]% of its cost <upon entering a new era>","Remove [Merchant Navy] and refund [120]% of its cost <upon entering a new era>",
+			"Remove [Rationalism] and refund [120]% of its cost <upon entering a new era>","Remove [Secularism] and refund [120]% of its cost <upon entering a new era>","Remove [Free Thought] and refund [120]% of its cost <upon entering a new era>","Remove [Scientific Revolution] and refund [120]% of its cost <upon entering a new era>","Remove [Humanism] and refund [120]% of its cost <upon entering a new era>","Remove [Sovereignty] and refund [120]% of its cost <upon entering a new era>",
 			"Remove [Freedom] and refund [120]% of its cost <upon entering a new era>",
 			"Remove [Order] and refund [120]% of its cost <upon entering a new era>",
 			"Remove [Autocracy] and refund [120]% of its cost <upon entering a new era>",
-			"Comment [Cannot adopt Liberty]"
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
