@@ -13,7 +13,7 @@
 			"[-15]% enemy spy effectiveness [in this city]",
 			"Cost increases by [30] per owned city",
 	
-			"[-10]% [Unhappiness] [in all cities]"],
+			"[-10]% Unhappiness from Population in [All] cities"],
         "requiredTech": "Radio"
     },
 	{
