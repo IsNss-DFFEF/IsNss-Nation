@@ -3,7 +3,7 @@
 		"name": "Isnisia",
 		"leaderName": "IsNss",
 		"adjective": ["Isnisian"],
-		"startBias": ["River","Coal","Avoid [Tundra]","Avoid [Snow]"],
+		"startBias": ["River","Mountain","Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "IsNss",
 		
@@ -23,11 +23,13 @@
 		"tradeRequest": "I offer this cooperation to benefit both of our regimes.",
 		"denounced": "I see.",
 
-		"outerColor": [0,0,0],
-		"innerColor": [10,150,255],
+		"outerColor": [60,70,90],
+		"innerColor": [60,100,160],
 		"uniqueName": "Stronger than Steel",
 		"uniques": [
+			"[-33%] construction time for [Fort] improvements",
 			"[+1 Culture, +1 Happiness] from every [Fort] <within [1] tiles of a [City center]>",
+			"[+10] HP when healing <within [1] tiles of a [City center]>",
 			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"[+1 Culture, +2 Happiness, +2 Production] from all [Heroic Epic] buildings",
 			"Remove [all] and refund [120]% of its cost <upon entering a new era>",
