@@ -7,14 +7,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "IsNss",
 		
-		"startIntroPart1": "The question must be asked, what is the price of peace and security?",
-		"startIntroPart2": "Everything has a cost, especially survival. Armies to protect a nation cost men and weapons, which cost food and materiale, neither of which are in secure supply. The obvious answer is to secure that supply. Land and resources are abundant in the world of Unciv if you look in the right place.",
-		"startIntroPart3": "However, every other nation must answer the same question, and naturally, every nation will be driven to expansion. The resources of Unciv are vast but finite, there will inevitably be some who will have less power than those around them.",
-		"startIntroPart4": "So what will be one's answer then?", 
-		"startIntroPart5": "Once nations are set in stone and can only advance by taking the chisel of war, one must become a stronger stone, a stone which cannot be sculpted by mere chisels.",
-		"startIntroPart6": "Resilience allows nations to survive even the greatest of catastrophes, to be able reforge oneself is equivalent to immortality.",
-		"startIntroPart7": "Can you, IsNss, bear this cost of survival? Can you find the resilience to weather an eternal catastrophe?",
-		"startIntroPart8": "Can you build an empire that can withstand the test of time?",
+		"startIntroPart1": "The question must be asked, what is the price of peace and security? Everything has a cost, especially survival. Armies to protect a nation cost men and weapons, which cost food and materiale, neither of which are in secure supply. The obvious answer is to secure that supply. Land and resources are abundant in the world of Unciv if you look in the right place. However, every other nation must answer the same question, and naturally, every nation will be driven to expansion. The resources of Unciv are vast but finite, there will inevitably be some who will have less power than those around them. So what will be one's answer then? Once nations are set in stone and can only advance by taking the chisel of war, one must become a stronger stone, a stone which cannot be sculpted by mere chisels. Resilience allows nations to survive even the greatest of catastrophes, to be able reforge oneself is equivalent to immortality.",
+		"startIntroPart2": "Can you, IsNss, bear this cost of survival? Can you find the resilience to weather an eternal catastrophe? Can you build an empire that can withstand the test of time?",
 		
 		"declaringWar": "There are times when war is the only way forward for a nation",
 		"attacked": "Very well.",
