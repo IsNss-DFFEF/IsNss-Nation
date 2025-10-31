@@ -6,30 +6,30 @@
       "food": 6,
       "gold": 6,
       "happiness": 8,
-      "production": 10,
+      "production": 8,
       "science": 8,
-      "military": 9,
-      "aggressive": 9,
-      "declareWar": 8,
+      "military": 4,
+      "aggressive": 6,
+      "declareWar": 2,
       "commerce": 3,
       "diplomacy": 4,
-      "loyal": 3,
-      "expansion": 4,
+      "loyal": 10,
+      "expansion": 5,
 
       "priorities": {
-          "Tradition": 0,
+          "Tradition": 5,
           "Liberty": 0,
-          "Honor": 10,
-          "Commerce": 5,
-          "Patronage": 2,
-          "Piety": 2,
-          "Rationalism": 8,
-          "Freedom": 0
-          "Autocracy": 10,
-          "Order": 0,
+          "Honor": 5,
+          "Commerce": 3,
+          "Patronage": 0,
+          "Piety": 0,
+          "Rationalism": 10,
+          "Freedom": 2
+          "Autocracy": 8,
+          "Order": 2,
         
           "Authority": 8,
-          "Development": 0,
+          "Development": 3,
           "Innovation": 5}
       }
     ]
