@@ -29,6 +29,7 @@
 		"uniques": ["Destroyed when the city is captured",
 			"Only available <within [2] tiles of a [Fort]>",
 			"[+1 Production, +1 Science] from every [Fort] <within [2] tiles of a [City center]> <in this city>",
-			"[+1 Production, +1 Science] from every [Fort] <within [2] tiles of a [Citadel]> <in this city>"]
+			"[+1 Production, +1 Science] from every [Fort] <within [1] tiles of a [Citadel]> <in this city>",
+			"[+2 Production, +2 Science] from every [Citadel] <in this city>"]
 	},
 ]
