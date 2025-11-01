@@ -31,7 +31,7 @@
 			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <with [1] to [6] neighboring [Citadel] tiles>",
 			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"[+1 Culture, +2 Happiness, +2 Production] from every [Heroic Epic]",
-			"[10] HP when healing <in [Fort] tiles>","[10] HP when healing <in [Citadel] tiles>",
+			"[10] HP when healing <in [Fort] tiles>","[10] HP when healing <in [Citadel] tiles>","[10] HP when healing <in [City center] tiles>",
 			"Comment [Remove and refund all policies except those that give free units, buildings, or golden ages and the Rationalism policy tree upon entering a new era]",
 			"Remove [Tradition] and refund [120]% of its cost <upon entering a new era> <hidden from users>","Remove [Aristocracy] and refund [120]% of its cost <upon entering a new era> <hidden from users>","Remove [Oligarchy] and refund [120]% of its cost <upon entering a new era> <hidden from users>","Remove [Landed Elite] and refund [120]% of its cost <upon entering a new era> <hidden from users>","Remove [Monarchy] and refund [120]% of its cost <upon entering a new era> <hidden from users>",
 			"Remove [Liberty] and refund [120]% of its cost <upon entering a new era> <hidden from users>","Remove [Republic] and refund [120]% of its cost <upon entering a new era> <hidden from users>","Remove [Meritocracy] and refund [120]% of its cost <upon entering a new era> <hidden from users>",
