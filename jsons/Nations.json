@@ -31,7 +31,8 @@
 			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [Citadel]>",
 			"[-1 Culture, -1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [{City center} {Citadel}]>",
 			"[+1 Culture, +1 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
-			"[+1 Happiness, +2 Production] from every [Heroic Epic]",
+			"[+1 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
+			"[+1 Food] from [Fort] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[10] HP when healing <in [Citadel] tiles>","[10] HP when healing <in [City center] tiles>",
 			"Free [Great General] appears <upon entering a new era>"
 		]
