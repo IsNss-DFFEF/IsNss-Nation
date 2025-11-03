@@ -1,0 +1,10 @@
+[
+  	{
+		"name":"Logistician",
+		"production":1,
+    "science":1,
+    "food":1,
+		"greatPersonPoints": {"Great General":1},
+		"color": [71,87,112]
+	}
+]
