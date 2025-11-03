@@ -29,8 +29,8 @@
 		"uniques": [
 			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
 			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <with [1] to [6] neighboring [Citadel] tiles>",
-			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
-			"[+1 Culture, +2 Happiness, +2 Production] from every [Heroic Epic]",
+			"[+1 Culture, +1 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
+			"[+1 Happiness, +2 Production] from every [Heroic Epic]",
 			"[10] HP when healing <in [Citadel] tiles>","[10] HP when healing <in [City center] tiles>",
 			"Free [Great General] appears <upon entering a new era>"
 		]
