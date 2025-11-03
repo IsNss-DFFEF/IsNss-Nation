@@ -27,8 +27,9 @@
 		"innerColor": [30,120,205],
 		"uniqueName": "Stronger than Steel",
 		"uniques": [
-			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <with [1] to [6] neighboring [Citadel] tiles>",
+			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
+			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [Citadel]>",
+			"[-1 Culture, -1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [{City center} {Citadel}]>",
 			"[+1 Culture, +1 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"[+1 Happiness, +2 Production] from every [Heroic Epic]",
 			"[10] HP when healing <in [Citadel] tiles>","[10] HP when healing <in [City center] tiles>",
