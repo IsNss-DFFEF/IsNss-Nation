@@ -3,7 +3,7 @@
 		"name": "Suppression I",
 		"uniques": ["[+13]% Strength <when attacking>"],
 		"unitTypes": ["IISA"],
-        "column": 51,
+        "column": 6751,
         "row": 1
 	},
   {
@@ -11,7 +11,7 @@
 		"prerequisites": ["Suppression I"],
 		"uniques": ["[+12]% Strength <when attacking>"],
 		"unitTypes": ["IISA"],
-        "column": 51,
+        "column": 6751,
         "row": 2
 	},
   {
@@ -19,14 +19,14 @@
 		"prerequisites": ["Suppression II"],
 		"uniques": ["Heals [25] damage if it kills a unit"],
 		"unitTypes": ["IISA"],
-        "column": 51,
+        "column": 6751,
         "row": 3
 	},
   {
 		"name": "Discipline I",
 		"uniques": ["[+8]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes": ["IISA"],
-        "column": 52,
+        "column": 6752,
         "row": 1
 	},
   {
@@ -42,14 +42,14 @@
     "prerequisites": ["Discipline II"],
 		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"],
 		"unitTypes": ["IISA"],
-        "column": 52,
+        "column": 6752,
         "row": 3
 	},
   {
 		"name": "Penetration I",
-		"uniques": ["[+25]% Strength <when fighting in [Fort] tiles> <when attacking>","[+25]% Strength <when fighting in [Citadel] tiles> <when attacking>"],
+		"uniques": ["[+25]% Strength <when fighting in [Fort] tiles> <when attacking>","[+60]% Strength <when fighting in [Citadel] tiles> <when attacking>"],
 		"unitTypes": ["IISA"],
-        "column": 53,
+        "column": 6753,
         "row": 1
 	},
   {
@@ -57,7 +57,7 @@
     "prerequisites": ["Penetration I"],
 		"uniques": ["[+15]% Strength <vs [Wounded] units>","[+15]% Strength <vs cities> <when attacking>"],
 		"unitTypes": ["IISA"],
-        "column": 53,
+        "column": 6753,
         "row": 2
 	},
   {
@@ -65,7 +65,7 @@
     "prerequisites": ["Penetration II"],
 		"uniques": ["[+1] Movement","Ignores Zone of Control"],
 		"unitTypes": ["IISA"],
-        "column": 53,
+        "column": 6753,
         "row": 3
 	}
   {
@@ -73,7 +73,7 @@
     "prerequisites": ["Suppression I","Discipline I","Penetration I"],
 		"uniques": ["Earn [50]% of killed [All] unit's [Strength] as [Gold]"],
 		"unitTypes": ["IISA"],
-        "column": 54,
+        "column": 6754,
         "row": 2
 	}
   {
@@ -81,7 +81,7 @@
     "prerequisites": ["Repression I"],
 		"uniques": ["[+50%] Strength <vs [Barbarian] units>","[+25]% Strength <within [1] tiles of a [City]>"],
 		"unitTypes": ["IISA"],
-        "column": 54,
+        "column": 6754,
         "row": 3
 	}
   {
@@ -89,7 +89,7 @@
     "prerequisites": ["Suppression III","Discipline III","Penetration III"],
 		"uniques": ["[-10]% Strength for enemy [all] units in adjacent [all] tiles"],
 		"unitTypes": ["IISA"],
-        "column": 51,
+        "column": 6751,
         "row": 4
 	}
   {
@@ -97,7 +97,7 @@
     "prerequisites": ["Suppression III","Discipline III","Penetration III"],
 		"uniques": ["[+2] Movement","[+10]% Strength","Consumes [1] [Oil]","Only available <after discovering [Mobile Tactics]>"],
 		"unitTypes": ["IISA"],
-        "column": 52,
+        "column": 6752,
         "row": 4
 	},
 		//default promotions
