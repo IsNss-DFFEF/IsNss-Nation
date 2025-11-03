@@ -21,15 +21,17 @@
 		"replaces": "Military Base",
 		"uniqueTo": "Isnisia",
 		"cityStrength": 24,
-		"cityHealth": 50,
+		"cityHealth": 48,
 		"maintenance": 4,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Electronics",
 		"uniques": ["Destroyed when the city is captured",
-			"Only available <within [2] tiles of a [Fort]>",
-			"[+1 Production, +1 Science] from every [Fort] <within [2] tiles of a [City center]> <in this city>",
-			"[+1 Production, +1 Science] from every [Fort] <within [1] tiles of a [Citadel]> <in this city>",
-			"[+2 Production, +2 Science] from every [Citadel] <in this city>"]
+			"Only available <within [1] tiles of a [Fort]>",
+			"[+1 Food, +1 Science] from every [Fort] <within [1] tiles of a [City center]> <in this city>",
+			"[+1 Food, +1 Science] from every [Fort] <within [1] tiles of a [Citadel]> <in this city>",
+			"[+1 Food] from every [Fort] <in [Fresh Water] tiles> <in this city>",
+			"[+2 Food, +2 Science] from every [Citadel] <in this city>",
+			"[+1 Food] from every [Citadel] <in [Fresh Water] tiles> <in this city>",]
 	},
 ]
