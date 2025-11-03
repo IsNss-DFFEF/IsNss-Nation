@@ -31,8 +31,9 @@
 			"Only available <within [1] tiles of a [Fort]>",
 			"[+1 Food, +1 Science] from every [Fort] <within [1] tiles of a [City center]> <in this city>",
 			"[+1 Food, +1 Science] from every [Fort] <within [1] tiles of a [Citadel]> <in this city>",
+			"[-1 Food, -1 Science] from every [Fort] <within [1] tiles of a [{City center} {Citadel}]> <in this city>",
 			"[+1 Food] from every [Fort] <in [Fresh Water] tiles> <in this city>",
 			"[+2 Food, +2 Science] from every [Citadel] <in this city>",
-			"[+1 Food] from every [Citadel] <in [Fresh Water] tiles> <in this city>",]
+			"[+1 Food] from every [Citadel] <in [Fresh Water] tiles> <in this city>"]
 	},
 ]
