@@ -9,7 +9,7 @@
 		"cost": 400,
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
-		"uniques": ["[+33]% Strength <when below [-10] Happiness>",
+		"uniques": ["[+33]% Strength <when below [-10] [Happiness]>",
 			"Only available <in cities with a [Internal Isnisian Security Administration]>",]
 		"civilopediaText": [
 			{
