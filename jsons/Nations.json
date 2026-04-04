@@ -29,11 +29,15 @@
 		"uniques": [
 			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
 			"[+1 Production] from [Fort] tiles [in all cities] <within [1] tiles of a [Citadel]>",
+			"[+1 Production, -1 Gold] from [Fort] tiles [in all cities] <upon discovering [Mettalurgy]>",
 			"[+1 Culture, +1 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
-			"[+1 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
+			"Comment [Fort improves on strategic resources]",
+			"[+2 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[+1 Food] from [Fort] tiles [in all cities] <in [Fresh Water] tiles>",
-			"[5] HP when healing <in [Citadel] tiles>","[10] HP when healing <in [City center] tiles>",
-			"Free [Great General] appears <upon entering a new era>"
+			"[5] HP when healing <in [Citadel] tiles>","[5] HP when healing <in [City center] tiles>",
+			"Free [Great General] appears <upon entering the [Ancient Era]>",
+			"Free [Great General] appears <upon entering the [Industrial Era]>",
+			"Free [Great General] appears <upon being declared war on by [Major] Civilizations>"
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
