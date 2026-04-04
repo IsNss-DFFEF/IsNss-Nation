@@ -32,7 +32,7 @@
 			"[+1 Production, -1 Gold] from [Fort] tiles [in all cities] <upon discovering [Mettalurgy]>",
 			"[+1 Culture, +1 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"Comment [Fort improves on strategic resources]",
-			"[+2 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
+			"[+1 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[+1 Food] from [Fort] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[5] HP when healing <in [Citadel] tiles>","[5] HP when healing <in [City center] tiles>",
 			"Free [Great General] appears <upon entering the [Ancient Era]>",
