@@ -29,7 +29,7 @@
 		"uniques": [
 			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
 			"[+1 Production] from [Fort] tiles [in all cities] <within [1] tiles of a [Citadel]>",
-			"[+1 Production, -1 Gold] from [Fort] tiles [in all cities] <upon discovering [Mettalurgy]>",
+			"[+1 Production, -1 Gold] from [Fort] tiles [in all cities] <upon discovering [Metallurgy]>",
 			"[+1 Culture, +1 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"Comment [Fort improves on strategic resources]",
 			"[+1 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
