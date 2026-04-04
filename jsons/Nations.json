@@ -35,9 +35,10 @@
 			"[+1 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[+1 Food] from [Fort] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[5] HP when healing <in [Citadel] tiles>","[5] HP when healing <in [City center] tiles>",
-			"Free [Great General] appears <upon entering the [Ancient Era]>",
+			"Free [Great General] appears <upon entering the [Classical Era]>",
 			"Free [Great General] appears <upon entering the [Industrial Era]>",
-			"Free [Great General] appears <upon being declared war on by [Major] Civilizations>"
+			"Free [Great General] appears <upon entering the [Information Era]>",
+			"Free [Great General] appears <upon being declared war on by [Major] Civilizations> <with a [50]% chance>"
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
