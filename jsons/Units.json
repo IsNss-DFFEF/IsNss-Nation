@@ -6,7 +6,7 @@
 		"movement": 2,
 		"maintenance": 6
 		"strength": 80,
-		"cost": 400,
+		"cost": 450,
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
 		"uniques": ["[+33]% Strength <when below [-10] [Happiness]>",
