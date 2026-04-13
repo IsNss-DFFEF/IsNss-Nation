@@ -30,11 +30,10 @@
 			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
 			"[+1 Production] from [Fort] tiles [in all cities] <within [1] tiles of a [Citadel]>",
 			"[+1 Production, -1 Gold] from [Fort] tiles [in all cities] <upon discovering [Metallurgy]>",
-			"[+1 Culture, +1 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
+			"[+1 Culture, +1 Happiness, +3 Production] from [Citadel] tiles [in all cities]",
 			"Comment [Fort improves on strategic resources]",
 			"[+1 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[+1 Food] from [Fort] tiles [in all cities] <in [Fresh Water] tiles>",
-			"[5] HP when healing <in [Citadel] tiles>","[5] HP when healing <in [City center] tiles>",
 			"Free [Great General] appears <upon entering the [Classical era]>",
 			"Free [Great General] appears <upon entering the [Industrial era]>",
 			"Free [Great General] appears <upon entering the [Information era]>"
