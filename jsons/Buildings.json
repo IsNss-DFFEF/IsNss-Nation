@@ -20,7 +20,7 @@
 		"name": "Fortress Complex",
 		"replaces": "Military Base",
 		"uniqueTo": "Isnisia",
-		"specialistSlots": {"Logistician": 1},
+		"specialistSlots": {"Logistician": 2},
 		"cityStrength": 24,
 		"cityHealth": 48,
 		"maintenance": 4,
