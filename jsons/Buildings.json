@@ -34,4 +34,15 @@
 			"[+2 Food, +2 Science, +1 Gold] from every [Citadel] <in this city>",
 			"[+1 Food] from every [Citadel] <in [Fresh Water] tiles> <in this city>"]
 	},
+		    {
+    "name": "Office Complex Complex",
+	"uniqueTo": "Megacity",
+    "cost": 500,
+	"isNationalWonder": true,
+	"specialistSlots": [{"Scientist": 4},{"Merchant": 4},{"Artist": 4},{"Engineer": 4}],
+    "uniques": [
+		"Enables conversion of city production to [Food]","[10]% Food is carried over after population increases [in all cities]"
+	],
+        "requiredTech": "Electricity"
+    },
 ]
