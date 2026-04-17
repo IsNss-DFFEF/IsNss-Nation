@@ -39,7 +39,10 @@
 	"uniqueTo": "Megacity",
     "cost": 500,
 	"isNationalWonder": true,
-	"specialistSlots": [{"Scientist": 4},{"Merchant": 4},{"Artist": 4},{"Engineer": 4}],
+	"specialistSlots": {"Scientist": 4},
+	"specialistSlots": {"Merchant": 4},
+	"specialistSlots": {"Artist": 4},
+	"specialistSlots": {"Engineer": 4},
     "uniques": [
 		"Enables conversion of city production to [Food]","[10]% Food is carried over after population increases [in all cities]"
 	],
