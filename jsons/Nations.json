@@ -37,4 +37,43 @@
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
 			"Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin",
 			"Kistrisxy","Liwina"]
+	},
+
+	{
+		"name": "Megacity",
+		"leaderName": "Megacity",
+		"adjective": [""],
+		"startBias": [],
+		"preferredVictoryType": "Domination",
+		"personality": "IsNss",
+		
+		"startIntroPart1": "There are many cities in the world, defined by their culture, population, industry, location... They all may be interesting and beautiful in their own right and serve to house so much people and industry in such a dense space. But it is all ultimately meaningless. For there can only be one city, the Megacity.",
+		"startIntroPart2": "Can you build a biggest city in Unciv history? Can you maintain a megalopolis throughout all the eras? Can this megacity stand the test of time?",
+		
+		"declaringWar": "There can only be one city.",
+		"attacked": "...",
+		"defeated": "...",
+		
+		"introduction": "Interesting cities there.",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "Hello.",
+
+		"afterPeace": "You may continue to exist.",
+		"tradeRequest": "More for the greatest city in the world, the Megacity!",
+		"denounced": "...",
+
+		"outerColor": [30,35,45],
+		"innerColor": [30,120,205],
+		"uniqueName": "One World, One City",
+		"uniques": [
+//+20 Influence with Population gift to City states
+//-1 Gold per 2 population in non-Capital cities
+//1 Free Population appears after conquering a city
+//-50% Unhappiness in Puppetted cities
+//+800% Unhappiness in Annexed cities
+			"[+1 Food, +1 Happiness] per [4] population [in capital]",
+			"[+30]% Strength decreasing with distance from the capital",
+		]
+		"cities": ["Megacity", "yournotsupposedtohavethis"]
 	}]
