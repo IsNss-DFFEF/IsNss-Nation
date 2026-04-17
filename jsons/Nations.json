@@ -72,12 +72,12 @@
 			"[+800]% Unhappiness from [population] [in annexed cities]",
 			"[+30]% Strength decreasing with distance from the capital",
 			"Comment [Free People for the Megacity units appear upon conquering a city]",
-			"[1] free [People for the Megacity] units appear <upon conquering a city>",
-			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [100]>",
-			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [200]>",
-			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [300]>",
-			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [400]>",
-			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [500]>",
+			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
+			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [100]> <hidden from users>",
+			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [200]> <hidden from users>",
+			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [300]> <hidden from users>",
+			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [400]> <hidden from users>",
+			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [500]> <hidden from users>",
 			
 		]
 		"cities": ["Megacity", "yournotsupposedtohavethis"]
