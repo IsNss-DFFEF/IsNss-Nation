@@ -82,5 +82,7 @@
 			"[2] free [People for the Megacity] units appear <upon adopting [Collective Rule]>",
 			
 		]
-		"cities": ["Megacity", "yournotsupposedtohavethis"]
+		"cities": ["Megacity",
+			"Colony A", "Colony B", "Colony C", "Colony D", "Colony E", "Colony F", "Colony G", "Colony H", "Colony I", "Colony J", "Colony K", "Colony L", "Colony M",
+			"Colony N", "Colony O", "Colony P", "Colony Q", "Colony R", "Colony S", "Colony T", "Colony U", "Colony V", "Colony W", "Colony X", "Colony Y", "Colony Z"]
 	}]
