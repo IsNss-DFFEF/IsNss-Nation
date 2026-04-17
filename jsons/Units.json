@@ -38,5 +38,17 @@
 			}
 		],
 		"attackSound": "tankshot"
-	}
+	},
+		{
+		"name": "People for the Megacity",
+		"unitType": "Civilian",
+		"uniqueTo": "Megacity",
+		"replaces": "Settler",
+		"movement": 2,
+		"cost": 60,
+		"requiredTech": "Agriculture",
+		"uniques": ["Founds a new city <by consuming this unit> <before turn number [3]> <if [Palace] is not constructed>",
+			"Requires at least [2] population", "[1] population [in this city] <by consuming this unit>", "[-1] population [in this city]"],
+		"hurryCostModifier": 20
+	},
 ]
