@@ -79,7 +79,7 @@
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [120]> <(modified by game speed)> <hidden from users>",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [160]> <(modified by game speed)> <hidden from users>",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [200]> <(modified by game speed)> <hidden from users>",
-			"[2] free [People for the Megacity] units appear <after adopting [Collective Rule]> <hidden from users>",
+			"[2] free [People for the Megacity] units appear <upon adopting [Collective Rule]>",
 			
 		]
 		"cities": ["Megacity", "yournotsupposedtohavethis"]
