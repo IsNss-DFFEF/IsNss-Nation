@@ -69,7 +69,7 @@
 		"uniques": [
 			"[+1 Food, +1 Happiness] per [4] population [in capital]",
 			"[-1 Gold, -1 Happiness] per [2] population [in puppeted cities]",
-			"[+800]% Unhappiness from [population] [in annexed cities]",
+			"[+800]% Unhappiness from [Population] [in annexed cities]",
 			"[+30]% Strength decreasing with distance from the capital",
 			"Comment [Free People for the Megacity units appear upon conquering a city]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
