@@ -52,9 +52,9 @@
     "cost": 300,
 	"isNationalWonder": true,
     "uniques": [
-		"[+3 Food, -5 Gold] per [5] population [in this city]","[+10 Food, -12 Gold]",
+		"[+3 Food, -4 Gold] per [5] population [in this city]","[+10 Food, -12 Gold, +4 Happiness]",
 		"Only available <in cities with at least [60] [Population]>",
-		"[-2 Food, -1 Happiness +3 Gold] <in cities without a [Food Imports]>"
+		"[-2 Food, -1 Happiness +3 Gold] <in cities without a [Food Imports]>", "[-2 Food, +2 Gold] per [3] population [in puppeted cities]"
 	],
         "requiredTech": "Economics"
     },
