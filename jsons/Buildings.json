@@ -76,7 +76,7 @@
     "cost": 400,
 	"isNationalWonder": true,
     "uniques": [
-"[3] free [People for the Megacity] units appear", "[-1] population in a random city", "[-1] population in a random city",
+"[3] free [People for the Megacity] units appear", "[3] population [in this city]","[-1] population in a random city", "[-1] population in a random city","[-1] population in a random city",
 		"Only available <in cities with at least [120] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
         "requiredTech": "Flight"
     },
