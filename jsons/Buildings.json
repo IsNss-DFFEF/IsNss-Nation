@@ -37,19 +37,19 @@
 		    {
     "name": "Office Complex Complex",
 	"uniqueTo": "Megacity",
-    "cost": 500,
+    "cost": 600,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 6, "Merchant": 6, "Artist": 6, "Engineer": 6},
     "uniques": [
 		"Enables conversion of city production to [Food]","[10]% Food is carried over after population increases [in all cities]",
-		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]"
+		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]", "Only available <in cities with at least [90] [Population]>"
 	],
         "requiredTech": "Electricity"
     },
 			    {
     "name": "Food Imports",
 	"uniqueTo": "Megacity",
-    "cost": 300,
+    "cost": 400,
 	"isNationalWonder": true,
     "uniques": [
 		"[+3 Food, -4 Gold] per [3] population [in this city]","[+12 Food, -12 Gold, +4 Happiness]",
@@ -57,5 +57,17 @@
 		"[-2 Food, -1 Happiness +3 Gold] <in cities without a [Food Imports]>", "[-2 Food, +3 Gold] per [3] population [in puppeted cities]"
 	],
         "requiredTech": "Economics"
+    },
+			    {
+    "name": "City Extension",
+	"uniqueTo": "Megacity",
+    "cost": 800,
+	"isNationalWonder": true,
+	"specialistSlots": {"Scientist": 2, "Merchant": 2, "Artist": 2, "Engineer": 2},
+    "uniques": [
+		"[5]% Food is carried over after population increases [in this city]",
+		"Only available <in cities with at least [30] [Population]>"
+	],
+        "requiredTech": "Architechture"
     },
 ]
