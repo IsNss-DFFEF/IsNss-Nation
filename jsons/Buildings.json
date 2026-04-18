@@ -39,13 +39,23 @@
 	"uniqueTo": "Megacity",
     "cost": 500,
 	"isNationalWonder": true,
-	"specialistSlots": {"Scientist": 4},
-	"specialistSlots": {"Merchant": 4},
-	"specialistSlots": {"Artist": 4},
-	"specialistSlots": {"Engineer": 4},
+	"specialistSlots": {"Scientist": 6, "Merchant": 6, "Artist": 6, "Engineer": 6},
     "uniques": [
-		"Enables conversion of city production to [Food]","[10]% Food is carried over after population increases [in all cities]"
+		"Enables conversion of city production to [Food]","[10]% Food is carried over after population increases [in all cities]",
+		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]"
 	],
         "requiredTech": "Electricity"
+    },
+			    {
+    "name": "Food Imports",
+	"uniqueTo": "Megacity",
+    "cost": 300,
+	"isNationalWonder": true,
+    "uniques": [
+		"[+3 Food, -4 Gold] per [5] population [in this city]","[+10 Food, -10 Gold]",
+		"Only available <in cities with at least [60] [population]>",
+		"[-2 Food, -1 Happiness +2 Gold] <in cities without a [Food Imports]>"
+	],
+        "requiredTech": "Economics"
     },
 ]
