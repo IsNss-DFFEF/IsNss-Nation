@@ -54,7 +54,7 @@
     "uniques": [
 		"[+1 Food, -1 Gold] per [1] population [in this city]","[+6 Food, -6 Gold]",
 		"Only available <in cities with at least [60] [Population]>",
-		"[-2 Food, -1 Happiness, +2 Gold] <in cities without a [Food Imports]>", "[-2 Food, +2 Gold] per [3] population [in puppeted cities]"
+		"[-2 Food, -1 Happiness, +2 Gold] <in cities without a [Food Imports]>", "[-1 Food, +1 Gold] per [2] population [in puppeted cities]"
 	],
         "requiredTech": "Economics"
     },
