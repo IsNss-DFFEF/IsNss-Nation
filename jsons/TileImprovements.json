@@ -1,0 +1,9 @@
+[
+  	{
+		"name": "City Extension",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+1000 Gold]",
+    "[+2 Food, +2 Gold, +2 Happiness, +5 Production, +5 Culture, +5 Science]"]
+	},
+]
