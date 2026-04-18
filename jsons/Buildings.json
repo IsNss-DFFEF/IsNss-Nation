@@ -55,7 +55,7 @@
 		"[+3 Food, -4 Gold] per [5] population [in this city]","[+12 Food, -12 Gold, +4 Happiness]",
 		"[+1 Food, -1 Gold] per every [1] [Population]",
 		"Only available <in cities with at least [60] [Population]>",
-		"[-2 Food, -1 Happiness +3 Gold] <in cities without a [Food Imports]>", "[-2 Food, +3 Gold] per [3] population [in puppeted cities]"
+		"[-2 Food, -1 Happiness, +3 Gold] <in cities without a [Food Imports]>", "[-2 Food, +3 Gold] per [3] population [in puppeted cities]"
 	],
         "requiredTech": "Economics"
     },
