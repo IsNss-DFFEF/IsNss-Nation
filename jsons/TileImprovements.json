@@ -11,6 +11,6 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement", "Removes removable features when built",
 			"Free [People for the Megacity] appears <every [5] turns> <(modified by game speed)>","[-1] population in a random city <every [5] turns> <(modified by game speed)>",
-			"Free [People for the Megacity] appears <with [1]% chance> <every [1] turns>"]
+			"Free [People for the Megacity] appears <with [1]% chance> <every [1] turns>", "[+4 Gold, +2 Culture, +1 Happiness]"]
 	},
 ]
