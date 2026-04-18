@@ -66,7 +66,7 @@
 	"specialistSlots": {"Scientist": 2, "Merchant": 2, "Artist": 2, "Engineer": 2},
     "uniques": [
 		"[5]% Food is carried over after population increases [in this city]",
-		"Only available <in cities with at least [30] [Population]>", "Empire enters golden age"
+		"Only available <in cities with at least [30] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
 	],
         "requiredTech": "Architechture"
     },
