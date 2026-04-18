@@ -39,7 +39,7 @@
 	"uniqueTo": "Megacity",
     "cost": 600,
 	"isNationalWonder": true,
-	"specialistSlots": {"Scientist": 6, "Merchant": 6, "Artist": 6, "Engineer": 6},
+	"specialistSlots": {"Scientist": 3, "Merchant": 3, "Artist": 3, "Engineer": 3},
     "uniques": [
 		"Enables conversion of city production to [Food]","[10]% Food is carried over after population increases [in all cities]",
 		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]", "Only available <in cities with at least [90] [Population]>"
@@ -61,9 +61,9 @@
 			    {
     "name": "City Extension",
 	"uniqueTo": "Megacity",
-    "cost": 800,
+    "cost": 600,
 	"isNationalWonder": true,
-	"specialistSlots": {"Scientist": 2, "Merchant": 2, "Artist": 2, "Engineer": 2},
+	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
 		"[5]% Food is carried over after population increases [in this city]",
 		"Only available <in cities with at least [30] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
