@@ -53,7 +53,7 @@
 	"isNationalWonder": true,
     "uniques": [
 		"[+1 Food, -1 Gold] per [1] population [in this city]","[+6 Food, -6 Gold]",
-		"Only available <in cities with at least [60] [Population]>",
+		"Only available <in cities with at least [30] [Population]>",
 		"[-2 Food, -1 Happiness, +2 Gold] <in cities without a [Food Imports]>", "[-1 Food, +1 Gold] per [2] population [in puppeted cities]"
 	],
         "requiredTech": "Economics"
@@ -66,7 +66,7 @@
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
 		"[5]% Food is carried over after population increases [in this city]",
-		"Only available <in cities with at least [30] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
+		"Only available <in cities with at least [60] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
 	],
         "requiredTech": "Architecture"
     },
