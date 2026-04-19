@@ -59,13 +59,13 @@
         "requiredTech": "Economics"
     },
 			    {
-    "name": "City Extension",
+    "name": "First City Extension",
 	"uniqueTo": "Megacity",
     "cost": 600,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
-		"[5]% Food is carried over after population increases [in this city]",
+		"[+10]% [Food] [in this city]",
 		"Only available <in cities with at least [60] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
 	],
         "requiredTech": "Architecture"
@@ -77,7 +77,31 @@
 	"isNationalWonder": true,
     "uniques": [
 "[3] free [People for the Megacity] units appear", "[3] population [in this city]","[-1] population in a random city", "[-1] population in a random city","[-1] population in a random city",
-		"Only available <in cities with at least [120] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
+		"Only available <in cities with at least [150] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
         "requiredTech": "Flight"
+    },
+	 {
+    "name": "Second City Extension",
+	"uniqueTo": "Megacity",
+    "cost": 600,
+	"isNationalWonder": true,
+	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
+    "uniques": [
+		"[+10]% [Food] [in this city]",
+		"Only available <in cities with at least [120] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
+	],
+        "requiredTech": "Architecture"
+    },
+	 {
+    "name": "Third City Extension",
+	"uniqueTo": "Megacity",
+    "cost": 600,
+	"isNationalWonder": true,
+	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
+    "uniques": [
+		"[+10]% [Food] [in this city]",
+		"Only available <in cities with at least [180] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
+	],
+        "requiredTech": "Architecture"
     },
 ]
