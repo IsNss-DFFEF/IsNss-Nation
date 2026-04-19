@@ -65,7 +65,7 @@
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 3, "Merchant": 3, "Artist": 3, "Engineer": 3},
     "uniques": [
-		"Enables conversion of city production to [Food]","[10]% Food is carried over after population increases [in all cities]",
+		"Enables conversion of city production to [Culture]","[10]% Food is carried over after population increases [in all cities]",
 		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]", "Only available <in cities with at least 120] [Population]>"
 	],
         "requiredTech": "Electricity"
