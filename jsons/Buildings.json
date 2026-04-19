@@ -34,6 +34,30 @@
 			"[+2 Food, +2 Science, +1 Gold] from every [Citadel] <in this city>",
 			"[+1 Food] from every [Citadel] <in [Fresh Water] tiles> <in this city>"]
 	},
+				    {
+    "name": "Food Imports",
+	"uniqueTo": "Megacity",
+    "cost": 400,
+	"isNationalWonder": true,
+    "uniques": [
+		"[+1 Food, -1 Gold] per [1] population [in this city]","[+6 Food, -6 Gold]",
+		"Only available <in cities with at least [30] [Population]>",
+		"[-2 Food, -1 Happiness, +2 Gold] <in cities without a [Food Imports]>", "[-1 Food, +1 Gold] per [2] population [in puppeted cities]"
+	],
+        "requiredTech": "Economics"
+    },
+				    {
+    "name": "First City Extension",
+	"uniqueTo": "Megacity",
+    "cost": 800,
+	"isNationalWonder": true,
+	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
+    "uniques": [
+		"[+10]% [Food] [in this city]",
+		"Only available <in cities with at least [60] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
+	],
+        "requiredTech": "Architecture"
+    },
 		    {
     "name": "Office Complex Complex",
 	"uniqueTo": "Megacity",
@@ -46,44 +70,10 @@
 	],
         "requiredTech": "Electricity"
     },
-			    {
-    "name": "Food Imports",
-	"uniqueTo": "Megacity",
-    "cost": 400,
-	"isNationalWonder": true,
-    "uniques": [
-		"[+1 Food, -1 Gold] per [1] population [in this city]","[+6 Food, -6 Gold]",
-		"Only available <in cities with at least [30] [Population]>",
-		"[-2 Food, -1 Happiness, +2 Gold] <in cities without a [Food Imports]>", "[-1 Food, +1 Gold] per [2] population [in puppeted cities]"
-	],
-        "requiredTech": "Economics"
-    },
-			    {
-    "name": "First City Extension",
-	"uniqueTo": "Megacity",
-    "cost": 600,
-	"isNationalWonder": true,
-	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
-    "uniques": [
-		"[+10]% [Food] [in this city]",
-		"Only available <in cities with at least [60] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
-	],
-        "requiredTech": "Architecture"
-    },
-			    {
-    "name": "Population Imports",
-	"uniqueTo": "Megacity",
-    "cost": 400,
-	"isNationalWonder": true,
-    "uniques": [
-"[3] free [People for the Megacity] units appear", "[3] population [in this city]","[-1] population in a random city", "[-1] population in a random city","[-1] population in a random city",
-		"Only available <in cities with at least [150] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
-        "requiredTech": "Flight"
-    },
-	 {
+		 {
     "name": "Second City Extension",
 	"uniqueTo": "Megacity",
-    "cost": 600,
+    "cost": 800,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
@@ -92,10 +82,20 @@
 	],
         "requiredTech": "Architecture"
     },
+			    {
+    "name": "Population Imports",
+	"uniqueTo": "Megacity",
+    "cost": 600,
+	"isNationalWonder": true,
+    "uniques": [
+"[3] free [People for the Megacity] units appear", "[3] population [in this city]","[-1] population in a random city", "[-1] population in a random city","[-1] population in a random city",
+		"Only available <in cities with at least [150] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
+        "requiredTech": "Flight"
+    },
 	 {
     "name": "Third City Extension",
 	"uniqueTo": "Megacity",
-    "cost": 600,
+    "cost": 800,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
