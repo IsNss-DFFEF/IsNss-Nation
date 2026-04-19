@@ -80,7 +80,7 @@
 		"[+10]% [Food] [in this city]",
 		"Only available <in cities with at least [120] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
 	],
-        "requiredTech": "Architecture"
+        "requiredTech": "Replaceable Parts"
     },
 			    {
     "name": "Population Imports",
@@ -90,7 +90,7 @@
     "uniques": [
 "[3] free [People for the Megacity] units appear", "[3] population [in this city]","[-1] population in a random city", "[-1] population in a random city","[-1] population in a random city",
 		"Only available <in cities with at least [150] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
-        "requiredTech": "Flight"
+        "requiredTech": "Radio"
     },
 	 {
     "name": "Third City Extension",
@@ -102,6 +102,6 @@
 		"[+10]% [Food] [in this city]",
 		"Only available <in cities with at least [180] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
 	],
-        "requiredTech": "Architecture"
+        "requiredTech": "Telecommunications"
     },
 ]
