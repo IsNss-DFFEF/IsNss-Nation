@@ -30,9 +30,7 @@
 		"uniques": ["Destroyed when the city is captured",
 			"Only available <within [1] tiles of a [Fort]>",
 			"[+1 Food, +1 Science] from every [Fort] <in this city>",
-			"[+1 Food] from every [Fort] <in [Fresh Water] tiles> <in this city>",
-			"[+2 Food, +2 Science, +1 Gold] from every [Citadel] <in this city>",
-			"[+1 Food] from every [Citadel] <in [Fresh Water] tiles> <in this city>"]
+			"[+2 Food, +2 Science, +1 Gold] from every [Citadel] <in this city>",]
 	},
 				    {
     "name": "Food Imports",
