@@ -27,11 +27,11 @@
 		"innerColor": [30,120,205],
 		"uniqueName": "Stronger than Steel",
 		"uniques": [
-			"[+1 Culture, +1 Happiness] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
-			"[+1 Production] from [Fort] tiles [in all cities] <within [1] tiles of a [Citadel]",
-			"[+1 Culture, +1 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
+			"[+1 Culture, +1 Production] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
+			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
 			"[+1 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[+1 Food] from [Fort] tiles [in all cities] <in [Fresh Water] tiles>",
+			"Can build [Fort] improvements at a [+20]% rate"
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
