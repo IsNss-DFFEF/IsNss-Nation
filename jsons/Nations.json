@@ -86,4 +86,46 @@
 		"cities": ["Megacity",
 			"Colony A", "Colony B", "Colony C", "Colony D", "Colony E", "Colony F", "Colony G", "Colony H", "Colony I", "Colony J", "Colony K", "Colony L", "Colony M",
 			"Colony N", "Colony O", "Colony P", "Colony Q", "Colony R", "Colony S", "Colony T", "Colony U", "Colony V", "Colony W", "Colony X", "Colony Y", "Colony Z"]
+	},
+{
+		"name": "Cytocytosia",
+		"leaderName": "The Hand of Eternal Proliferation",
+		"adjective": [""],
+		"startBias": [],
+		"preferredVictoryType": "Domination",
+		"personality": "IsNss",
+		
+		"startIntroPart1": "There is one chanting voice. And it tells you:",
+		"startIntroPart2": "'Consume! Multiply! Proliferate!'",
+		
+		"declaringWar": "Consume! Multiply! Proliferate!",
+		"attacked": "Consume! Multiply! Proliferate!",
+		"defeated": "...",
+		
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"hateHello": "...",
+
+		"afterPeace": "...",
+		"tradeRequest": "...",
+		"denounced": "...",
+
+		"outerColor": [80,235,165],
+		"innerColor": [120,80,165],
+		"uniqueName": "Hand of Eternal Proliferation",
+		"uniques": [
+			"[+100]% growth [in non-occupied cities]",
+			"[+100]% Production when constructing [Land] units [in non-occupied cities]",
+			"[+50]% Production when constructing [Water] units [in non-occupied cities]",
+			"[-50]% Unhappiness from number of cities [in non-occupied cities]",
+			"[-50]% Unhappiness from population [in non-occupied cities]",
+			"Each city founded increases culture cost of policies [33]% less than normal",
+			"Each city founded increases Science cost of Technologies [33]% less than normal",
+			"[-1 Gold] per [1] population [in all non-occupied cities]",
+			"[-1 Production] per [3] population [in all non-occupied cities]",
+			"[+1 Faith] per [4] population [in all non-occupied cities]",
+			"[-1 Gold, +1 Faith] [in all non-occupied cities]"
+		]
+		"cities": ["Cytocytosia"]
 	}]
