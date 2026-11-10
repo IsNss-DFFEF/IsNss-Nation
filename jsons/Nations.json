@@ -115,17 +115,17 @@
 		"innerColor": [120,80,165],
 		"uniqueName": "Hand of Eternal Proliferation",
 		"uniques": [
-			"[+100]% growth [in non-occupied cities]",
-			"[+100]% Production when constructing [Land] units [in non-occupied cities]",
-			"[+50]% Production when constructing [Water] units [in non-occupied cities]",
-			"[-50]% Unhappiness from number of cities [in non-occupied cities]",
-			"[-50]% Unhappiness from population [in non-occupied cities]",
+			"[+100]% growth [in your cities]",
+			"[+100]% Production when constructing [Land] units [in your cities]",
+			"[+50]% Production when constructing [Water] units [in your cities]",
+			"[-50]% Unhappiness from number of cities [in your cities]",
+			"[-50]% Unhappiness from population [in your cities]",
 			"Each city founded increases culture cost of policies [33]% less than normal",
 			"Each city founded increases Science cost of Technologies [33]% less than normal",
-			"[-1 Gold] per [1] population [in all non-occupied cities]",
-			"[-1 Production] per [3] population [in all non-occupied cities]",
-			"[+1 Faith] per [4] population [in all non-occupied cities]",
-			"[-1 Gold, +1 Faith] [in all non-occupied cities]"
+			"[-1 Gold] per [1] population [in your cities]",
+			"[-1 Production] per [3] population [in your cities]",
+			"[+1 Faith] per [4] population [in your cities]",
+			"[-1 Gold, +1 Faith] [in your cities]"
 		]
 		"cities": ["Cytocytosia"]
 	}]
