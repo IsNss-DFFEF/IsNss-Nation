@@ -120,7 +120,7 @@
 			"[-1 Food] from [Pasture] tiles <after discovering [Fertilizer]>",
 			"[-1 Food] from [{Pasture} {non-fresh water}] tiles <after discovering [Fertilizer]>",
 			"[-1 Food] from [Plantation] tiles <after discovering [Fertilizer]>",
-			"[+1 Food] from [All road] tiles <in [Grassland] tiles> <after discovering [Fertilizer]>",
+			"[+1 Food] from [All Road] tiles [in your cities] <in [Grassland] tiles> <in tiles adjacent to [City center] tiles> <after discovering [Fertilizer]>",
 		]
 		"cities": ["Cytosia"]
 	}]
