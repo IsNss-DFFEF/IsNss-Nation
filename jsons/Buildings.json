@@ -121,7 +121,7 @@
 		"production": 2,
 		"food": 2,
 		"percentStatBonus": {"production": 15},
-		"percentStatBonus": {"food": 5},
+		"percentStatBonus": {"food": 15},
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
