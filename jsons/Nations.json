@@ -112,10 +112,15 @@
 		"innerColor": [120,80,165],
 		"uniqueName": "Heart of Proliferation",
 		"uniques": [
-			"[+1 Food] from [All Road] tiles [in your cities] <in [Grassland] tiles>",
-			"[+50]% Production when constructing [Civilian] units [in your cities]",
-			"[-33]% Unhappiness from population [in your cities]",
-			"Each city founded increases culture cost of policies [33]% less than normal",
+			"[+1 Food, +1 Production] [in your cities] <in [Grassland] tiles>",
+			"[+33]% Production when constructing [Civilian] units [in your cities] <in [Grassland] tiles>",
+			"[-33]% Unhappiness from population [in your cities] <in [Grassland] tiles>",
+			"Each city founded increases culture cost of policies [15]% less than normal",
+			"[-1 Food] from [{Farm} {non-fresh water}] tiles <after discovering [Fertilizer]>",
+			"[-1 Food] from [Pasture] tiles <after discovering [Fertilizer]>",
+			"[-1 Food] from [{Pasture} {non-fresh water}] tiles <after discovering [Fertilizer]>",
+			"[-1 Food] from [Plantation] tiles <after discovering [Fertilizer]>",
+			"[+1 Food] from [All road] tiles <in [Grassland] tiles> <after discovering [Fertilizer]>",
 		]
 		"cities": ["Cytosia"]
 	}]
