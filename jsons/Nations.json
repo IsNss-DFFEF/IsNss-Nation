@@ -69,8 +69,7 @@
 		"uniques": [
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [4] population [in capital]",
 			"[-1 Gold] per [1] population [in puppeted cities]",
-			"[+8000]% Unhappiness from [Population] [in annexed cities]",
-			"[+30]% Strength decreasing with distance from the capital",
+			"[+800]% Unhappiness from [Population] [in annexed cities]",
 			"[3] population [in Capital] <upon adopting [Collective Rule]>",
 			"Comment [Free People for the Megacity units appear upon conquering a city]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
@@ -86,11 +85,11 @@
 	},
 {
 		"name": "Cytosia",
-		"leaderName": "Mitosic",
+		"leaderName": "Cumbersome Heart",
 		"adjective": ["Cytosian"],
-		"startBias": [],
+		"startBias": ["Grassland", "Jungle", "Forest"],
 		"preferredVictoryType": "Domination",
-		"personality": "Mitosic",
+		"personality": "Cumbersome Heart",
 		
 		"startIntroPart1": "There is one desire, your heart calls:",
 		"startIntroPart2": "'Consume! Multiply! Proliferate!'",
@@ -110,18 +109,12 @@
 
 		"outerColor": [80,235,165],
 		"innerColor": [120,80,165],
-		"uniqueName": "Hand of Proliferation",
+		"uniqueName": "Heart of Proliferation",
 		"uniques": [
-			"[+50]% growth [in your cities]",
-			"[+33]% Production when constructing [Land] units [in your cities]",
-			"[+25]% Production when constructing [Water] units [in your cities]",
-			"[-50]% Unhappiness from number of cities [in your cities]",
+			"[+1 Food] from [All Road] tiles [in your cities] <in [Grassland] tiles>",
+			"[+50]% Production when constructing [Civilian] units [in your cities]",
 			"[-33]% Unhappiness from population [in your cities]",
 			"Each city founded increases culture cost of policies [33]% less than normal",
-			"[-1 Gold] per [2] population [in your cities]",
-			"[-1 Production] per [3] population [in your cities]",
-			"[+1 Faith] per [4] population [in your cities]",
-			"[-1 Gold, +1 Faith] [in your cities]"
 		]
 		"cities": ["Cytosia"]
 	}]
