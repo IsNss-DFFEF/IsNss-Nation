@@ -39,7 +39,7 @@
 	"isNationalWonder": true,
     "uniques": [
 		"[+1 Food, -1 Gold] per [1] population [in this city]","[+6 Food, -6 Gold]",
-		"Only available <in cities with at least [20] [Population]>",
+		"Only available <in cities with at least [16] [Population]>",
 		"[-2 Food, -1 Happiness, +2 Gold] <in cities without a [Food Imports]>", "[-1 Food, +1 Gold] per [2] population [in puppeted cities]"
 	],
         "requiredTech": "Economics"
@@ -47,12 +47,12 @@
 				    {
     "name": "First City Extension",
 	"uniqueTo": "Megacity",
-    "cost": 800,
+    "cost": 500,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
 		"[+10]% [Food] [in this city]",
-		"Only available <in cities with at least [40] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
+		"Only available <in cities with at least [32] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
 	],
         "requiredTech": "Architecture"
     },
@@ -64,19 +64,19 @@
 	"specialistSlots": {"Scientist": 3, "Merchant": 3, "Artist": 3, "Engineer": 3},
     "uniques": [
 		"Enables conversion of city production to [Culture]","[10]% Food is carried over after population increases [in all cities]",
-		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]", "Only available <in cities with at least [60] [Population]>"
+		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]", "Only available <in cities with at least [48] [Population]>"
 	],
         "requiredTech": "Electricity"
     },
 		 {
     "name": "Second City Extension",
 	"uniqueTo": "Megacity",
-    "cost": 800,
+    "cost": 700,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
 		"[+10]% [Food] [in this city]",
-		"Only available <in cities with at least [80] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
+		"Only available <in cities with at least [64] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
 	],
         "requiredTech": "Replaceable Parts"
     },
@@ -87,7 +87,7 @@
 	"isNationalWonder": true,
     "uniques": [
 "[3] free [People for the Megacity] units appear", "[3] population [in this city]","[-1] population in a random city", "[-1] population in a random city","[-1] population in a random city",
-		"Only available <in cities with at least [100] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
+		"Only available <in cities with at least [80] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
         "requiredTech": "Radar"
     },
 	 {
@@ -98,18 +98,34 @@
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
 		"[+10]% [Food] [in this city]",
-		"Only available <in cities with at least [120] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
+		"Only available <in cities with at least [96] [Population]>", "Empire enters golden age", "Creates a [City Extension] improvement on a specific tile"
 	],
         "requiredTech": "Telecommunications"
     },
 		{
 		"name": "Inward Vessel",
 		"replaces": "Temple",
+		"uniqueTo": "Cytosia",
 		"faith": 3,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Civil Service",
 		"uniques": ["Destroyed when the city is captured", "[+1 Food] [in capital] <in cities connected to the capital>"]
+	},
+		{
+		"name": "Hand of Proliferation",
+		"replaces": "Factory",
+		"uniqueTo": "Cytosia",
+		"cost": 300,
+		"production": 2,
+		"food": 2,
+		"percentStatBonus": {"production": 15},
+		"percentStatBonus": {"food": 5},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Industrialization"
 	},
 ]
