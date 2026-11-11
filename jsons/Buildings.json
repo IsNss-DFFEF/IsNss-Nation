@@ -120,7 +120,7 @@
 		"cost": 300,
 		"production": 2,
 		"food": 2,
-		"percentStatBonus": {"production": 15},
+		"percentStatBonus": {"production": 10},
 		"percentStatBonus": {"food": 15},
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
