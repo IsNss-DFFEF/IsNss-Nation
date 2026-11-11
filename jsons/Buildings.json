@@ -126,6 +126,8 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"uniques": ["[+15]% [Production] [in this city]"]
-		"requiredTech": "Industrialization"
+		"requiredTech": "Industrialization",
+		"requiredResource" : "Coal"
+			
 	},
 ]
