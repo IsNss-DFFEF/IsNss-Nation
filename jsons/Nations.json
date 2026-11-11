@@ -67,11 +67,11 @@
 		"innerColor": [166,166,166],
 		"uniqueName": "One World, One City",
 		"uniques": [
-			"[+1 Food] per [4] population [in capital]", "[+1 Happiness] per [3] population [in capital]",
-			"[+1 Production, +1 Science, +1 Culture] per [3] population [in capital]",
+			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [4] population [in capital]",
 			"[-1 Gold] per [1] population [in puppeted cities]",
 			"[+8000]% Unhappiness from [Population] [in annexed cities]",
 			"[+30]% Strength decreasing with distance from the capital",
+			"[3] population [in Capital] <upon adopting [Collective Rule]>",
 			"Comment [Free People for the Megacity units appear upon conquering a city]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [40]> <(modified by game speed)> <hidden from users>",
@@ -79,9 +79,6 @@
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [120]> <(modified by game speed)> <hidden from users>",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [160]> <(modified by game speed)> <hidden from users>",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <after turn number [200]> <(modified by game speed)> <hidden from users>",
-			"[2] free [People for the Megacity] units appear <upon adopting [Collective Rule]>",
-			"[3] population [in Capital] <upon adopting [Collective Rule]>"
-			
 		]
 		"cities": ["Megacity",
 			"Colony A", "Colony B", "Colony C", "Colony D", "Colony E", "Colony F", "Colony G", "Colony H", "Colony I", "Colony J", "Colony K", "Colony L", "Colony M",
@@ -90,7 +87,7 @@
 {
 		"name": "Cytosia",
 		"leaderName": "Mitosic",
-		"adjective": [""],
+		"adjective": ["Cytosian"],
 		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Mitosic",
