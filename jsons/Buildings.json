@@ -118,14 +118,13 @@
 		"replaces": "Factory",
 		"uniqueTo": "Cytosia",
 		"cost": 300,
-		"production": 2,
+		"production": 3,
 		"food": 2,
-		"percentStatBonus": {"food": 15},
+		"percentStatBonus": {"production": 15},
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"uniques": ["[+15]% [Production] [in this city]"]
 		"requiredTech": "Industrialization",
 		"requiredResource" : "Coal"
 			
