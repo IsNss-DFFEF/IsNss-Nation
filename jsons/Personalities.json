@@ -98,20 +98,4 @@
           "Development": 7,
           "Innovation": 4}
       },
-    {
-      "name": "Test",
-      "culture": 0,
-      "faith": 0,
-      "food": 0,
-      "gold": 0,
-      "happiness": 0,
-      "production": 0,
-      "science": 0,
-      "military": 0,
-      "aggressive": 0,
-      "declareWar": 0,
-      "commerce": 0,
-      "diplomacy": 0,
-      "loyal": 0,
-      "expansion": 0,}
     ]
