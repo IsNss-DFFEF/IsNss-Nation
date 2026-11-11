@@ -69,7 +69,8 @@
 		"uniques": [
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [4] population [in capital]",
 			"[-1 Gold] per [1] population [in puppeted cities]",
-			"[+800]% Unhappiness from [Population] [in annexed cities]",
+			"[+8000]% Unhappiness from [Population] [in annexed cities]",
+			"Comment [Please DONT annex cities when playing this]",
 			"[3] population [in Capital] <upon adopting [Collective Rule]>",
 			"Comment [Free People for the Megacity units appear upon conquering a city]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
