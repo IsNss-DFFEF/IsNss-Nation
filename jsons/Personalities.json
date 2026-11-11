@@ -2,13 +2,13 @@
   {
       "name": "IsNss",
       "culture": 8,
-      "faith": 6,
+      "faith": 4,
       "food": 6,
-      "gold": 6,
+      "gold": 4,
       "happiness": 8,
       "production": 10,
-      "science": 8,
-      "military": 2,
+      "science": 10,
+      "military": 10,
       "aggressive": 6,
       "declareWar": 2,
       "commerce": 3,
@@ -47,7 +47,7 @@
       "commerce": 8,
       "diplomacy": 6,
       "loyal": 0,
-      "expansion": 10,
+      "expansion": 8,
 
       "priorities": {
           "Tradition": 10,
