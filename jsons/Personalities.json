@@ -31,5 +31,71 @@
           "Authority": 3,
           "Development": 8,
           "Innovation": 3}
+      },
+    {
+      "name": "Megacity",
+      "culture": 5,
+      "faith": 5,
+      "food": 10,
+      "gold": 5,
+      "happiness": 10,
+      "production": 5,
+      "science": 5,
+      "military": 9,
+      "aggressive": 10,
+      "declareWar": 9,
+      "commerce": 10,
+      "diplomacy": 6,
+      "loyal": 0,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 10,
+          "Liberty": 5,
+          "Honor": 5,
+          "Commerce": 8,
+          "Patronage": 6,
+          "Piety": 0,
+          "Rationalism": 10,
+          "Freedom": 0,
+          "Autocracy": 0,
+          "Order": 10,
+        
+          "Authority": 0,
+          "Development": 10,
+          "Innovation": 8}
+      },
+      {
+      "name": "Mitosic",
+      "culture": 4,
+      "faith": 7,
+      "food": 7,
+      "gold": 2,
+      "happiness": 5,
+      "production": 8,
+      "science": 4,
+      "military": 8,
+      "aggressive": 9,
+      "declareWar": 8,
+      "commerce": 1,
+      "diplomacy": 2,
+      "loyal": 3,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 2,
+          "Liberty": 10,
+          "Honor": 0,
+          "Commerce": 3,
+          "Patronage": 0,
+          "Piety": 6,
+          "Rationalism": 8,
+          "Freedom": 6,
+          "Autocracy": 8,
+          "Order": 2,
+        
+          "Authority": 3,
+          "Development": 7,
+          "Innovation": 4}
       }
     ]
