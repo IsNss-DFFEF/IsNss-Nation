@@ -97,5 +97,21 @@
           "Authority": 3,
           "Development": 7,
           "Innovation": 4}
-      }
+      },
+    {
+      "name": "Test",
+      "culture": 10,
+      "faith": 10,
+      "food": 10,
+      "gold": 10,
+      "happiness": 10,
+      "production": 10,
+      "science": 10,
+      "military": 10,
+      "aggressive": 10,
+      "declareWar": 10,
+      "commerce": 10,
+      "diplomacy": 10,
+      "loyal": 10,
+      "expansion": 10,
     ]
