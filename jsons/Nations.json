@@ -67,7 +67,7 @@
 		"innerColor": [166,166,166],
 		"uniqueName": "One World, One City",
 		"uniques": [
-			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [4] population [in capital]",
+			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [6] population [in capital]",
 			"[-1 Gold] per [1] population [in puppeted cities]",
 			"[+8000]% Unhappiness from [Population] [in annexed cities]",
 			"Comment [Please DONT annex cities when playing this]",
