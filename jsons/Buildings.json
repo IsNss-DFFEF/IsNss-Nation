@@ -102,4 +102,14 @@
 	],
         "requiredTech": "Telecommunications"
     },
+		{
+		"name": "Inward Vessel",
+		"replaces": "Temple",
+		"faith": 3,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service",
+		"uniques": ["Destroyed when the city is captured", "[+1 Food] [in capital] <in cities connected to the capital>"]
+	},
 ]
