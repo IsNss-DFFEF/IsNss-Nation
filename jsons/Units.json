@@ -5,7 +5,7 @@
 		"uniqueTo": "Isnisia",
 		"movement": 2,
 		"maintenance": 6
-		"strength": 80,
+		"strength": 75,
 		"cost": 400,
 		"requiredTech": "Electronics",
 		"requiredResource": "Iron",
@@ -13,7 +13,7 @@
 			"Only available <in cities with a [Internal Isnisian Security Administration]>",]
 		"civilopediaText": [
 			{
-				"text": "The Isnisian empire's feared police force, few in number yet extremely powerful on the battlefield. This unit's mere presence puts fear deep into the hearts of those bearing the misfortune of encountering it on the frontline."
+				"text": "The Isnisian empire's feared specialized police force, few in number yet extremely powerful on the battlefield. This unit's mere presence puts fear deep into the hearts of those bearing the misfortune of encountering it on the frontline."
 			}
 		],
 		"attackSound": "shot"
