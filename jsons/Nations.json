@@ -88,14 +88,14 @@
 			"Colony N", "Colony O", "Colony P", "Colony Q", "Colony R", "Colony S", "Colony T", "Colony U", "Colony V", "Colony W", "Colony X", "Colony Y", "Colony Z"]
 	},
 {
-		"name": "Cytocytosia",
-		"leaderName": "The Hand of Eternal Proliferation",
+		"name": "Cytosia",
+		"leaderName": "Mitosic",
 		"adjective": [""],
 		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "IsNss",
 		
-		"startIntroPart1": "There is one chanting voice. And it tells you:",
+		"startIntroPart1": "There is one desire, your heart calls:",
 		"startIntroPart2": "'Consume! Multiply! Proliferate!'",
 		
 		"declaringWar": "Consume! Multiply! Proliferate!",
@@ -113,19 +113,18 @@
 
 		"outerColor": [80,235,165],
 		"innerColor": [120,80,165],
-		"uniqueName": "Hand of Eternal Proliferation",
+		"uniqueName": "Hand of Proliferation",
 		"uniques": [
-			"[+100]% growth [in your cities]",
-			"[+100]% Production when constructing [Land] units [in your cities]",
-			"[+50]% Production when constructing [Water] units [in your cities]",
+			"[+50]% growth [in your cities]",
+			"[+33]% Production when constructing [Land] units [in your cities]",
+			"[+25]% Production when constructing [Water] units [in your cities]",
 			"[-50]% Unhappiness from number of cities [in your cities]",
-			"[-50]% Unhappiness from population [in your cities]",
+			"[-33]% Unhappiness from population [in your cities]",
 			"Each city founded increases culture cost of policies [33]% less than normal",
-			"Each city founded increases Science cost of Technologies [33]% less than normal",
-			"[-1 Gold] per [1] population [in your cities]",
+			"[-1 Gold] per [2] population [in your cities]",
 			"[-1 Production] per [3] population [in your cities]",
 			"[+1 Faith] per [4] population [in your cities]",
 			"[-1 Gold, +1 Faith] [in your cities]"
 		]
-		"cities": ["Cytocytosia"]
+		"cities": ["Cytosia"]
 	}]
