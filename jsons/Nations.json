@@ -116,6 +116,7 @@
 			"[+33]% Production when constructing [Civilian] units [in your cities] <in [Grassland] tiles>",
 			"[-33]% Unhappiness from population [in your cities] <in [Grassland] tiles>",
 			"Each city founded increases culture cost of policies [15]% less than normal",
+			"All newly-trained [Land] units [in your cities] receive the [Horrible Matter] promotion  <in [Grassland] tiles>",
 			"[+1 Food] from [All Road] tiles [in your cities] <in [Grassland] tiles> <in tiles adjacent to [City center] tiles> <after discovering [Fertilizer]>",
 		]
 		"cities": ["Cytosia"]
