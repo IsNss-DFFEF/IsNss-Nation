@@ -105,7 +105,11 @@
 	},
 	{"name": "Horrible Matter",
 	"uniques": ["Eliminates combat penalty for attacking over a river",
-	"[This Unit] heals [5] HP <every [1] turns> <in [Grassland] tiles>"],
+	"[This Unit] heals [5] HP <every [1] turns> <in [Grassland] tiles>",
+	"[+15]% Strength <when fighting in [Grassland] tiles>",
+	"[+15]% Strength <when fighting in [Fresh water] tiles>",
+	"[-15]% Strength <when fighting in [Desert] tiles>",
+	"[-15]% Strength <when fighting in [Snow] tiles>",],
 	"column": 289
 	"row": 0,
 	},
