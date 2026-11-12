@@ -103,6 +103,12 @@
         "column": 28952,
         "row": 4
 	},
+	{"name": "Horrible Matter",
+	"uniques": ["Eliminates combat penalty for attacking over a river",
+	"[This Unit] heals [5] HP <every [1] turns> <in [Grassland] tiles>"],
+	"column": 289
+	"row": 0,
+	},
 		//default promotions
 	{
 		"name": "Heal Instantly",
