@@ -88,7 +88,7 @@
 		"name": "Cytosia",
 		"leaderName": "Cumbersome Heart",
 		"adjective": ["Cytosian"],
-		"startBias": ["Grassland", "Avoid Desert", "Avoid Snow", "Avoid Tundra"],
+		"startBias": ["Grassland", "Avoid [Desert]", "Avoid [Snow]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Cumbersome Heart",
 		
