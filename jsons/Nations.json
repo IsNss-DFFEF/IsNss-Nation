@@ -3,7 +3,7 @@
 		"name": "Isnisia",
 		"leaderName": "IsNss",
 		"adjective": ["Isnisian"],
-		"startBias": ["River", "Grassland"],
+		"startBias": ["River", "Lakes"],
 		"preferredVictoryType": "Cultural",
 		"personality": "IsNss",
 		
@@ -86,7 +86,7 @@
 		"name": "Cytosia",
 		"leaderName": "Cumbersome Heart",
 		"adjective": ["Cytosian"],
-		"startBias": ["Grassland", "Avoid [Desert]", "Avoid [Snow]", "Avoid [Tundra]"],
+		"startBias": ["Grassland", "Avoid [Desert]", "Avoid [Snow]", "Avoid [Tundra]", "Avoid [Plains]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Cumbersome Heart",
 		
