@@ -111,7 +111,7 @@
 		"uniqueName": "Heart of Proliferation",
 		"uniques": [
 			"[+1 Food, +1 Production] [in your cities] <in [Grassland] tiles>",
-			"[+20]% [Food] [in your cities] <in [Grassland] tiles>",
+			"[+25]% [Food] [in your cities] <in [Grassland] tiles>",
 			"[-25]% [Production] [in all cities]",
 			"[-15]% [Science] [in all cities]",
 			"Each city founded increases culture cost of policies [33]% less than normal",
