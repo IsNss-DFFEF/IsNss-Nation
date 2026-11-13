@@ -109,7 +109,7 @@
 	"[This Unit] takes [5] damage <upon ending a turn in a [Desert] tile>",
 	"[This Unit] takes [5] damage <upon ending a turn in a [Snow] tile>",
 	"[+15]% Strength <when fighting in [Grassland] tiles>",
-	"[+15]% Strength <when fighting in [Fresh water] tiles>",
+	"[+15]% Strength <when fighting in [Fresh Water] tiles>",
 	"[-15]% Strength <when fighting in [Desert] tiles>",
 	"[-15]% Strength <when fighting in [Snow] tiles>",],
 	"column": 289
