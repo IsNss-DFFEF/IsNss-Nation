@@ -17,7 +17,7 @@
       "expansion": 4,
 
       "priorities": {
-          "Tradition": 5,
+          "Tradition": 10,
           "Liberty": 0,
           "Honor": 5,
           "Commerce": 3,
@@ -28,9 +28,9 @@
           "Autocracy": 7,
           "Order": 7,
         
-          "Authority": 8,
-          "Development": 8,
-          "Innovation": 8}
+          "Authority": 10,
+          "Development": 3,
+          "Innovation": 3}
       },
     {
       "name": "Megacity",
@@ -43,7 +43,7 @@
       "science": 5,
       "military": 10,
       "aggressive": 5,
-      "declareWar": 10,
+      "declareWar": 8,
       "commerce": 8,
       "diplomacy": 8,
       "loyal": 0,
@@ -71,7 +71,7 @@
       "faith": 7,
       "food": 10,
       "gold": 2,
-      "happiness": 5,
+      "happiness": 9,
       "production": 9,
       "science": 4,
       "military": 7,
@@ -94,8 +94,8 @@
           "Autocracy": 4,
           "Order": 8,
         
-          "Authority": 3,
-          "Development": 7,
+          "Authority": 6,
+          "Development": 8,
           "Innovation": 4}
       },
     ]
