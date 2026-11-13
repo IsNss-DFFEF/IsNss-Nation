@@ -68,9 +68,6 @@
 		"uniqueName": "One World, One City",
 		"uniques": [
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [6] population [in capital]",
-			"[-1 Gold] per [1] population [in puppeted cities]",
-			"[-5000 Happiness] [in annexed cities]",
-			"Comment [Please DONT annex cities when playing this civ]",
 			"[3] population [in Capital] <upon adopting [Collective Rule]>",
 			"Comment [Free People for the Megacity units appear upon conquering a city]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
