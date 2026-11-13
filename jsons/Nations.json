@@ -110,9 +110,11 @@
 		"uniqueName": "Heart of Proliferation",
 		"uniques": [
 			"[+1 Food, +1 Production] [in your cities] <in [Grassland] tiles>",
-			"[+33]% Production when constructing [Civilian] units [in your cities] <in [Grassland] tiles>",
+			"[+20]% [Food] [in your cities] <in [Grassland] tiles>",
+			"[-15]% [Production] [in all cities]",
+			"[-15]% [Science] [in all cities]",
+			"Each city founded increases culture cost of policies [33]% less than normal",
 			"[-33]% Unhappiness from population [in your cities] <in [Grassland] tiles>",
-			"Each city founded increases culture cost of policies [15]% less than normal",
 			"All newly-trained [Land] units [in your cities] receive the [Horrible Matter] promotion <in [Grassland] tiles>",
 		]
 		"cities": ["Cytosia"]
