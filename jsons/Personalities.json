@@ -17,9 +17,9 @@
       "expansion": 4,
 
       "priorities": {
-          "Tradition": 10,
-          "Liberty": 0,
-          "Honor": 5,
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 10,
           "Commerce": 3,
           "Patronage": 0,
           "Piety": 0,
@@ -50,11 +50,11 @@
       "expansion": 4,
 
       "priorities": {
-          "Tradition": 10,
+          "Tradition": 8,
           "Liberty": 10,
-          "Honor": 4,
-          "Commerce": 8,
-          "Patronage": 6,
+          "Honor": 3,
+          "Commerce": 7,
+          "Patronage": 5,
           "Piety": 0,
           "Rationalism": 8,
           "Freedom": 10,
