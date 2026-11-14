@@ -47,11 +47,11 @@
       "commerce": 8,
       "diplomacy": 8,
       "loyal": 0,
-      "expansion": 8,
+      "expansion": 4,
 
       "priorities": {
           "Tradition": 10,
-          "Liberty": 0,
+          "Liberty": 4,
           "Honor": 4,
           "Commerce": 10,
           "Patronage": 9,
