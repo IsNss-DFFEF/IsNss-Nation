@@ -67,9 +67,9 @@
 		"innerColor": [166,166,166],
 		"uniqueName": "One World, One City",
 		"uniques": [
-			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [6] population [in capital]",
-			"[3] population [in Capital] <upon adopting [Collective Rule]>",
-			"[+2 Food, +2 Gold, +1 Production, +1 Culture, +1 Science] [in capital] <in [Puppeted] cities>",
+			"[+1 Food, +1 Production, +1 Culture, +1 Happiness] per [6] population [in capital]",
+			"May not annex cities",
+			"[+1 Food, +1 Gold, +1 Production, +1 Culture] [in capital] <in [Puppeted] cities>",
 			"Comment [Free People for the Megacity units appear upon conquering a city]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <during the [Ancient Era]> <hidden from users>",
