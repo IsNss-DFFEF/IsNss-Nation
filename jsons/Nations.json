@@ -67,11 +67,11 @@
 		"innerColor": [120,120,120],
 		"uniqueName": "One World, One City",
 		"uniques": [
-			"[+1 Food, +1 Culture, +1 Happiness] per [5] population [in capital]",
+			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [5] population [in capital]",
 
-			"Comment [+2 Food, +1 Gold, +1 Culture in capital per puppeted city]",
-			"[+2 Food, +1 Gold, +1 Culture] [Capital] <for every [1] [Cities]> <hidden from users>",
-			"[-2 Food, -1 Gold, -1 Culture] [Capital] <hidden from users>",
+	"Comment [+1 Food, +1 Production, +1 Science, +1 Culture in capital per puppeted city]",
+			"[+1 Food, +1 Production, +1 Science, +1 Culture] [Capital] <for every [1] [Cities]> <hidden from users>",
+			"[-1 Food, -1 Production, -1 Science, -1 Culture] [Capital] <hidden from users>",
 			
 			"Comment [-33% Food, Production, Culture, Science, and Gold in puppeted cities]",
 			"[-33]% [Food] [Puppeted] <hidden from users>",
