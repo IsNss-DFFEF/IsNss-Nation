@@ -69,9 +69,9 @@
 		"uniques": [
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [4] population [in capital]",
 
-			"Comment [+1 Food, +1 Production, +1 Science, +1 Culture in capital per puppeted city]",
-			"[+1 Food, +1 Production, +1 Science, +1 Culture] [Capital] <for every [1] [Cities]> <hidden from users>",
-			"[-1 Food, -1 Production, -1 Science, -1 Culture] [Capital] <hidden from users>",
+			"Comment [+2 Food, +2 Production, +2 Science, +2 Culture in capital per puppeted city]",
+			"[+2 Food, +2 Production, +2 Science, +2 Culture] [Capital] <for every [1] [Cities]> <hidden from users>",
+			"[-2 Food, -2 Production, -2 Science, -2 Culture] [Capital] <hidden from users>",
 
 			"Each city founded increases culture cost of policies [33]% less than normal",
 			"Each city founded increases Science cost of Technologies [33]% less than normal",
