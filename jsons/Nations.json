@@ -68,7 +68,8 @@
 		"uniqueName": "One World, One City",
 		"uniques": [
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [5] population [in capital]",
-			"[+1 Food, +1 Production, +1 Culture, +1 Science] [in capital] <in [Puppeted] cities>",
+			"[+1 Food, +1 Production, +1 Culture, +1 Science] [in capital] <for every [Cities]>",
+			"[-1 Food, -1 Production, -1 Culture, -1 Science] [in capital]",
 			"May not annex cities",
 			"Comment [1 Free People for the Megacity units appear upon conquering a city per two eras]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
