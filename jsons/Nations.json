@@ -74,7 +74,7 @@
 			"[-1 Food, -1 Production, -1 Science, -1 Culture] [Capital] <hidden from users>",
 
 			"Each city founded increases culture cost of policies [33]% less than normal",
-			"Each city founded increases Science cost of Technologies [relativeAmount]% less than normal",
+			"Each city founded increases Science cost of Technologies [33]% less than normal",
 			
 			"Comment [-33% Food, Production, Culture, Science, and Gold in puppeted cities]",
 			"[-33]% [Food] [Puppeted] <hidden from users>",
