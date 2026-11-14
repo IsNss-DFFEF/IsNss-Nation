@@ -87,7 +87,9 @@
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
 
 			"May not annex cities",
-			"May buy items in puppet cities"
+			"May buy items in puppet cities",
+
+			"Comment [:p]"
 		]
 		"cities": ["Megacity",
 			"Colony A", "Colony B", "Colony C", "Colony D", "Colony E", "Colony F", "Colony G", "Colony H", "Colony I", "Colony J", "Colony K", "Colony L", "Colony M",
