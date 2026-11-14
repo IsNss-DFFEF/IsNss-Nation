@@ -1,16 +1,24 @@
 [
   	{
 		"name": "City Extension",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Land", "Water"],
 		"uniques": ["Great Improvement", "Removes removable features when built",
             "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+1000 Gold]",
-    "[+2 Food, +2 Gold, +2 Happiness, +5 Production, +5 Culture, +5 Science]"]
+    "[+5 Food, +5 Gold, +5 Happiness, +5 Production, +5 Culture, +5 Science]"]
 	},
 	  	{
 		"name": "Megacity Airport",
 		"terrainsCanBeBuiltOn": ["Land", "Water"],
 		"uniques": ["Great Improvement", "Removes removable features when built",
 			"[1] population [in this city] <every [5] turns> <(modified by game speed)>","[-1] population in a random city <every [5] turns> <(modified by game speed)>",
-			"[1] population [in this city] <with [1]% chance> <every [1] turns>", "[+8 Gold, +2 Culture, +2 Happiness]"]
+			"[1] population [in this city] <with [1]% chance> <every [1] turns>", "[+8 Gold, +3 Culture, +3 Happiness]"]
+	},
+		{
+		"name": "Fort",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"turnsToBuild": 6,
+		"techRequired": "Engineering",
+		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%", "Great Improvement <for [Isnisia] Civilizations>"],
+		"shortcutKey": "O"
 	},
 ]
