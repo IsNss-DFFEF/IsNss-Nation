@@ -70,6 +70,8 @@
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [4] population [in capital]",
 
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] [in capital] <for every [1] [Puppeted]>",
+			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] [in capital] <for every [1] [Cities]> <hidden from users>",
+			"[-1 Food, -1 Production, -1 Science, -1 Culture, -1 Happiness] [in capital]<hidden from users>",
 
 			"Each city founded increases culture cost of policies [40]% less than normal",
 			"Each city founded increases Science cost of Technologies [40]% less than normal",
