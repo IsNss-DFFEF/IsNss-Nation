@@ -48,7 +48,7 @@
 		"cost": 180,
 		"requiredTech": "Agriculture",
 		"uniques": ["Founds a new city <by consuming this unit> <if [Palace] is not constructed>", "Founds a new puppet city <by consuming this unit>",
-			"Requires at least [2] population", "[1] population [in this city] <by consuming this unit>", "[-1] population [in this city]"],
+			"Requires at least [2] population", "[1] population [in this city] <by consuming this unit> <with [50] priority>", "[-1] population [in this city]"],
 		"hurryCostModifier": 20
 	},
 ]
