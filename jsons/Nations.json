@@ -70,7 +70,7 @@
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [4] population [in capital]",
 
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] [in capital] <for every [1] [Puppeted]>",
-			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] [in capital] <for every [1] [Cities]> <hidden from users>",
+			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] [in capital] <for every [1] [City]> <hidden from users>",
 			"[-1 Food, -1 Production, -1 Science, -1 Culture, -1 Happiness] [in capital]<hidden from users>",
 
 			"Each city founded increases culture cost of policies [40]% less than normal",
@@ -89,7 +89,7 @@
 			"May not annex cities",
 			"May buy items in puppet cities",
 
-			"Comment [:p]"
+			"Comment [>:(]"
 		]
 		"cities": ["Megacity",
 			"Colony A", "Colony B", "Colony C", "Colony D", "Colony E", "Colony F", "Colony G", "Colony H", "Colony I", "Colony J", "Colony K", "Colony L", "Colony M",
