@@ -27,11 +27,11 @@
 		"innerColor": [30,120,205],
 		"uniqueName": "Stronger than Steel",
 		"uniques": [
-			"[+1 Culture, +1 Production] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
-			"[+2 Culture, +2 Happiness, +2 Production] from [Citadel] tiles [in all cities]",
+			"[+1 Culture, +1 Production, -1 Food] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
+			"[+2 Culture, +2 Happiness, +2 Production, -1 Food] from [Citadel] tiles [in all cities]",
 			"[+2 Food] from [Citadel] tiles [in all cities] <in [Fresh Water] tiles>",
 			"[+1 Food] from [Fort] tiles [in all cities] <in [Fresh Water] tiles>",
-			"Can build [Fort] improvements at a [+20]% rate"
+			"Comment [Forts can improve on strategic resources]"
 		]
 		"cities": ["Ixuniska","Riyevka","Xizev","Cesixe","Ayoren",
 			"Kerayn","Sikayvka","Plyesxy","Malivsxy","Kezexon",
@@ -47,7 +47,7 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Megacity",
 		
-		"startIntroPart1": "There are many cities in the world, defined by their culture, population, industry, location... They all may be interesting and beautiful in their own right and serve to house so much people and industry in such a dense space. But it is all ultimately meaningless. For there can only be one city, the Megacity.",
+		"startIntroPart1": "There are many cities in the world, defined by their culture, population, industry, location. They are all interesting and beautiful in their own right and serve to house so much people and industry in such a dense space. But does it really matter if there is one city to surpass them all?",
 		"startIntroPart2": "Can you build a biggest city in Unciv history? Can you maintain a megalopolis throughout all the eras? Can this megacity stand the test of time?",
 		
 		"declaringWar": "There can only be one city.",
@@ -67,17 +67,22 @@
 		"innerColor": [166,166,166],
 		"uniqueName": "One World, One City",
 		"uniques": [
-			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [5] population [in capital]",
+			"[+1 Food, +1 Culture, +1 Happiness] per [5] population [in capital]",
+
+			"Comment [+2 Food, +1 Gold, +1 Culture in capital per puppeted city]",
+			"[+2 Food, +1 Gold, +1 Culture] [Capital] <for every [1] [Cities]> <hidden from users>",
+			"[-2 Food, -1 Gold, -1 Culture] [Capital] <hidden from users>",
 			
-			"Comment [+1 Food, +1 Production, +1 Culture, +1 Science in capital per puppeted city]",
-			"[+1 Food, +1 Production, +1 Culture, +1 Science] [in capital] <for every [Cities]> <hidden from users>",
-			"[-1 Food, -1 Production, -1 Culture, -1 Science] [in capital] <hidden from users>",
-			
-			"Comment [-33% Food, Production, Culture, and Science in puppeted cities]",
-			"[-33]% [Food] [Puppeted] <hidden from users",
-			"[-33]% [Production] [Puppeted] <hidden from users",
-			"[-33]% [Culture] [Puppeted] <hidden from users",
-			"[-33]% [Science] [Puppeted] <hidden from users",
+			"Comment [-33% Food, Production, Culture, Science, and Gold in puppeted cities]",
+			"[-33]% [Food] [Puppeted] <hidden from users>",
+			"[-33]% [Production] [Puppeted] <hidden from users>",
+			"[-33]% [Culture] [Puppeted] <hidden from users>",
+			"[-33]% [Science] [Puppeted] <hidden from users>",
+			"[-33]% [Gold] [Puppeted] <hidden from users>",
+
+			"Comment [1 free People for the Megacity units per 2 eras appear upon conquering a city]",
+			"[1] free [People for the Megacity] units appear <upon conquering a city> <for every [2] [Era number]> <hidden from users>",
+			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
 
 			"May not annex cities",
 			"May buy items in puppet cities"
@@ -114,12 +119,10 @@
 		"innerColor": [120,80,165],
 		"uniqueName": "Heart of Proliferation",
 		"uniques": [
-			"[+1 Food, +1 Production] [in your cities] <in [Grassland] tiles>",
+			"[+1 Food, +1 Production, +1 Happiness] [in your cities] <in [Grassland] tiles>",
 			"[+25]% [Food] [in your cities] <in [Grassland] tiles>",
 			"[-25]% [Production] [in all cities]",
 			"[-15]% [Science] [in all cities]",
-			"Each city founded increases culture cost of policies [33]% less than normal",
-			"[-33]% Unhappiness from population [in your cities] <in [Grassland] tiles>",
 			"[Land] units gain the [Horrible Matter] promotion",
 		]
 		"cities": ["Cytosia"]
