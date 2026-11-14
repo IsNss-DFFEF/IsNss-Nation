@@ -68,15 +68,19 @@
 		"uniqueName": "One World, One City",
 		"uniques": [
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [5] population [in capital]",
+			
 			"Comment [+1 Food, +1 Production, +1 Culture, +1 Science in capital per puppeted city]",
 			"[+1 Food, +1 Production, +1 Culture, +1 Science] [in capital] <for every [Cities]> <hidden from users>",
 			"[-1 Food, -1 Production, -1 Culture, -1 Science] [in capital] <hidden from users>",
-			"May not annex cities",
+			
 			"Comment [-33% Food, Production, Culture, and Science in puppeted cities]",
 			"[-33]% [Food] [Puppeted] <hidden from users",
 			"[-33]% [Production] [Puppeted] <hidden from users",
 			"[-33]% [Culture] [Puppeted] <hidden from users",
 			"[-33]% [Science] [Puppeted] <hidden from users",
+
+			"May not annex cities",
+			"May buy items in puppet cities"
 		]
 		"cities": ["Megacity",
 			"Colony A", "Colony B", "Colony C", "Colony D", "Colony E", "Colony F", "Colony G", "Colony H", "Colony I", "Colony J", "Colony K", "Colony L", "Colony M",
