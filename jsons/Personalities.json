@@ -98,4 +98,37 @@
           "Development": 8,
           "Innovation": 4}
       },
+  {
+      "name": "Aebh Amtouli",
+      "culture": 4,
+      "faith": 4,
+      "food": 4,
+      "gold": 4,
+      "happiness": 4,
+      "production": 4,
+      "science": 10,
+      "military": 8,
+      "aggressive": 0,
+      "declareWar": 0,
+      "commerce": 4,
+      "diplomacy": 0,
+      "loyal": 10,
+      "expansion": 2,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 5,
+          "Honor": 0,
+          "Commerce": 0,
+          "Patronage": 0,
+          "Piety": 0,
+          "Rationalism": 10,
+          "Freedom": 8,
+          "Autocracy": 0,
+          "Order": 5,
+        
+          "Authority": 0,
+          "Development": 0,
+          "Innovation": 10}
+      },
     ]
