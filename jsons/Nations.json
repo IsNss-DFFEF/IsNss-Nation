@@ -167,8 +167,8 @@
 			"Only available <if starting in the [Ancient era]>",
 			"Only available <when [Scientific] Victory is enabled>",
 
-			"Comment [+180% Science in all cities which decreases by 2% for every 3 Entropy]",
-			"[+180]% [Science] [in all cities] <hidden from users>",
+			"Comment [+130% Science in all cities which decreases by 2% for every 3 Entropy]",
+			"[+130]% [Science] [in all cities] <hidden from users>",
 			"[-2]% [Science] [in all cities] <for every [3] [Entropy]> <hidden from users>",
 
 			"Comment [+160% Faith and Production in all cities which decreases by 1% for every 2 Entropy]",
