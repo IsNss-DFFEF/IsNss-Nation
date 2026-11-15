@@ -6,6 +6,7 @@
 			{ "text": "...",
 			  "uniques": ["Triggers a [Xiseyu Lose Condition A] event"]
   			}
+		]
 	},
     {
 		"name": "Xiseyu Lose Condition A",
