@@ -177,7 +177,9 @@
 			"[-1]% Strength <for every [2] [Entropy]>",
 			"[-1]% [Production] [in all cities] <for every [2] [Entropy]>",
 
-			"[+1 Happiness] <for every [14] [Entropy]>"
+			"[+1 Happiness] <for every [14] [Entropy]>",
+
+			"Triggers a [Xiseyu Lose Condition] event <when number of [year] is equal to [2000]> <upon turn start>"
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
