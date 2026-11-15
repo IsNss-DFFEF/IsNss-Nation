@@ -131,4 +131,36 @@
 			"[Land] units gain the [Horrible Matter] promotion",
 		]
 		"cities": ["Cytosia"]
+	},
+{
+		"name": "The Xiseyu",
+		"leaderName": "Aebh Amtouli",
+		"adjective": ["Xiseyu"],
+		"startBias": [],
+		"preferredVictoryType": "Scientific",
+		"personality": "Cumbersome Heart",
+		
+		"startIntroPart1": "Your mothers and fathers told you of the curse your species bears. The spiteful deity has hunted the Xiseyu for trillions of years across several realities for a crime they once committed against it. The closer it becomes the stronger the land decays. The Xiseyu have come to cope by travelling from reality to reality, using the resources of whatever planet they find themselves on. This one is among the thousands your forefathers have visited.",
+		"startIntroPart2": "You have roughly 8000 years. Can you organize this generation of entropic refugee fugitives to escape the deity and live another day?",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"hateHello": "...",
+
+		"afterPeace": "...",
+		"tradeRequest": "...",
+		"denounced": "...",
+
+		"outerColor": [80,15,60],
+		"innerColor": [255,255,255],
+		"uniqueName": "Entropic Refugee Fugitives",
+		"uniques": [
+
+		]
+		"cities": [""]
 	}]
