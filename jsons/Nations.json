@@ -167,12 +167,12 @@
 			"Only available <if starting in the [Ancient era]>",
 			"Only available <when [Scientific] Victory is enabled>",
 
-			"[+100]% [Science] [in all cities]",
-			"[+100]% [Faith] [in all cities]",
-			"[+100]% Strength",
-			"[+50]% [Gold] [in all cities]",
-			"[+50]% [Production] [in all cities]",
-			"[+50]% growth [in all cities]",
+			"[+200]% [Science] [in all cities]",
+			"[+200]% [Faith] [in all cities]",
+			"[+200]% Strength",
+			"[+100]% [Gold] [in all cities]",
+			"[+100]% [Production] [in all cities]",
+			"[+100]% growth [in all cities]",
 			
 			"[-1]% [Science] [in all cities] <for every [2] [Entropy]>",
 			"[-1]% [Faith] [in all cities] <for every [2] [Entropy]>",
