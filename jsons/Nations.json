@@ -170,18 +170,16 @@
 			"[+150]% [Science] [in all cities]",
 			"[+150]% [Faith] [in all cities]",
 			"[+150]% Strength",
-			"[+100]% [Happiness] [in all cities]",
 			"[+100]% [Gold] [in all cities]",
 			"[+100]% [Production] [in all cities]",
-			"[+100]% growth [in all cities]",
+			"[+33]% growth [in all cities]",
 			
 			"[-1]% [Science] [in all cities] <for every [2] [Entropy]>",
 			"[-1]% [Faith] [in all cities] <for every [2] [Entropy]>",
 			"[-1]% Strength <for every [2] [Entropy]>",
-			"[-1]% [Happiness] [in all cities] <for every [3] [Entropy]>",
 			"[-1]% [Gold] [in all cities] <for every [3] [Entropy]>",
 			"[-1]% [Production] [in all cities] <for every [3] [Entropy]>",
-			"[-1]% growth [in all cities] <for every [3] [Entropy]>",
+			"[-1]% growth [in all cities] <for every [9] [Entropy]>",
 		]
 		"cities": ["Cetay", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule"]
 	}]
