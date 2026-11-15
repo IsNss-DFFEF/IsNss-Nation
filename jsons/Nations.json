@@ -167,15 +167,19 @@
 			"Only available <if starting in the [Ancient era]>",
 			"Only available <when [Scientific] Victory is enabled>",
 
-			"[+180]% [Science] [in all cities]",
-			"[+110]% [Faith] [in all cities]",
-			"[+110]% Strength",
-			"[+110]% [Production] [in all cities]",
-			
-			"[-2]% [Science] [in all cities] <for every [3] [Entropy]>",
-			"[-1]% [Faith] [in all cities] <for every [2] [Entropy]>",
-			"[-1]% Strength <for every [2] [Entropy]>",
-			"[-1]% [Production] [in all cities] <for every [2] [Entropy]>",
+			"Comment [+180% Science in all cities which decreases by 2% for every 3 Entropy]",
+			"[+180]% [Science] [in all cities] <hidden from users>",
+			"[-2]% [Science] [in all cities] <for every [3] [Entropy]> <hidden from users>",
+
+			"Comment [+160% Faith and Production in all cities which decreases by 1% for every 2 Entropy]",
+			"[+160]% [Faith] [in all cities] <hidden from users>",
+			"[+160]% [Production] [in all cities] <hidden from users>",
+			"[-1]% [Faith] [in all cities] <for every [2] [Entropy]> <hidden from users>",
+			"[-1]% [Production] [in all cities] <for every [2] [Entropy]> <hidden from users>",
+
+			"Comment [+110% Strength which decreases by 1% for every 2 Entropy]",
+			"[+160]% Strength <hidden from users>",
+			"[-1]% Strength <for every [2] [Entropy]> <hidden from users>",
 
 			"[+1 Happiness] <for every [14] [Entropy]>",
 
