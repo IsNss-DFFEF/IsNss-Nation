@@ -1,7 +1,7 @@
 [
     {
 		"name": "Xiseyu Lose Condition",
-		"text": "It has been six thousand years since you arrived here.",
+		"text": "It has been six thousand years since you arrived.",
 		"choices": [
 			{ "text": "...",
 			  "uniques": ["Triggers a [Xiseyu Lose Condition A] event"]
@@ -14,13 +14,13 @@
 		"choices": [
 			{ "text": "Unfortunate",
 			  "uniques": [
-          "[-100]% [Science] [in all cities]",
-          "[-100]% [Happiness] [in all cities]",
-          "[-50]% [Faith] [in all cities]",
-          "[-50]% [Production] [in all cities]",
-          "[-50]% [Food] [in all cities]",
-          "Nullify [Gold] [in all cities]",
-          "Nullify [Culture] [in all cities]"]
+        	"[-100]% [Science] [in all cities]",
+        	"[-50]% [Happiness] [in all cities]",
+        	"[-50]% [Production] [in all cities]",
+    		"[-50]% [Food] [in all cities]",
+			"Nullify [Faith] [in all cities]",
+        	"Nullify [Gold] [in all cities]",
+        	"Nullify [Culture] [in all cities]"]
 			}
 					]
 	}
