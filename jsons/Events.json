@@ -5,8 +5,9 @@
 		"choices": [
 			{ "text": "...",
 			  "uniques": ["Triggers a [Xiseyu Lose Condition A] event"]
-  },
-          {
+  			}
+	},
+    {
 		"name": "Xiseyu Lose Condition A",
 		"text": "Its here. You weren't able to escape in time.",
 		"choices": [
@@ -19,5 +20,7 @@
           "[-50]% [Food] [in all cities]",
           "Nullify [Gold] [in all cities]",
           "Nullify [Culture] [in all cities]"]
-  }
+			}
+					]
+	}
 ]
