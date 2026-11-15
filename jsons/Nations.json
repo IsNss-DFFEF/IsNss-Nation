@@ -161,9 +161,12 @@
 		"uniqueName": "Entropic Refugee Fugitives",
 		"uniques": [
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
+			
 			"[-1000]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
+			
 			"[+50]% Production when constructing [Spaceship part] units [in all cities]",
 			"[+50]% Production when constructing [Apollo Program] buildings [in all cities]",
+			
 			"Only available <if starting in the [Ancient era]>",
 			"Only available <when [Scientific] Victory is enabled>",
 
