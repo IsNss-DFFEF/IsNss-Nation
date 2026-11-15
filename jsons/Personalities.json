@@ -129,6 +129,7 @@
         
           "Authority": 0,
           "Development": 0,
-          "Innovation": 10}
+          "Innovation": 10},
+    "uniques": ["Will not build [World Wonder]"]
       },
     ]
