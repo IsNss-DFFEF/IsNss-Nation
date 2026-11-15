@@ -1,0 +1,7 @@
+[
+  	{
+		"name": "Entropy",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled","Untradeable"]
+	},
+]
