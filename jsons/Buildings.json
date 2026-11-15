@@ -142,7 +142,7 @@
 		"uniques": ["Indicates the capital city"]
 	},
 
-	\\base game wonders
+	//base game wonders
 		{
 		"name": "Temple of Artemis",
 		"culture": 1,
