@@ -127,6 +127,18 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization",
 		"requiredResource" : "Coal"
-			
+	},
+		{
+		"name": "Seuloubhiyi",
+		"replaces": "Palace",
+		"uniqueTo": "The Xiseyu",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 10,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2.5,
+		"cost": 0,
+		"uniques": ["Indicates the capital city"]
 	},
 ]
