@@ -3,15 +3,16 @@
 		"name": "City Extension",
 		"terrainsCanBeBuiltOn": ["Land", "Water"],
 		"uniques": ["Great Improvement", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+1000 Gold]",
-    "[+5 Food, +5 Gold, +5 Happiness, +5 Production, +5 Culture, +5 Science]"]
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+1500 Gold]",
+    "[+5 Food, +5 Gold, +5 Happiness, +5 Production, +5 Culture, +5 Science]", "Gives a defensive bonus of [100]%"]
 	},
 	  	{
 		"name": "Megacity Airport",
 		"terrainsCanBeBuiltOn": ["Land", "Water"],
 		"uniques": ["Great Improvement", "Removes removable features when built",
-			"[1] population [in this city] <every [5] turns> <(modified by game speed)>","[-1] population in a random city <every [5] turns> <(modified by game speed)>",
-			"[1] population [in this city] <with [1]% chance> <every [1] turns>", "[+8 Gold, +3 Culture, +3 Happiness]"]
+			"[1] population [in this city] <upon turn start> <every [4] turns> <(modified by game speed)>",
+			"[-1] population in a random city <upon turn start> <every [4] turns> <(modified by game speed)>",
+			"[1] population [in this city] <upon turn start> <with [1]% chance> <every [1] turns>", "[+12 Gold, +3 Culture, +3 Happiness]"]
 	},
 		{
 		"name": "Fort",
@@ -28,6 +29,7 @@
 		"uniques": ["Excluded from map editor","Turn this tile into a [Grassland] tile",
 		"Only available <in [{Featureless} {Plains}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",
 		"Only available <in [{Featureless} {Tundra}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",
+			
 		"Only available <for units with [Horrible Matter]>"],
 	},
 ]
