@@ -164,23 +164,20 @@
 
 			"[-1000]% Production when constructing [World Wonder] buildings [in all cities]",
 			
-			"[+50]% Production when constructing [Spaceship part] units [in all cities]",
-			"[+50]% Production when constructing [Apollo Program] buildings [in all cities]",
-			
 			"Only available <if starting in the [Ancient era]>",
 			"Only available <when [Scientific] Victory is enabled>",
 
-			"[+150]% [Science] [in all cities]",
-			"[+150]% [Faith] [in all cities]",
-			"[+150]% Strength",
-			"[+100]% [Gold] [in all cities]",
-			"[+100]% [Production] [in all cities]",
+			"[+180]% [Science] [in all cities]",
+			"[+110]% [Faith] [in all cities]",
+			"[+110]% Strength",
+			"[+110]% [Production] [in all cities]",
 			
-			"[-5]% [Science] [in all cities] <for every [8] [Entropy]>",
-			"[-4]% [Faith] [in all cities] <for every [8] [Entropy]>",
-			"[-4]% Strength <for every [8] [Entropy]>",
-			"[-3]% [Gold] [in all cities] <for every [8] [Entropy]>",
-			"[-3]% [Production] [in all cities] <for every [8] [Entropy]>",
+			"[-2]% [Science] [in all cities] <for every [3] [Entropy]>",
+			"[-1]% [Faith] [in all cities] <for every [2] [Entropy]>",
+			"[-1]% Strength <for every [2] [Entropy]>",
+			"[-1]% [Production] [in all cities] <for every [2] [Entropy]>",
+
+			"[+1 Happiness] <for every [14] [Entropy]>"
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
