@@ -107,7 +107,7 @@
       "happiness": 9,
       "production": 9,
       "science": 10,
-      "military": 10,
+      "military": 4,
       "aggressive": 0,
       "declareWar": 0,
       "commerce": 0,
