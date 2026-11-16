@@ -107,13 +107,13 @@
       "happiness": 9,
       "production": 9,
       "science": 10,
-      "military": 4,
+      "military": 3,
       "aggressive": 0,
-      "declareWar": 0,
+      "declareWar": 2,
       "commerce": 7,
       "diplomacy": 0,
       "loyal": 10,
-      "expansion": 2,
+      "expansion": 0,
 
       "priorities": {
           "Tradition": 5,
