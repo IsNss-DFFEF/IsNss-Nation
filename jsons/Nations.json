@@ -169,13 +169,15 @@
 			"[+130]% [Science] [in all cities] <hidden from users>",
 			"[-2]% [Science] [in all cities] <for every [3] [Entropy]> <hidden from users>",
 
-			"Comment [+160% Faith and Production in all cities which decreases by 1% for every 2 Entropy]",
-			"[+160]% [Faith] [in all cities] <hidden from users>",
+			"Comment [+160% Production in all cities which decreases by 1% for every 2 Entropy]",
 			"[+160]% [Production] [in all cities] <hidden from users>",
-			"[-1]% [Faith] [in all cities] <for every [2] [Entropy]> <hidden from users>",
 			"[-1]% [Production] [in all cities] <for every [2] [Entropy]> <hidden from users>",
 
-			"Comment [+84% Strength which decreases by 1% for every 2 Entropy]",
+			"Comment [+90% Faith in all cities which decreases by 1% for every 3 Entropy]",
+			"[+90]% [Faith] [in all cities] <hidden from users>",
+			"[-1]% [Faith] [in all cities] <for every [3] [Entropy]> <hidden from users>",
+
+			"Comment [+84% Strength which decreases by 1% for every 5 Entropy]",
 			"[+84]% Strength <hidden from users>",
 			"[-1]% Strength <for every [5] [Entropy]> <hidden from users>",
 
