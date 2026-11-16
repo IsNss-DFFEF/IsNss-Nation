@@ -163,13 +163,19 @@
 			"[+1 Happiness] <for every [12] [Entropy]>",
 			"Cannot build [World Wonder] buildings",
 			
-			"Comment [Start with some random technologies researched with decreasing frequency per era]",
+			"Comment [Start with technologies researched with decreasing frequency per era]",
 				//Ancient era
-					"[5] free random researchable Tech(s) from the [Ancient era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
-					"[3] free random researchable Tech(s) from the [Classical era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
-					"[2] free random researchable Tech(s) from the [Medieval era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
-					"[2] free random researchable Tech(s) from the [Renaissance era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
-					"[1] free random researchable Tech(s) from the [Industrial era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [The Wheel] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Writing] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Mining] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Calendar] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Animal Husbandry] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Philosophy] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Mathematics] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Iron Working] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Civil Service] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Machinery] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Astronomy] <if starting in the [Ancient era]> <hidden from users>",
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
