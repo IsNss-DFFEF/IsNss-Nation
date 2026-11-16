@@ -167,12 +167,9 @@
 				//Ancient era
 					"Starts with [The Wheel] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Writing] <if starting in the [Ancient era]> <hidden from users>",
-					"Starts with [Mining] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Calendar] <if starting in the [Ancient era]> <hidden from users>",
-					"Starts with [Animal Husbandry] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Philosophy] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Mathematics] <if starting in the [Ancient era]> <hidden from users>",
-					"Starts with [Iron Working] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Civil Service] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Machinery] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Astronomy] <if starting in the [Ancient era]> <hidden from users>",
