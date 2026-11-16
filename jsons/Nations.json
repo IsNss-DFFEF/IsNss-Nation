@@ -162,6 +162,8 @@
 			"[+1 Faith] <for every [10] [Entropy]>",
 			"[+1 Happiness] <for every [12] [Entropy]>",
 			"Cannot build [World Wonder] buildings",
+			
+			"Comment [Start with some random technologies researched with decreasing frequency per era]",
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
