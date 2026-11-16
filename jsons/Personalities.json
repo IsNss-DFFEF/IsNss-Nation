@@ -50,8 +50,8 @@
       "expansion": 4,
 
       "priorities": {
-          "Tradition": 8,
-          "Liberty": 10,
+          "Tradition": 10,
+          "Liberty": 3,
           "Honor": 3,
           "Commerce": 7,
           "Patronage": 5,
@@ -64,6 +64,7 @@
           "Authority": 0,
           "Development": 10,
           "Innovation": 8}
+      "uniques": ["[-50]% weight to [Settler] for AI decisions"]
       },
       {
       "name": "Cumbersome Heart",
@@ -107,17 +108,17 @@
       "happiness": 9,
       "production": 9,
       "science": 10,
-      "military": 3,
+      "military": 1,
       "aggressive": 0,
-      "declareWar": 2,
+      "declareWar": 0,
       "commerce": 7,
       "diplomacy": 0,
       "loyal": 10,
-      "expansion": 0,
+      "expansion": 1,
 
       "priorities": {
-          "Tradition": 5,
-          "Liberty": 5,
+          "Tradition": 10,
+          "Liberty": 0,
           "Honor": 0,
           "Commerce": 0,
           "Patronage": 0,
@@ -130,6 +131,6 @@
           "Authority": 0,
           "Development": 0,
           "Innovation": 10},
-    "uniques": ["Will not build [World Wonder]"]
+    "uniques": ["Will not build [World Wonder]", "[-50]% weight to [Settler] for AI decisions"]
       },
     ]
