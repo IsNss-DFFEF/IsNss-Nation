@@ -163,7 +163,8 @@
 			"[+1 Happiness] <for every [12] [Entropy]>",
 			"Cannot build [World Wonder] buildings",
 			
-			"Comment [Start with eight technologies with decreasing frequency per subsequent era]",
+			"Comment [Start with 8 particular technologies from atmost 3 eras ahead with decreasing frequency per subsequent era]",
+			"Comment [(You start with 6 when starting in Atomic and 5 when starting in Information)]",
 				//Ancient era
 					"Starts with [The Wheel] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Writing] <if starting in the [Ancient era]> <hidden from users>",
