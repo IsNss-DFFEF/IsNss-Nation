@@ -160,7 +160,7 @@
 		"uniques": [
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
 
-			"[-1000]% Production when constructing [World Wonder] buildings [in all cities]",
+			"Cannot build [World Wonder] buildings",
 			
 			"Only available <if starting in the [Ancient era]>",
 			"Only available <when [Scientific] Victory is enabled>",
@@ -182,8 +182,6 @@
 			"[-1]% Strength <for every [5] [Entropy]> <hidden from users>",
 
 			"[+1 Happiness] <for every [14] [Entropy]>",
-
-			"Triggers a [Xiseyu Lose Condition] event <when number of [year] is equal to [2000]> <upon turn start>"
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
