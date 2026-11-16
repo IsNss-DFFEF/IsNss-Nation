@@ -168,11 +168,87 @@
 					"Starts with [The Wheel] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Writing] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Animal Husbandry] <if starting in the [Ancient era]> <hidden from users>",
+			
 					"Starts with [Philosophy] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Mathematics] <if starting in the [Ancient era]> <hidden from users>",
+			
 					"Starts with [Civil Service] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Machinery] <if starting in the [Ancient era]> <hidden from users>",
+			
 					"Starts with [Astronomy] <if starting in the [Ancient era]> <hidden from users>",
+				//Classical era
+					"Starts with [Philosophy] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Mathematics] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Iron Working] <if starting in the [Classical era]> <hidden from users>",
+			
+					"Starts with [Civil Service] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Machinery] <if starting in the [Classical era]> <hidden from users>",
+			
+					"Starts with [Astronomy] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Chemistry] <if starting in the [Classical era]> <hidden from users>",
+
+					"Starts with [Industrialization] <if starting in the [Classical era]> <hidden from users>",
+				//Medieval era
+					"Starts with [Civil Service] <if starting in the [Medieval era]> <hidden from users>",
+					"Starts with [Machinery] <if starting in the [Medieval era]> <hidden from users>",
+					"Starts with [Education] <if starting in the [Medieval era]> <hidden from users>",
+			
+					"Starts with [Astronomy] <if starting in the [Medieval era]> <hidden from users>",
+					"Starts with [Chemistry] <if starting in the [Medieval era]> <hidden from users>",
+
+					"Starts with [Industrialization] <if starting in the [Medieval era]> <hidden from users>",
+					"Starts with [Biology] <if starting in the [Medieval era]> <hidden from users>",
+
+					"Starts with [Replaceable Parts] <if starting in the [Medieval era]> <hidden from users>",
+				//Renaissance era
+					"Starts with [Astronomy] <if starting in the [Renaissance era]> <hidden from users>",
+					"Starts with [Chemistry] <if starting in the [Renaissance era]> <hidden from users>",
+					"Starts with [Economics] <if starting in the [Renaissance era]> <hidden from users>",
+
+					"Starts with [Industrialization] <if starting in the [Renaissance era]> <hidden from users>",
+					"Starts with [Biology] <if starting in the [Renaissance era]> <hidden from users>",
+
+					"Starts with [Replaceable Parts] <if starting in the [Renaissance era]> <hidden from users>",
+					"Starts with [Combustion] <if starting in the [Renaissance era]> <hidden from users>",
+			
+					"Starts with [Rocketry] <if starting in the [Renaissance era]> <hidden from users>",
+				//Industrial era
+					"Starts with [Industrialization] <if starting in the [Industrial era]> <hidden from users>",
+					"Starts with [Biology] <if starting in the [Industrial era]> <hidden from users>",
+					"Starts with [Fertilizer] <if starting in the [Industrial era]> <hidden from users>",
+
+					"Starts with [Replaceable Parts] <if starting in the [Industrial era]> <hidden from users>",
+					"Starts with [Combustion] <if starting in the [Industrial era]> <hidden from users>",
+			
+					"Starts with [Rocketry] <if starting in the [Industrial era]> <hidden from users>",
+					"Starts with [Ecology] <if starting in the [Industrial era]> <hidden from users>",
+
+					"Starts with [Robotics] <if starting in the [Industrial era]> <hidden from users>",
+				//Modern era
+					"Starts with [Replaceable Parts] <if starting in the [Modern era]> <hidden from users>",
+					"Starts with [Combustion] <if starting in the [Modern era]> <hidden from users>",
+					"Starts with [Plastics] <if starting in the [Modern era]> <hidden from users>",
+					"Starts with [Railroads] <if starting in the [Modern era]> <hidden from users>",
+			
+					"Starts with [Rocketry] <if starting in the [Modern era]> <hidden from users>",
+					"Starts with [Ecology] <if starting in the [Modern era]> <hidden from users>",
+
+					"Starts with [Robotics] <if starting in the [Modern era]> <hidden from users>",
+					"Starts with [Nuclear Fusion] <if starting in the [Modern era]> <hidden from users>",
+				//Atomic era
+					"Starts with [Rocketry] <if starting in the [Atomic era]> <hidden from users>",
+					"Starts with [Ecology] <if starting in the [Atomic era]> <hidden from users>",
+					"Starts with [Computers] <if starting in the [Atomic era]> <hidden from users>",
+
+					"Starts with [Robotics] <if starting in the [Atomic era]> <hidden from users>",
+					"Starts with [Nuclear Fusion] <if starting in the [Atomic era]> <hidden from users>",
+					"Starts with [Satellites] <if starting in the [Atomic era]> <hidden from users>",
+				//Information era
+					"Starts with [Robotics] <if starting in the [Information era]> <hidden from users>",
+					"Starts with [Nuclear Fusion] <if starting in the [Information era]> <hidden from users>",
+					"Starts with [Satellites] <if starting in the [Information era]> <hidden from users>",
+					"Starts with [Telecommunications] <if starting in the [Information era]> <hidden from users>",
+					"Starts with [Particle Physics] <if starting in the [Information era]> <hidden from users>",
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
