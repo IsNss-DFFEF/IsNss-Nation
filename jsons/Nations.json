@@ -163,11 +163,11 @@
 			"[+1 Happiness] <for every [12] [Entropy]>",
 			"Cannot build [World Wonder] buildings",
 			
-			"Comment [Start with technologies researched with decreasing frequency per era]",
+			"Comment [Start with eight technologies with decreasing frequency per subsequent era]",
 				//Ancient era
 					"Starts with [The Wheel] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Writing] <if starting in the [Ancient era]> <hidden from users>",
-					"Starts with [Calendar] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Animal Husbandry] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Philosophy] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Mathematics] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Civil Service] <if starting in the [Ancient era]> <hidden from users>",
