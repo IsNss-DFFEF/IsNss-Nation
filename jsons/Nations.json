@@ -48,7 +48,7 @@
 		"personality": "Megacity",
 		
 		"startIntroPart1": "There are many cities in the world, defined by their culture, population, industry, location. They are all interesting and beautiful in their own right and serve to house so much people and industry in such a dense space. But does it really matter if there is one city to surpass them all?",
-		"startIntroPart2": "Can you build a biggest city in Unciv history? Can you maintain a megalopolis throughout all the eras? Can this megacity stand the test of time?",
+		"startIntroPart2": "Can you build a biggest city in Unciv history? Can you maintain a megalopolis throughout all the eras? Can this Megacity stand the test of time?",
 		
 		"declaringWar": "There can only be one city.",
 		"attacked": "...",
@@ -139,7 +139,7 @@
 		"personality": "Aebh Amtouli",
 		
 		"startIntroPart1": "Your mothers and fathers told you of the curse your species bears. The spiteful deity has hunted the Xiseyu for trillions of years across several realities for a crime they once committed against it. The closer it becomes the stronger the land decays. The Xiseyu have come to cope by travelling from reality to reality, using the resources of whatever planet they find themselves on. This one is among the thousands your forefathers have visited.",
-		"startIntroPart2": "You have six thousand years. Can you organize this generation of entropic refugee fugitives to escape the deity and live to survive another day?",
+		"startIntroPart2": "You arrive with tattered knowledge of the universe your forebearers held and exactly 5700 years before that spiteful deity arrives in full force. Can you lead this generation of entropic refugee fugitives to live another day? Can this civilization continue to cheat the test of time?",
 		
 		"declaringWar": "...",
 		"attacked": "...",
@@ -159,29 +159,9 @@
 		"uniqueName": "Entropic Refugee Fugitives",
 		"uniques": [
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
-
+			"[+1 Faith] <for every [10] [Entropy]>",
+			"[+1 Happiness] <for every [12] [Entropy]>",
 			"Cannot build [World Wonder] buildings",
-			
-			"Only available <if starting in the [Ancient era]>",
-			"Only available <when [Scientific] Victory is enabled>",
-
-			"Comment [+130% Science in all cities which decreases by 2% for every 3 Entropy]",
-			"[+130]% [Science] [in all cities] <hidden from users>",
-			"[-2]% [Science] [in all cities] <for every [3] [Entropy]> <hidden from users>",
-
-			"Comment [+160% Production in all cities which decreases by 1% for every 2 Entropy]",
-			"[+160]% [Production] [in all cities] <hidden from users>",
-			"[-1]% [Production] [in all cities] <for every [2] [Entropy]> <hidden from users>",
-
-			"Comment [+90% Faith in all cities which decreases by 1% for every 3 Entropy]",
-			"[+90]% [Faith] [in all cities] <hidden from users>",
-			"[-1]% [Faith] [in all cities] <for every [3] [Entropy]> <hidden from users>",
-
-			"Comment [+84% Strength which decreases by 1% for every 5 Entropy]",
-			"[+84]% Strength <hidden from users>",
-			"[-1]% Strength <for every [5] [Entropy]> <hidden from users>",
-
-			"[+1 Happiness] <for every [14] [Entropy]>",
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
