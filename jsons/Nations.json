@@ -87,9 +87,7 @@
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <hidden from users>",
 
 			"May not annex cities",
-			"May buy items in puppet cities",
-
-			"Comment [:)]"
+			"May buy items in puppet cities"
 		]
 		"cities": ["Megacity",
 			"Colony A", "Colony B", "Colony C", "Colony D", "Colony E", "Colony F", "Colony G", "Colony H", "Colony I", "Colony J", "Colony K", "Colony L", "Colony M",
@@ -177,9 +175,9 @@
 			"[-1]% [Faith] [in all cities] <for every [2] [Entropy]> <hidden from users>",
 			"[-1]% [Production] [in all cities] <for every [2] [Entropy]> <hidden from users>",
 
-			"Comment [+160% Strength which decreases by 1% for every 2 Entropy]",
-			"[+160]% Strength <hidden from users>",
-			"[-1]% Strength <for every [2] [Entropy]> <hidden from users>",
+			"Comment [+84% Strength which decreases by 1% for every 2 Entropy]",
+			"[+84]% Strength <hidden from users>",
+			"[-1]% Strength <for every [5] [Entropy]> <hidden from users>",
 
 			"[+1 Happiness] <for every [14] [Entropy]>",
 
