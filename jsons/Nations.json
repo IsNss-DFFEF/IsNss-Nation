@@ -165,11 +165,11 @@
 			
 			"Comment [Start with some random technologies researched with decreasing frequency per era]",
 				//Ancient era
-					"[5] free random researchable Tech(s) from the [Ancient era] <upon turn start> <before turn number [1]> <if starting in the [Ancient era]> <hidden from users>",
-					"[3] free random researchable Tech(s) from the [Classical era] <upon turn start> <before turn number [1]> <if starting in the [Ancient era]> <hidden from users>",
-					"[2] free random researchable Tech(s) from the [Medieval era] <upon turn start> <before turn number [1]> <if starting in the [Ancient era]> <hidden from users>",
-					"[2] free random researchable Tech(s) from the [Renaissance era] <upon turn start> <before turn number [1]> <if starting in the [Ancient era]> <hidden from users>",
-					"[1] free random researchable Tech(s) from the [Industrial era] <upon turn start> <before turn number [1]> <if starting in the [Ancient era]> <hidden from users>",
+					"[5] free random researchable Tech(s) from the [Ancient era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
+					"[3] free random researchable Tech(s) from the [Classical era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
+					"[2] free random researchable Tech(s) from the [Medieval era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
+					"[2] free random researchable Tech(s) from the [Renaissance era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
+					"[1] free random researchable Tech(s) from the [Industrial era] <upon turn start> <before turn number [2]> <if starting in the [Ancient era]> <hidden from users>",
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
