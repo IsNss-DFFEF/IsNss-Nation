@@ -159,8 +159,11 @@
 		"uniqueName": "Entropic Refugee Fugitives",
 		"uniques": [
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
-			"[+1 Faith] <for every [10] [Entropy]>",
 			"[+1 Happiness] <for every [12] [Entropy]>",
+
+            "[-75]% Spread Religion Strength <in [Foreign] cities>",
+			"[-75]% Natural religion spread [in foreign cities]",
+			
 			"Cannot build [World Wonder] buildings",
 			
 			"Comment [Start with 8 particular technologies from atmost 3 eras ahead with decreasing frequency per subsequent era]",
