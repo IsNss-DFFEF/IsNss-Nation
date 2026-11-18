@@ -35,7 +35,7 @@
   {
 		"name": "Discipline II",
     "prerequisites": ["Discipline I"],
-		"uniques": ["[10] HP when healing", "No damage penalty for wounded units"],
+		"uniques": ["[5] HP when healing", "No damage penalty for wounded units"],
 		"unitTypes": ["IISA"],
         "column": 28952,
         "row": 2
