@@ -47,7 +47,7 @@
       "commerce": 10,
       "diplomacy": 10,
       "loyal": 0,
-      "expansion": 4,
+      "expansion": 0,
 
       "priorities": {
           "Tradition": 10,
@@ -114,7 +114,7 @@
       "commerce": 7,
       "diplomacy": 0,
       "loyal": 10,
-      "expansion": 1,
+      "expansion": 2,
 
       "priorities": {
           "Tradition": 10,
