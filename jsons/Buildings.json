@@ -35,7 +35,7 @@
 				    {
     "name": "Food Imports",
 	"uniqueTo": "Megacity",
-    "cost": 400,
+    "cost": 450,
 	"isNationalWonder": true,
     "uniques": [
 		"[+1 Food, -1 Gold] per [1] population [in this city]","[+6 Food, -6 Gold]",
@@ -47,7 +47,7 @@
 				    {
     "name": "First City Extension",
 	"uniqueTo": "Megacity",
-    "cost": 500,
+    "cost": 540,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
@@ -59,7 +59,7 @@
 		    {
     "name": "Office Complex Complex",
 	"uniqueTo": "Megacity",
-    "cost": 600,
+    "cost": 630,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 3, "Merchant": 3, "Artist": 3, "Engineer": 3},
     "uniques": [
@@ -76,7 +76,7 @@
 		 {
     "name": "Second City Extension",
 	"uniqueTo": "Megacity",
-    "cost": 700,
+    "cost": 720,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
@@ -88,7 +88,7 @@
 			    {
     "name": "Population Imports",
 	"uniqueTo": "Megacity",
-    "cost": 600,
+    "cost": 810,
 	"isNationalWonder": true,
     "uniques": [
 		"[3] population [in this city]","[-1] population in a random city", "[-1] population in a random city","[-1] population in a random city",
@@ -98,7 +98,7 @@
 	 {
     "name": "Third City Extension",
 	"uniqueTo": "Megacity",
-    "cost": 800,
+    "cost": 900,
 	"isNationalWonder": true,
 	"specialistSlots": {"Scientist": 1, "Merchant": 1, "Artist": 1, "Engineer": 1},
     "uniques": [
