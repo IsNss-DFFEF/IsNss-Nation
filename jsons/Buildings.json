@@ -66,7 +66,11 @@
 		"Enables conversion of city production to [Culture]","[10]% Food is carried over after population increases [in all cities]",
 		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]", "Only available <in cities with at least [60] [Population]>"
 	],
-        "requiredTech": "Electricity"
+        "requiredTech": "Electricity",
+		"civilopediaText": [
+			{
+				"text": "It's pretty complex"
+			}
     },
 		 {
     "name": "Second City Extension",
