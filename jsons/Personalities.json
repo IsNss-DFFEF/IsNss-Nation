@@ -108,11 +108,11 @@
       "happiness": 5,
       "production": 5,
       "science": 10,
-      "military": 1,
+      "military": 3,
       "aggressive": 0,
       "declareWar": 0,
       "commerce": 7,
-      "diplomacy": 0,
+      "diplomacy": 1,
       "loyal": 10,
       "expansion": 7,
 
