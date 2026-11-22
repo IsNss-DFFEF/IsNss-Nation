@@ -251,6 +251,7 @@
 					"Starts with [Satellites] <if starting in the [Information era]> <hidden from users>",
 					"Starts with [Telecommunications] <if starting in the [Information era]> <hidden from users>",
 					"Starts with [Particle Physics] <if starting in the [Information era]> <hidden from users>",
+			"All units gain the [Non-Human] promotion"
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	}]
