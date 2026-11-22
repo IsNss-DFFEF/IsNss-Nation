@@ -105,12 +105,18 @@
         "row": 4
 	  },
 	  //Holy Flame
+	{
+		"name": "Arbiter of Judgement",
+		"uniques": ["[Target Unit] gains the [Holy Flame] status for [7] turn(s)"],
+        "column": 333,
+        "row": 1
+			},
 	    {
 		"name": "Holy Flame",
 		"uniques": ["Unavailable",
 			"[This] unit takes [7] damage <upon turn start>", "[-17]% Strength"],
         "column": 333,
-        "row": 1
+        "row": 2
 			},
 	  //other
 	{"name": "Horrible Matter",
