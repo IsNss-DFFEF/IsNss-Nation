@@ -286,9 +286,8 @@
 		"Earn [50]% of killed [Military] unit's [Strength] as [Faith] <vs [The Xiseyu] units>",
 		"[+50]% Strength <vs [Cytosia] units> <when attacking>",
 		"[+33]% Strength <vs [The Xiseyu] units> <when attacking>",
-			
-			"[Target Unit] gains the [Holy Flame] status for [7] turn(s)",
-			"[+1 Faith] <for every [2] [[{Military} {Land}] Units]>"
+			"[{Military} {Land}] units gain the [Arbiter of Judgement] promotion",
+
 		]
 		"cities": ["Manudeii"]
 	},]
