@@ -117,13 +117,11 @@
 
 		"outerColor": [80,235,165],
 		"innerColor": [120,80,165],
-		"uniqueName": "Heart of Proliferation",
+		"uniqueName": "Horrible Matter",
 		"uniques": [
-			"[+1 Food, +1 Production, +1 Happiness] [in your cities] <in [Grassland] tiles>",
-			"[+20]% [Food] [in your cities] <in [Grassland] tiles>",
-			"[-15]% [Production] [in all cities]",
-			"[-15]% [Science] [in all cities]",
-			"[-33]% Unhappiness from [Population] [in all cities] <in [Grassland] tiles>",
+			"[+1 Production, +1 Food, +1 Happiness] [in your cities] <in [Grassland] tiles>",
+			"[-1 Science, -1 Culture] per [1] population [in all cities]",
+			"[-50]% Unhappiness from [Population] [in all cities] <in [Grassland] tiles>",
 			"[Land] units gain the [Horrible Matter] promotion",
 		]
 		"cities": ["Cytosia"]
