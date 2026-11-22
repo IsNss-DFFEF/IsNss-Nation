@@ -18,7 +18,8 @@
         "type": "Pantheon",
         "uniques": ["Only available <for [Manudeii] Civilizations>",
 			"[+1 Faith] from all [Barracks] buildings",
+			"[+1 Faith] from all [Armory] buildings",
 			"[+1 Faith] <for every [3] [[{Military} {Land}] Units]>",
-			"[1000000]% weight to this choice for AI decisions <hidden from users>",]
+			"[7777777]% weight to this choice for AI decisions <hidden from users>",]
     },
 ]
