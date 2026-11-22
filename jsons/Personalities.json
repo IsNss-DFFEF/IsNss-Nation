@@ -36,7 +36,7 @@
       "name": "Megacity",
       "culture": 5,
       "faith": 5,
-      "food": 15,
+      "food": 20,
       "gold": 10,
       "happiness": 15,
       "production": 10,
@@ -114,7 +114,7 @@
       "commerce": 7,
       "diplomacy": 1,
       "loyal": 10,
-      "expansion": 7,
+      "expansion": 3,
 
       "priorities": {
           "Tradition": 10,
@@ -141,7 +141,7 @@
       "gold": 0,
       "happiness": 5,
       "production": 9,
-      "science": 0,
+      "science": 5,
       "military": 20,
       "aggressive": 8,
       "declareWar": 10,
