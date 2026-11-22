@@ -293,6 +293,10 @@
 			"[Enemy] units gain the [Holy Flame IV] promotion <for units with [Holy Flame III]> <when attacking>",
 			"[Enemy] units gain the [Holy Flame V] promotion <for units with [Holy Flame IV]> <when attacking>",
 			"[Enemy] units gain the [Holy Flame VI] promotion <for units with [Holy Flame V]> <when attacking>",
+			"[Enemy] units gain the [Holy Flame VII] promotion <for units with [Holy Flame VI]> <when attacking>",
+			"[Enemy] units gain the [Holy Flame VIII] promotion <for units with [Holy Flame VII]> <when attacking>",
+			"[Enemy] units gain the [Holy Flame IX] promotion <for units with [Holy Flame VIII]> <when attacking>",
+			"[Enemy] units gain the [Holy Flame X] promotion <for units with [Holy Flame IX]> <when attacking>",
 		]
 		"cities": ["Manudeii"]
 	},]
