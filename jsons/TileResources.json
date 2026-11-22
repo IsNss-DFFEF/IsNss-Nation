@@ -4,4 +4,9 @@
 		"resourceType": "Bonus",
 		"uniques": ["Untradeable"]
 	},
+	{
+		"name": "Horrible Matter",
+		"resourceType": "Strategic",
+		"uniques": ["Untradeable"]
+	},
 ]
