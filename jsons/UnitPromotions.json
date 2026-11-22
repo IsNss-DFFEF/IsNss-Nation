@@ -108,7 +108,7 @@
 	    {
 		"name": "Holy Flame",
 		"uniques": ["Unavailable",
-			"[This] unit takes [4] damage <upon turn start>"],
+			"[This] unit takes [7] damage <upon turn start>", "[-17]% Strength"],
         "column": 333,
         "row": 1
 			},
