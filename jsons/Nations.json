@@ -288,6 +288,7 @@
 		"[+33]% Strength <vs [The Xiseyu] units> <when attacking>",
 			
 			"[Target Unit] gains the [Holy Flame] status for [7] turn(s)",
+			"[+1 Faith] <for every [2] [[{Military} {Land}] Units]>"
 		]
 		"cities": ["Manudeii"]
 	},]
