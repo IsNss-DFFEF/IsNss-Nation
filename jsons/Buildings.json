@@ -154,8 +154,8 @@
 		"percentStatBonus": {"science": 5, "food": 5},
 		"specialistSlots": {"Scientist": 4},
 		"requiredBuilding": "Library",
-		"uniques": ["[+1 Science] from [Grassland] tiles [in this city]", "Destroyed when the city is captured",
-			"Provides [6] [Horrible Matter]", "[+2 Food, -1 Science] from every [Scientist]"],
+		"uniques": ["[+1 Science] from [Grassland] tiles [in this city] <within [2] tiles of a [City center]>", "Destroyed when the city is captured",
+			"Provides [6] [Horrible Matter]", "[+2 Food, -1 Science] from every [Scientist] <in [this] city>"],
 		"requiredTech": "Education"
 	},
 		{
@@ -184,7 +184,7 @@
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
 		"requiredTech": "Acoustics",
-		"uniques": ["Destroyed when the city is captured", "Provides [4] [Horrible Matter]", "[+2 Food, -1 Culture] from every [Artist]"]
+		"uniques": ["Destroyed when the city is captured", "Provides [4] [Horrible Matter]", "[+2 Food, -1 Culture] from every [Artist] <in [this] city>"]
 	},
 		{
 		"name": "Proliferate Press",
