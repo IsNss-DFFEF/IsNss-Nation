@@ -153,7 +153,7 @@
 		"specialistSlots": {"Scientist": 3},
 		"requiredBuilding": "Library",
 		"uniques": ["[+1 Science] from [Grassland] tiles [in this city]", "Destroyed when the city is captured",
-			"Provides [6] [Horrible Matter]", "[+2 Food, -1 Scientist] from every [Scientist]"],
+			"Provides [6] [Horrible Matter]", "[+2 Food, -1 Science] from every [Scientist]"],
 		"requiredTech": "Education"
 	},
 		{
