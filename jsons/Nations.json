@@ -287,16 +287,16 @@
 		"[+50]% Strength <vs [Cytosia] units> <when attacking>",
 		"[+33]% Strength <vs [The Xiseyu] units> <when attacking>",
 			
-			"[Enemy] units gain the [Holy Flame I] promotion <for units without [Holy Flame I]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame II] promotion <for units with [Holy Flame I]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame III] promotion <for units with [Holy Flame II]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame IV] promotion <for units with [Holy Flame III]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame V] promotion <for units with [Holy Flame IV]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame VI] promotion <for units with [Holy Flame V]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame VII] promotion <for units with [Holy Flame VI]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame VIII] promotion <for units with [Holy Flame VII]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame IX] promotion <for units with [Holy Flame VIII]> <when attacking>",
-			"[Enemy] units gain the [Holy Flame X] promotion <for units with [Holy Flame IX]> <when attacking>",
+			"[Major] units gain the [Holy Flame I] promotion <for units without [Holy Flame I]> <when attacking>",
+			"[Major] units gain the [Holy Flame II] promotion <for units with [Holy Flame I]> <when attacking>",
+			"[Major] units gain the [Holy Flame III] promotion <for units with [Holy Flame II]> <when attacking>",
+			"[Major] units gain the [Holy Flame IV] promotion <for units with [Holy Flame III]> <when attacking>",
+			"[Major] units gain the [Holy Flame V] promotion <for units with [Holy Flame IV]> <when attacking>",
+			"[Major] units gain the [Holy Flame VI] promotion <for units with [Holy Flame V]> <when attacking>",
+			"[Major] units gain the [Holy Flame VII] promotion <for units with [Holy Flame VI]> <when attacking>",
+			"[Major] units gain the [Holy Flame VIII] promotion <for units with [Holy Flame VII]> <when attacking>",
+			"[Major] units gain the [Holy Flame IX] promotion <for units with [Holy Flame VIII]> <when attacking>",
+			"[Major] units gain the [Holy Flame X] promotion <for units with [Holy Flame IX]> <when attacking>",
 		]
 		"cities": ["Manudeii"]
 	},]
