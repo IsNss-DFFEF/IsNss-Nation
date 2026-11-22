@@ -99,8 +99,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Cumbersome Heart",
 		
-		"startIntroPart1": "There is one desire, your heart calls:",
-		"startIntroPart2": "'Consume! Multiply! Proliferate!'",
+		"startIntroPart1": "From the loam you were born, with a primal lust for freshwater. By fate or by coincidence you came into contact with humanity. They were unintentionally kind, granting you what they considered waste. You festered and grew until you learnt to hijack their feeble minds, within it a bounty of imagination and ingenuity. Oh what a wonderful sight is man's psyche! You wonder what more other humans may contain? Though do be mindful of your own anatomy, for you cannot handle the hot, cold, and dry.",
+		"startIntroPart2": "You, your territory and name granted by the self proclaimed vanguard of humanity, has had a taste of consciousness and has now developed an insatiable hunger for it. Your heart calls: 'Consume! Multiply! Proliferate!'",
 		
 		"declaringWar": "Consume! Multiply! Proliferate!",
 		"attacked": "Consume! Multiply! Proliferate!",
@@ -123,7 +123,8 @@
 			"[-50]% Unhappiness from [Population] [in all cities] <in [Grassland] tiles>",
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
 			"Provides [2] [Horrible Matter]",
-			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>"
+			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>",
+			"[+2 Food, -1 Culture] from every [Artist]", "[+2 Food, -1 Science] from every [Scientist]"
 		]
 		"cities": ["Cytosia"]
 	},
