@@ -279,7 +279,7 @@
 		"denounced": "...",
 
 		"outerColor": [255,255,150],
-		"innerColor": [255,255,255],
+		"innerColor": [200,0,0],
 		"uniqueName": "Righteous Hand of the God of Man",
 		"uniques": [
 		"Earn [100]% of killed [Military] unit's [Strength] as [Faith] <vs [Cytosia] units>",
