@@ -122,7 +122,10 @@
 			"[+1 Production, +1 Food, +1 Happiness] [in your cities] <in [Grassland] tiles>",
 			"[-1 Science, -1 Culture] per [1] population [in all cities]",
 			"[-50]% Unhappiness from [Population] [in all cities] <in [Grassland] tiles>",
-			"[Land] units gain the [Horrible Matter] promotion",
+			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
+			"Provides [1] [Horrible Matter]",
+			"Provides [1] [Horrible Matter] <in [all] cities> <in [Grassland] tiles>",
+			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>"
 		]
 		"cities": ["Cytosia"]
 	},
