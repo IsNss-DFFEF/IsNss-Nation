@@ -287,16 +287,16 @@
 		"[+50]% Strength <vs [Cytosia] units> <when attacking>",
 		"[+33]% Strength <vs [The Xiseyu] units> <when attacking>",
 			
-			"[Target Unit] gains the [Holy Flame I] promotion <when attacking>",
-			"[Target Unit] gains the [Holy Flame II] promotion <for units with [Holy Flame I]> <when attacking>",
-			"[Target Unit] gains the [Holy Flame III] promotion <for units with [Holy Flame II]> <when attacking>",
-			"[Target Unit] gains the [Holy Flame IV] promotion <for units with [Holy Flame III]> <when attacking>",
-			"[Target Unit] gains the [Holy Flame V] promotion <for units with [Holy Flame IV]> <when attacking>",
-			"[Target Unit] gains the [Holy Flame VI] promotion <for units with [Holy Flame V]> <when attacking>",
-			"[Target Unit] gains the [Holy Flame VII] promotion <for units with [Holy Flame VI]> <when attacking>",
-			"[Target Unit] gains the [Holy Flame VIII] promotion <for units with [Holy Flame VII]> <when attacking>",
-			"[Target Unit] gains the [Holy Flame IX] promotion <for units with [Holy Flame VIII]> <when attacking>",
-			"[Target Unit] gains the [Holy Flame X] promotion <for units with [Holy Flame IX]> <when attacking>",
+			"[Target Unit] gains the [Holy Flame I] promotion",
+			"[Target Unit] gains the [Holy Flame II] promotion <for units with [Holy Flame I]>",
+			"[Target Unit] gains the [Holy Flame III] promotion <for units with [Holy Flame II]>",
+			"[Target Unit] gains the [Holy Flame IV] promotion <for units with [Holy Flame III]>",
+			"[Target Unit] gains the [Holy Flame V] promotion <for units with [Holy Flame IV]>",
+			"[Target Unit] gains the [Holy Flame VI] promotion <for units with [Holy Flame V]>",
+			"[Target Unit] gains the [Holy Flame VII] promotion <for units with [Holy Flame VI]>",
+			"[Target Unit] gains the [Holy Flame VIII] promotion <for units with [Holy Flame VII]>",
+			"[Target Unit] gains the [Holy Flame IX] promotion <for units with [Holy Flame VIII]>",
+			"[Target Unit] gains the [Holy Flame X] promotion <for units with [Holy Flame IX]>",
 		]
 		"cities": ["Manudeii"]
 	},]
