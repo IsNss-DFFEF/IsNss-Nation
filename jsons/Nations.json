@@ -123,8 +123,7 @@
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
 			"Provides [2] [Horrible Matter]",
 			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>",
-			"[+2 Food, -2 Culture] from every [Artist]", "[+2 Food, -2 Science] from every [Scientist]",
-			"All units gain the [Non-Human] promotion <hidden from users>"
+			"[+2 Food, -2 Culture] from every [Artist]", "[+2 Food, -2 Science] from every [Scientist]"
 		]
 		"cities": ["Cytosia"]
 	},
@@ -250,8 +249,8 @@
 					"Starts with [Nuclear Fusion] <if starting in the [Information era]> <hidden from users>",
 					"Starts with [Satellites] <if starting in the [Information era]> <hidden from users>",
 					"Starts with [Telecommunications] <if starting in the [Information era]> <hidden from users>",
-					"Starts with [Particle Physics] <if starting in the [Information era]> <hidden from users>",
-			"All units gain the [Non-Human] promotion <hidden from users>"
+					"Starts with [Particle Physics] <if starting in the [Information era]> <hidden from users>"
+			//Add events to necessitate military and to add a hard timer for scientific victory
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
 	},
