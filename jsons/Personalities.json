@@ -84,13 +84,13 @@
       "expansion": 1,
 
       "priorities": {
-          "Tradition": 2,
+          "Tradition": 6,
           "Liberty": 10,
           "Honor": 0,
           "Commerce": 3,
           "Patronage": 0,
-          "Piety": 6,
-          "Rationalism": 8,
+          "Piety": 8,
+          "Rationalism": 2,
           "Freedom": 6,
           "Autocracy": 4,
           "Order": 8,
