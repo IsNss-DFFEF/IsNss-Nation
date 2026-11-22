@@ -1,4 +1,5 @@
 [
+	//Isnisia
 	    {
         "name": "Internal Isnisian Security Administration",
 	"replaces": "National Intelligence Agency",
@@ -32,6 +33,7 @@
 			"[+1 Food, +1 Science] from every [Fort] <in this city>",
 			"[+2 Food, +2 Science, +1 Gold] from every [Citadel] <in this city>",]
 	},
+	//Megacity
 				    {
     "name": "Food Imports",
 	"uniqueTo": "Megacity",
@@ -107,16 +109,92 @@
 	],
         "requiredTech": "Telecommunications"
     },
+	//Cytosia
+		{
+		"name": "Shrine on the Soil",
+		"replaces": "Shrine",
+		"uniqueTo": "Cytosia",
+		"faith": 1,
+		"cost": 40,
+		"percentStatBonus": {"food": 5},
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Destroyed when the city is captured", "Provides [2] [Horrible Matter]"]
+	},
 		{
 		"name": "Inward Vessel",
 		"replaces": "Temple",
 		"uniqueTo": "Cytosia",
 		"faith": 3,
+		"food": 1,
+		"percentStatBonus": {"food": 5},
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Civil Service",
-		"uniques": ["Destroyed when the city is captured", "[+1 Food] [in capital] <in cities connected to the capital>"]
+		"uniques": ["Destroyed when the city is captured", "[+1 Food] [in capital] <in cities connected to the capital>", "Provides [3] [Horrible Matter]"]
+	},
+	{
+		"name": "Observe the Psyche",
+		"replaces": "Library",
+		"uniqueTo": "Cytosia",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [3] population [in this city]", "Destroyed when the city is captured", "Provides [4] [Horrible Matter]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Levy the Mind",
+		"replaces": "University",
+		"uniqueTo": "Cytosia",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 25, "food": 5},
+		"specialistSlots": {"Scientist": 3},
+		"requiredBuilding": "Library",
+		"uniques": ["[+1 Science] from [Grassland] tiles [in this city]", "Destroyed when the city is captured",
+			"Provides [6] [Horrible Matter]", "[+2 Food, -1 Scientist] from every [Scientist]"],
+		"requiredTech": "Education"
+	},
+		{
+		"name": "Hall for the Esurient",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Cytosia",
+		"culture": 1,
+		"food": 2,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured", "Provides [2] [Horrible Matter]"],
+		"requiredTech": "Drama and Poetry"
+	},
+		{
+		"name": "Ballads of Aspiration",
+		"replaces": "Opera House",
+		"uniqueTo": "Cytosia",
+		"culture": 2,
+		"food": 2,
+		"percentStatBonus": {"culture": 10, "food": 5},
+		"specialistSlots": {"Artist": 4},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured", "Provides [4] [Horrible Matter]", "[+2 Food, -1 Culture] from every [Artist]"]
+	},
+		{
+		"name": "Proliferate Press",
+		"replaces": "Workshop",
+		"uniqueTo": "Cytosia",
+		"maintenance": 2,
+		"production": 1,
+		"food": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 5, "food": 5},
+		"uniques": ["Provides [3] [Horrible Matter]", "Destroyed when the city is captured"],
+		"requiredTech": "Metal Casting"
 	},
 		{
 		"name": "Hand of Proliferation",
@@ -124,15 +202,17 @@
 		"uniqueTo": "Cytosia",
 		"cost": 360,
 		"production": 2,
-		"food": 2,
+		"food": 3,
 		"percentStatBonus": {"production": 5, "food": 5},
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
+		"uniques": ["Provides [5] [Horrible Matter]", "Destroyed when the city is captured"],
 		"requiredTech": "Industrialization",
 		"requiredResource" : "Coal"
 	},
+	//The Xiseyu
 		{
 		"name": "Seuloubhiyi",
 		"replaces": "Palace",
@@ -141,6 +221,7 @@
 		"production": 6,
 		"science": 6,
 		"gold": 3,
+		"faith": 1,
 		"culture": 1,
 		"cityStrength": 2.5,
 		"cost": 0,
