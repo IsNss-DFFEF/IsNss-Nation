@@ -38,7 +38,6 @@
 			"Raikexi","Auxores","Sivinoka","Zokacsy","Kobrin",
 			"Kistrisxy","Liwina"]
 	},
-
 	{
 		"name": "Megacity",
 		"leaderName": "Megacity",
@@ -255,4 +254,39 @@
 			"All units gain the [Non-Human] promotion <hidden from users>"
 		]
 		"cities": ["Cetayi", "Lu Tebha", "Asoubh", "Meyule", "Xarebhyu", "Tocyule", "Saeloux", "Myeubha"]
-	}]
+	},
+{
+		"name": "Manudeii",
+		"leaderName": "IsNss",
+		"adjective": ["Manudeiian"],
+		"startBias": [],
+		"preferredVictoryType": "Cultural",
+		"personality": "IsNss",
+		
+		"startIntroPart1": "TBD TBD",
+		"startIntroPart2": "TBD TBD",
+		
+		"declaringWar": "..",
+		"attacked": "...",
+		"defeated": "...",
+		
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"hateHello": "...",
+
+		"afterPeace": "...",
+		"tradeRequest": "...",
+		"denounced": "...",
+
+		"outerColor": [255,255,150],
+		"innerColor": [255,255,255],
+		"uniqueName": "Righteous Hand of the God of Man",
+		"uniques": [
+		"Earn [100]% of killed [Military] unit's [Strength] as [Faith] <vs [Cytosia] units>",
+		"Earn [100]% of killed [Military] unit's [Strength] as [Faith] <vs [The Xiseyu] units>",
+		"[+50]% Strength <vs [Horrible Matter] units>",
+		"[+50]% Strength <vs [The Xiseyu] units>"
+		]
+		"cities": ["Manudeii"]
+	},]
