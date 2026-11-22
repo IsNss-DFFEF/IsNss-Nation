@@ -133,4 +133,38 @@
           "Innovation": 10},
     "uniques": ["Will not build [World Wonder]", "[-50]% weight to [Settler] for AI decisions"]
       },
+   {
+      "name": "Zacharias",
+      "culture": 4,
+      "faith": 10,
+      "food": 6,
+      "gold": 0,
+      "happiness": 4,
+      "production": 6,
+      "science": 0,
+      "military": 10,
+      "aggressive": 8,
+      "declareWar": 10,
+      "commerce": 5,
+      "diplomacy": 3,
+      "loyal": 0,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 0,
+          "Liberty": 0,
+          "Honor": 10,
+          "Commerce": 0,
+          "Patronage": 4,
+          "Piety": 10,
+          "Rationalism": 0,
+          "Freedom": 0,
+          "Autocracy": 10,
+          "Order": 0,
+        
+          "Authority": 10,
+          "Development": 0,
+          "Innovation": 0},
+    "uniques": []
+      },
     ]
