@@ -122,11 +122,7 @@
 			"[+1 Production, +1 Food, +1 Happiness] [in your cities] <in [Grassland] tiles>",
 			"[-50]% Unhappiness from [Population] [in all cities] <in [Grassland] tiles>",
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
-			"Provides [1] [Horrible Matter] <in [capital] cities>",
-			"Provides [1] [Horrible Matter] <in [all] cities>",
-			"Provides [4] [Horrible Matter] <in cities with a [Aqueduct]>",
-			"Provides [2] [Horrible Matter] <in cities with a [Water Mill]>",
-			"Provides [1] [Horrible Matter] <in [all] cities> <in [Grassland] tiles>",
+			"Provides [1] [Horrible Matter]",
 			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>"
 		]
 		"cities": ["Cytosia"]
