@@ -76,11 +76,9 @@
 			"Each city founded increases culture cost of policies [40]% less than normal",
 			"Each city founded increases Science cost of Technologies [40]% less than normal",
 			
-			"Comment [-33% Food, Production, Culture, and Science in puppeted cities]",
-			"[-33]% [Food] [Puppeted] <hidden from users>",
+			"Comment [-33% Growth and Production in puppeted cities]",
+			"[-33]% Growth [Puppeted] <hidden from users>",
 			"[-33]% [Production] [Puppeted] <hidden from users>",
-			"[-33]% [Culture] [Puppeted] <hidden from users>",
-			"[-33]% [Science] [Puppeted] <hidden from users>",
 
 			"Comment [1 free People for the Megacity units per 2 eras appear upon conquering a city]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <for every [2] [Era number]> <hidden from users>",
