@@ -3,8 +3,21 @@
         "name": "Estrixaelbhi",
         "type": "Pantheon",
         "uniques": ["Only available <for [The Xiseyu] Civilizations>",
-			"[+1 Science] [in capital] <for every [1] [[Faith] Per Turn]>",
-			"[+1 Faith] [in capital] <for every [2] [Researched [All] Technologies]>",
+			"[+1 Faith] [in cities following this religion] <for every [4] [Researched [All] Technologies]>",
+			"[1000000]% weight to this choice for AI decisions <hidden from users>",]
+    },
+	{
+        "name": "For the Cumbersome Heart",
+        "type": "Pantheon",
+        "uniques": ["Only available <for [Cytosia] Civilizations>",
+			"[+1 Faith] from every [Grassland]",
+			"[1000000]% weight to this choice for AI decisions <hidden from users>",]
+    },
+	{
+        "name": "Vanguard of Humanity",
+        "type": "Pantheon",
+        "uniques": ["Only available <for [Manudeii] Civilizations>",
+			"[+1 Faith] <for every [2] [[{Military} {Land}] Units]>",
 			"[1000000]% weight to this choice for AI decisions <hidden from users>",]
     },
 ]
