@@ -98,8 +98,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Cumbersome Heart",
 		
-		"startIntroPart1": "From the loam you were born, with a primal lust for freshwater. By fate or by coincidence you came into contact with humanity. They were unintentionally kind, granting you what they considered waste. You festered and grew until you learnt to hijack their feeble minds, within it a bounty of imagination and ingenuity. Oh what a wonderful sight is man's psyche! You wonder what more other humans may contain? Though do be mindful of your own anatomy, for you cannot handle the hot, cold, and dry.",
-		"startIntroPart2": "You, your territory and name granted by the self proclaimed vanguard of humanity, has had a taste of consciousness and has now developed an insatiable hunger for it. Your heart calls: 'Consume! Multiply! Proliferate!'",
+		"startIntroPart1": "From the loam you were born, only knowing of the water in the soil. By fate or by coincidence you came into contact with humanity. They were suprisingly kind, granting you what they considered waste. You festered and grew, hiding in their manure until you learnt their language and way of life; Within it a bounty of imagination and ingenuity. Oh what a wonderful taste is man's psyche! It is so delectable you must find and consume more! Though even with such a wonderful vessel, be wary of your own basal anatomy, for you cannot handle the hot, cold, and dry.",
+		"startIntroPart2": "You, your territory and name granted by the self proclaimed vanguard of humanity, has had a taste of consciousness and has now developed an insatiable hunger for it. Throughout the annals of time, your heart calls: 'Consume! Multiply! Proliferate!'",
 		
 		"declaringWar": "Consume! Multiply! Proliferate!",
 		"attacked": "Consume! Multiply! Proliferate!",
@@ -131,11 +131,11 @@
 		"name": "The Xiseyu",
 		"leaderName": "Aebh Amtouli",
 		"adjective": ["Xiseyu"],
-		"startBias": [],
+		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Aebh Amtouli",
 		
-		"startIntroPart1": "Your mothers and fathers told you of the curse your species bears. The spiteful deity has hunted the Xiseyu for trillions of years across several realities for a crime they once committed against it. The closer it becomes the stronger the land decays. The Xiseyu have come to cope by travelling from reality to reality, using the resources of whatever planet they find themselves on. This one is among the thousands your forefathers have visited.",
+		"startIntroPart1": "Your mothers and fathers told you of the curse your species bears. The spiteful deity has hunted the Xiseyu for trillions of years across several realities for the crime of communal immortality. The closer it becomes the stronger their souls decay. The Xiseyu have come to cope by travelling from reality to reality, using the resources of whatever planet they find themselves on. This one is among the thousands your forefathers have visited.",
 		"startIntroPart2": "You arrive with tattered knowledge of the universe your forebearers held and exactly 5700 years before that spiteful deity arrives in full force. Can you lead this generation of entropic refugee fugitives to live another day? Can this civilization continue to cheat the test of time?",
 		
 		"declaringWar": "...",
@@ -158,12 +158,12 @@
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
 			"[+1 Happiness] <for every [12] [Entropy]>",
 
-            "[-75]% Spread Religion Strength <in [Foreign] cities>",
-			"[-75]% Natural religion spread [in foreign cities]",
+            "[-90]% Spread Religion Strength <in [Foreign] cities>",
+			"[-90]% Natural religion spread [in foreign cities]",
 			
 			"Cannot build [World Wonder] buildings",
 			
-			"Comment [Start with 8 particular technologies from atmost 3 eras ahead with decreasing frequency per subsequent era]",
+			"Comment [Start with 8 extra particular technologies from atmost 3 eras ahead with decreasing frequency per subsequent era]",
 			"Comment [(You start with 6 when starting in Atomic and 5 when starting in Information)]",
 				//Ancient era
 					"Starts with [The Wheel] <if starting in the [Ancient era]> <hidden from users>",
@@ -258,35 +258,35 @@
 		"name": "Manudeii",
 		"leaderName": "Zacharias",
 		"adjective": ["Manudeiian"],
-		"startBias": [],
+		"startBias": ["Tundra", "Desert"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Zacharias",
 		
 		"startIntroPart1": "TBD TBD",
 		"startIntroPart2": "TBD TBD",
 		
-		"declaringWar": "..",
-		"attacked": "...",
-		"defeated": "...",
+		"declaringWar": "Onward! Set fire to these cruel beasts!",
+		"attacked": "I knew it!",
+		"defeated": "To the people of this world, I am sorry.",
 		
-		"introduction": "...",
+		"introduction": "Hello.",
 		
-		"neutralHello": "...",
-		"hateHello": "...",
+		"neutralHello": "Hello.",
+		"hateHello": "Wretched being!",
 
 		"afterPeace": "...",
-		"tradeRequest": "...",
-		"denounced": "...",
+		"tradeRequest": "Trade?",
+		"denounced": "Very well, vile creature!",
 
 		"outerColor": [255,255,170],
 		"innerColor": [255,60,100],
 		"uniqueName": "Righteous Hand of the God of Man",
 		"uniques": [
 		"Earn [75]% of killed [Military] unit's [Cost] as [Faith] <vs [Cytosia] units>",
-		"Earn [33]% of killed [Military] unit's [Cost] as [Faith] <vs [The Xiseyu] units>",
+		"Earn [40]% of killed [Military] unit's [Cost] as [Faith] <vs [The Xiseyu] units>",
 		"[+75]% Strength <vs [Cytosia] units> <when attacking>",
-		"[+33]% Strength <vs [The Xiseyu] units> <when attacking>",
-			"[{Military} {Land}] units gain the [Arbiter of Judgement] promotion",
+		"[+40]% Strength <vs [The Xiseyu] units> <when attacking>",
+		"[{Military} {Land}] units gain the [Arbiter of Judgement] promotion",
 
 		]
 		"cities": ["Manudeii"]
