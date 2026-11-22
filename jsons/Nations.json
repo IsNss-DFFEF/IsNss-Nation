@@ -284,7 +284,7 @@
 		"uniques": [
 		"Earn [100]% of killed [Military] unit's [Strength] as [Faith] <vs [Cytosia] units>",
 		"Earn [50]% of killed [Military] unit's [Strength] as [Faith] <vs [The Xiseyu] units>",
-		"[+75]% Strength <vs [Cytosia] units> <when attacking>",
+		"[+50]% Strength <vs [Cytosia] units> <when attacking>",
 		"[+33]% Strength <vs [The Xiseyu] units> <when attacking>"
 		]
 		"cities": ["Manudeii"]
