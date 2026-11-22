@@ -123,7 +123,9 @@
 			"[-1 Science, -1 Culture] per [1] population [in all cities]",
 			"[-50]% Unhappiness from [Population] [in all cities] <in [Grassland] tiles>",
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
-			"Provides [1] [Horrible Matter]",
+			"Provides [1] [Horrible Matter] <in [capital] cities>",
+			"Provides [4] [Horrible Matter] <in cities with a [Aqueduct]>",
+			"Provides [2] [Horrible Matter] <in cities with a [Water Mill]>",
 			"Provides [1] [Horrible Matter] <in [all] cities> <in [Grassland] tiles>",
 			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>"
 		]
