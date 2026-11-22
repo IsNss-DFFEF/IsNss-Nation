@@ -1,4 +1,5 @@
 [	
+	//IISA Corps
   {
 		"name": "Suppression I",
 		"uniques": ["[+25]% Strength <when attacking>"],
@@ -102,7 +103,89 @@
 		"unitTypes": ["IISA"],
         "column": 28952,
         "row": 4
-	},
+	  },
+	  //Holy Flame
+	    {
+		"name": "Holy Flame I",
+		"uniques": ["Unavailable",
+			"[This] unit takes [4] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame I] promotion <upon turn end> <for units without [Holy Flame II]>"],
+        "column": 333,
+        "row": 1
+			},
+	{
+		"name": "Holy Flame II",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame II] promotion <upon turn end> <for units without [Holy Flame III]>"],
+        "column": 333,
+        "row": 2
+			},
+	{
+		"name": "Holy Flame III",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame III] promotion <upon turn end> <for units without [Holy Flame IV]>"],
+        "column": 333,
+        "row": 3
+			},
+	{
+		"name": "Holy Flame IV",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame IV] promotion <upon turn end> <for units without [Holy Flame V]>"],
+        "column": 333,
+        "row": 4
+			},
+	{
+		"name": "Holy Flame V",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame V] promotion <upon turn end> <for units without [Holy Flame VI]>"],
+        "column": 333,
+        "row": 5
+			},
+	{
+		"name": "Holy Flame VI",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame VI] promotion <upon turn end> <for units without [Holy Flame VII]>"],
+        "column": 333,
+        "row": 6
+			},
+	{
+		"name": "Holy Flame VII",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame VII] promotion <upon turn end> <for units without [Holy Flame VIII]>"],
+        "column": 333,
+        "row": 7
+			},
+	{
+		"name": "Holy Flame VIII",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame VIII] promotion <upon turn end> <for units without [Holy Flame IX]>"],
+        "column": 333,
+        "row": 8
+			},
+	{
+		"name": "Holy Flame IX",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame IX] promotion <upon turn end> <for units without [Holy Flame X]>"],
+        "column": 333,
+        "row": 9
+			},
+	{
+		"name": "Holy Flame X",
+		"uniques": ["Unavailable",
+			"[This] unit takes [2] damage <upon turn start>",
+			"[This Unit] loses the [Holy Flame X] promotion <upon turn end>"],
+        "column": 333,
+        "row": 10
+			},
+	  //other
 	{"name": "Horrible Matter",
 	"uniques": ["Eliminates combat penalty for attacking over a river",
 	"[This Unit] heals [10] HP <upon ending a turn in a [Grassland] tile>",
