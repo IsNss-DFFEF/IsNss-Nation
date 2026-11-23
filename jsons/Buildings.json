@@ -220,12 +220,12 @@
 		"replaces": "Palace",
 		"uniqueTo": "The Xiseyu",
 		"isNationalWonder": true,
-		"production": 4,
-		"science": 5,
+		"production": 6,
+		"science": 3,
 		"gold": 3,
 		"culture": 1,
 		"cityStrength": 2.5,
 		"cost": 0,
-		"uniques": ["Indicates the capital city"]
+		"uniques": ["Indicates the capital city", "[+1 Science] <for every [4] [Faith per turn]>"]
 	},
 ]
