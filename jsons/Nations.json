@@ -123,7 +123,7 @@
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
 			"Provides [2] [Horrible Matter]",
 			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>",
-			"[+1 Food, -1 Culture] from every [Artist]", "[+1 Food, -2 Science] from every [Scientist]"
+			"[+1 Food, -1 Culture] from every [Artist]", "[+1 Food, -1 Production] from every [Engineer]", "[+1 Food, -2 Science] from every [Scientist]"
 		]
 		"cities": ["Cytosia"]
 	},
