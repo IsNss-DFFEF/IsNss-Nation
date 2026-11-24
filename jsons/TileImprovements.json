@@ -1,6 +1,7 @@
 [
   	{
 		"name": "City Extension",
+		"uniqueTo": "Megacity",
 		"terrainsCanBeBuiltOn": ["Land", "Water"],
 		"uniques": ["Great Improvement", "Removes removable features when built",
             "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+1500 Gold]",
@@ -8,6 +9,7 @@
 	},
 	  	{
 		"name": "Megacity Airport",
+		"uniqueTo": "Megacity",
 		"terrainsCanBeBuiltOn": ["Land", "Water"],
 		"uniques": ["Great Improvement", "Removes removable features when built",
 			"[1] population [in this city] <upon turn start> <every [4] turns> <(modified by game speed)>",
@@ -24,12 +26,11 @@
 	},
 		{
 		"name": "Uproot and Grassify",
+		"uniqueTo": "Cytosia",
 		"turnsToBuild": 12,
 		"techRequired": "Fertilizer",
 		"uniques": ["Excluded from map editor","Turn this tile into a [Grassland] tile",
 		"Only available <in [{Featureless} {Plains}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",
-		"Only available <in [{Featureless} {Tundra}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",
-			
-		"Only available <for [Cytosia] civilizations>"],
+		"Only available <in [{Featureless} {Tundra}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",],
 	},
 ]
