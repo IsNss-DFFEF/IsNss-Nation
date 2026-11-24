@@ -30,6 +30,6 @@
 		"Only available <in [{Featureless} {Plains}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",
 		"Only available <in [{Featureless} {Tundra}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",
 			
-		"Only available <for units with [Horrible Matter]>"],
+		"Only available <for [Cytosia] civilizations>"],
 	},
 ]
