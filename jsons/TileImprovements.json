@@ -30,7 +30,6 @@
 		"turnsToBuild": 12,
 		"techRequired": "Fertilizer",
 		"uniques": ["Excluded from map editor","Turn this tile into a [Grassland] tile",
-		"Only available <in [{Featureless} {Plains}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",
-		"Only available <in [{Featureless} {Tundra}] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",],
+		"Only available <in [{Featureless} {Land}] tiles> <in tiles adjacent to [Grassland] tiles>"],
 	},
 ]
