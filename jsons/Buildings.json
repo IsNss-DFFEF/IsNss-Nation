@@ -228,4 +228,17 @@
 		"cost": 0,
 		"uniques": ["Indicates the capital city", "[+1 Science] <for every [4] [Faith per turn]>"]
 	},
+	//Manudeii
+	{
+		"name": "Vanguard of Humanity",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Manudeii",
+		"cost": 125,
+		"culture": 2,
+		"happiness": 2,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			"Cost increases by [30] per owned city", "[+1 Faith] [in this city] <for every [[{Military} {Land}] Units]>",],
+		"requiredTech": "Iron Working"
+	},
 ]
