@@ -13,12 +13,4 @@
 			"[+1 Faith] from every [Grassland] <within [2] tiles of a [City center]>",
 			"[1000000]% weight to this choice for AI decisions <hidden from users>",]
     },
-	{
-        "name": "Vanguard of Humanity",
-        "type": "Pantheon",
-        "uniques": ["Only available <for [Manudeii] Civilizations>",
-			"Gain [25] [Faith] <(modified by game speed)>",
-			"[+1 Faith] <for every [4] [[{Military} {Land}] Units]>",
-			"[7777777]% weight to this choice for AI decisions <hidden from users>",]
-    },
 ]
