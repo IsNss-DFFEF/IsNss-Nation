@@ -1,0 +1,47 @@
+[
+  {
+		"name": "World's Intersection Built",
+		"text": "The CONEX Foundation has connected the world! What would be the best immediate use of this international connectivity?",
+		"choices": [
+			{
+        "text": "Talent!",
+			  "uniques": [
+          "Free Great Person","Free Great Person","Free Great Person",
+          "[+25]% Great Person generation [in all cities] <for [20] turns> <(modified by game speed)>"
+        ]
+      },
+      {
+        "text": "Labor!",
+			  "uniques": [
+          "[8] free [Worker] units appear",
+          "[3] free [Melee] units appear",
+          "[+33]% Production when construction [all] units [in all cities] <for [20] turns> <(modified by game speed)>"
+        ]
+      },
+     	{
+        "text": "Capital!",
+			  "uniques": [
+          "Instantly gain [16000] [Gold]", "Empire enters a [20]-turn golden age <(modified by game speed)>"
+        ]
+      },
+      {
+        "text": "Prestige!",
+			  "uniques": [
+          "[2] Free Social Policies", "[+25]% [Culture, Science] <for [20] turns> <(modified by game speed)>"
+        ]
+      },
+      {
+        "text": "All of it!!!",
+			  "uniques": [
+          "Only available <for [Conexistate] civilizations>"
+          "Free Great Person",
+          "[+15]% Great Person generation [in all cities] <for [20] turns> <(modified by game speed)>",
+          "[5] free [Worker] units appear",
+          "[+15]% Production when construction [all] units [in all cities] <for [20] turns> <(modified by game speed)>",
+          "Instantly gain [6000] [Gold]", "Empire enters a [20]-turn golden age <(modified by game speed)>",
+          "Free Social Policy"
+        ]
+      },
+    ]
+  },
+  ]
