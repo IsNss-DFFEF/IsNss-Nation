@@ -27,19 +27,22 @@
       {
         "text": "Prestige!",
 			  "uniques": [
-          "[2] Free Social Policies", "[+25]% [Culture, Science] <for [20] turns> <(modified by game speed)>"
+          "[2] Free Social Policies",
+			"[+25]% [Culture] <for [20] turns> <(modified by game speed)>",
+			"[+15]% [Happiness] <for [20] turns> <(modified by game speed)>"
         ]
       },
       {
         "text": "All of it!!!",
 			  "uniques": [
-          "Only available <for [Conexistate] civilizations>"
+          "Only available <for [Conexistate] civilizations>",
           "Free Great Person",
           "[+15]% Great Person generation [in all cities] <for [20] turns> <(modified by game speed)>",
           "[5] free [Worker] units appear",
           "[+15]% Production when construction [all] units [in all cities] <for [20] turns> <(modified by game speed)>",
           "Instantly gain [6000] [Gold]", "Empire enters a [20]-turn golden age <(modified by game speed)>",
-          "Free Social Policy"
+          "Free Social Policy", "[+15]% [Culture] <for [20] turns> <(modified by game speed)>",
+			"[+10]% [Happiness] <for [20] turns> <(modified by game speed)>"
         ]
       },
     ]
