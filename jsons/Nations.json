@@ -321,10 +321,10 @@
         "uniqueName": "Cooperative of Networking Extraodinaire",
         "uniques": [
             "[+1 Happiness, +1 Culture, +2 Gold] from every trade route",
-            "[-50]% maintenance on road & railroads",
-            "Can build [All Road] improvements at a [+100]% rate",
-			"Gain [100]-[350] [Gold] <upon declaring friendship> <before the [Industrial Era]>",
-			"Gain [250]-[1000] [Gold] <upon declaring friendship> <starting from the [Industrial Era]>",
+            "[+50]% Production when constructing [Harbor] buildings [in all cities]",
+			"[+50]% Production when constructing [Seaport] buildings [in all cities]",
+			"[+50]% Production when constructing [United Nations] wonders [in all cities]",
+			"Can build [All Road] improvements at a [+50]% rate",
         ]
         "cities": ["Conexione","Solaile","Emerra","Vinitra","Concregacione"]
     },
