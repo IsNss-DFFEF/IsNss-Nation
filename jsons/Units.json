@@ -65,4 +65,20 @@
     ],
 		"hurryCostModifier": 20
 	},
+	{"name": "Motorcycle Infantry",
+        "unitType": "Mounted",
+        "uniqueTo": "Conexistate",
+        "replaces": "Marine",
+        "range": 1,
+        "movement": 3,
+        "strength": 70,
+        "cost": 350,
+        "requiredTech": "Plastics",
+        "promotions": ["Shock I"],
+        "uniques": ["Can move after attacking",
+            "[+20]% Strength <when fighting in [All Road] tiles>",
+		"Ignores Zone of Control"]
+        ],
+        "attackSound": "shot"
+    },
 ]
