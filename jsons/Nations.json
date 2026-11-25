@@ -295,11 +295,11 @@
 	},
 {
         "name": "Conexistate",
-        "leaderName": "CONEX Organization",
+        "leaderName": "CONEX Foundation",
         "adjective": ["Conexite"],
         "startBias": ["Plains"],
         "preferredVictoryType": "Diplomatic",
-        "personality": "CONEX Organization",
+        "personality": "CONEX Foundation",
 
         "startIntroPart1": "its roading time :3",
         "startIntroPart2": "i missed this civ lol its been 2 years",
