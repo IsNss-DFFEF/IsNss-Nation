@@ -248,7 +248,7 @@
     "cost": 2000,
 	"isWonder": true,
 	"culture": 1,
-	"happiness", 1
+	"happiness": 1,
     "uniques": [
 		"Enables conversion of city production to [Culture]",
 		"[+2 Gold, +1 Culture, +1 Happiness] <for every [[{in all cities connected to capital} {in non-enemy foreign cities}] Cities]>",
