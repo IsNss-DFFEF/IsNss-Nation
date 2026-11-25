@@ -27,9 +27,9 @@
 		{
 		"name": "Uproot and Grassify",
 		"uniqueTo": "Cytosia",
-		"turnsToBuild": 12,
+		"turnsToBuild": 18,
 		"techRequired": "Fertilizer",
 		"uniques": ["Excluded from map editor","Turn this tile into a [Grassland] tile",
-		"Only available <in [{Featureless} {Land}] tiles> <in tiles adjacent to [Grassland] tiles>"],
+		"Only available <in [Land] tiles> <in tiles adjacent to [Grassland] tiles>"],
 	},
 ]
