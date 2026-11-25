@@ -77,7 +77,6 @@
         "uniques": ["Can move after attacking",
             "[+20]% Strength <when fighting in [All Road] tiles>",
 		"Ignores Zone of Control"]
-        ],
         "attackSound": "shot"
     },
 ]
