@@ -53,13 +53,15 @@
 	},
 	{
 		"name": "Hand of Proliferation",
+		"uniqueTo": "Cytosia",
+		"requiredTech": "Fertilizer",
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 900,
 		"uniques": [
-      		"Only available <if [Arm of Proliferation] is constructed>",
+      		"Only available <if [Hand of Proliferation] is constructed>",
 			"Can pass through impassable tiles",
-			"Turn this tile into a [Grassland] tile <by consuming this unit> <in [Your] cities>",
+			"Turn this tile into a [Grassland] tile <by consuming this unit> <in [Land] tiles> <in tiles adjacent to [Grassland] tiles> <in tiles not adjacent to [Desert] tiles> <in tiles not adjacent to [Snow] tiles>",
     ],
 		"hurryCostModifier": 20
 	},
