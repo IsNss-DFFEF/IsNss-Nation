@@ -219,7 +219,7 @@
 		"culture": 1,
 		"cityStrength": 2.5,
 		"cost": 0,
-		"uniques": ["Indicates the capital city", "[+1 Science] [in this city] <for every [4] [Faith per turn]>"]
+		"uniques": ["Indicates the capital city", "[+1 Science] <for every [[Faith] per turn]>"]
 	},
 	//Manudeii
 	{
