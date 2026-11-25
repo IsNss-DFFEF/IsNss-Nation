@@ -253,10 +253,6 @@
 		"Triggers a [World's Intersection Built] event <for [Major] civilizations>"
 	],
         "requiredTech": "Radio",
-		"civilopediaText": [
-			{
-				"text": "All roads lead to Conexione."
-			}
-		]
+		"quote": "'All roads lead to Conexione' - The CONEX Foundation"
     },
 ]
