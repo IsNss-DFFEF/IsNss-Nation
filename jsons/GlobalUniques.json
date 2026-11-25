@@ -1,0 +1,9 @@
+[
+{
+    "name": "World's Intersection",
+    "uniques": [
+      "[+1 Happiness, +2 Culture] [in capital] <if [World's Intersection] is constructed by anybody>",
+      "[+1 Happiness, +2 Gold] [in all cities connected to capital] <if [World's Intersection] is constructed by anybody>"
+    ]
+}
+]
