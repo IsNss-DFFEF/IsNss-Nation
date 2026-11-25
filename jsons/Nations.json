@@ -323,7 +323,8 @@
             "[+1 Happiness, +1 Culture, +2 Gold] from every trade route",
             "[-50]% maintenance on road & railroads",
             "Can build [All Road] improvements at a [+100]% rate",
-			"Starts with [Commerce] adopted",
+			"Gain [100]-[350] [Gold] <upon declaring friendship> <before the [Industrial Era]>",
+			"Gain [250]-[1000] [Gold] <upon declaring friendship> <starting from the [Industrial Era]>",
         ]
         "cities": ["Conexione","Solaile","Emerra","Vinitra","Concregacione"]
     },
