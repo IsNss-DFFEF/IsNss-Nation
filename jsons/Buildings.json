@@ -37,8 +37,7 @@
 				    {
     "name": "Food Imports",
 	"uniqueTo": "Megacity",
-    "cost": 450,
-	"isNationalWonder": true,
+	"isWonder": true,
     "uniques": [
 		"[+1 Food, -1 Gold] per [1] population [in this city]","[+6 Food, -6 Gold]",
 		"Only available <in cities with at least [20] [Population]>",
@@ -61,18 +60,14 @@
 		    {
     "name": "Office Complex Complex",
 	"uniqueTo": "Megacity",
-    "cost": 630,
-	"isNationalWonder": true,
+	"isWonder": true,
 	"specialistSlots": {"Scientist": 4, "Merchant": 4, "Artist": 4, "Engineer": 4},
     "uniques": [
 		"Enables conversion of city production to [Culture]","[10]% Food is carried over after population increases [in all cities]",
 		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]", "Only available <in cities with at least [60] [Population]>"
 	],
         "requiredTech": "Electricity",
-		"civilopediaText": [
-			{
-				"text": "It's pretty complex"
-			}
+		"quote": "'It's pretty complex' - A lot of people"
 		]
     },
 		 {
@@ -90,8 +85,7 @@
 			    {
     "name": "Population Imports",
 	"uniqueTo": "Megacity",
-    "cost": 810,
-	"isNationalWonder": true,
+	"isWonder": true,
     "uniques": [
 		"[3] population [in this city]","[-1] population in a random city", "[-1] population in a random city","[-1] population in a random city",
 		"Only available <in cities with at least [100] [Population]>",  "Creates a [Megacity Airport] improvement on a specific tile"],
