@@ -245,12 +245,12 @@
 	 {
     "name": "World's Intersection",
 	"uniqueTo": "Conexistate",
-    "cost": 1000,
+    "cost": 2000,
 	"isWonder": true,
     "uniques": [
 		"Enables conversion of city production to [Culture]",
 		"[+2 Gold, +1 Culture, +1 Happiness] <for every [[{in all cities connected to capital} {in non-enemy foreign cities}] Cities]>",
-		"Triggers the following global alert: [The world is connected!]"
+		"Triggers a [World's Intersection Built] event <for [Major] civilizations>"
 	],
         "requiredTech": "Radio",
 		"civilopediaText": [
