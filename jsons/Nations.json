@@ -72,12 +72,8 @@
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] [in capital] <for every [Cities]> <hidden from users>",
 			"[-1 Food, -1 Production, -1 Science, -1 Culture, -1 Happiness] [in capital] <hidden from users>",
 
-			"Each city founded increases culture cost of policies [33]% less than normal",
-			"Each city founded increases Science cost of Technologies [33]% less than normal",
-			
-			"Comment [-33% Growth and Production in puppeted cities]",
-			"[-33]% Growth [Puppeted] <hidden from users>",
-			"[-33]% [Production] [Puppeted] <hidden from users>",
+			"Each city founded increases culture cost of policies [33]% less than normal <hidden from users>",
+			"Each city founded increases Science cost of Technologies [33]% less than normal <hidden from users>",
 
 			"Comment [1 free People for the Megacity units per 2 eras appear upon conquering a city]",
 			"[1] free [People for the Megacity] units appear <upon conquering a city> <for every [2] [Era number]> <hidden from users>",
@@ -120,8 +116,7 @@
 		"uniques": [
 			"[+1 Production, +1 Food, +1 Happiness] [in your cities] <in [Grassland] tiles>",
 			"[-25]% Unhappiness from [Population] [in all cities] <in [Grassland] tiles>",
-			"[-1 Science] per [3] population [in all cities]",
-			"[-1 Production] per [5] population [in all cities]",
+			"[-1 Science, +1 Production] per [5] population [in all cities]",
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
 			"Provides [2] [Horrible Matter]",
 			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>",
@@ -138,7 +133,7 @@
 		"personality": "Aebh Amtouli",
 		
 		"startIntroPart1": "Your mothers and fathers told you of the curse your species bears. The spiteful deity has hunted the Xiseyu for trillions of years across several realities for the crime of communal immortality. The closer it becomes the stronger their souls decay. The Xiseyu have come to cope by travelling from reality to reality, using the resources of whatever planet they find themselves on. This one is among the thousands your forefathers have visited.",
-		"startIntroPart2": "You arrive with tattered knowledge of the universe your forebearers held and exactly 5700 years before that spiteful deity arrives in full force. Can you lead this generation of entropic refugee fugitives to live another day? Can this civilization continue to cheat the test of time?",
+		"startIntroPart2": "You arrive with tattered knowledge of the universe your forebearers once held and you have exactly 5800 years before that spiteful deity arrives in full force. Can you lead this generation of entropic refugee fugitives to live another millenia? Can this civilization continue to cheat the test of time?",
 		
 		"declaringWar": "...",
 		"attacked": "...",
@@ -159,44 +154,59 @@
 		"uniques": [
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
 			"[+1 Happiness] <for every [12] [Entropy]>",
-
-            "[-90]% Spread Religion Strength <in [Foreign] cities>",
-			"[-90]% Natural religion spread [in foreign cities]",
 			
 			"Cannot build [World Wonder] buildings",
 			
-			"Comment [Start with 8 extra particular technologies from atmost 3 eras ahead with decreasing frequency per subsequent era]",
-			"Comment [(You start with 6 when starting in Atomic and 5 when starting in Information)]",
+			"Comment [Stars with a non-random set of 20% of unresearched technologies researched from atmost 3 eras ahead with decreasing frequency per subsequent era]",
+			"Comment [(Ancient - 16, Classical - 14, Medieval - 12, Renaissance - 10, Industrial - 8, Atomic - 6, Modern - 4, Information - 2)]",
 				//Ancient era
 					"Starts with [The Wheel] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Writing] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Animal Husbandry] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Calendar] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Masonry] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Bronze Working] <if starting in the [Ancient era]> <hidden from users>",
 			
 					"Starts with [Philosophy] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Mathematics] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Drama and Poetry] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Currency] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Engineering] <if starting in the [Ancient era]> <hidden from users>",
 			
 					"Starts with [Civil Service] <if starting in the [Ancient era]> <hidden from users>",
 					"Starts with [Machinery] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Theology] <if starting in the [Ancient era]> <hidden from users>",
 			
 					"Starts with [Astronomy] <if starting in the [Ancient era]> <hidden from users>",
+					"Starts with [Acoustics] <if starting in the [Ancient era]> <hidden from users>",
 				//Classical era
 					"Starts with [Philosophy] <if starting in the [Classical era]> <hidden from users>",
 					"Starts with [Mathematics] <if starting in the [Classical era]> <hidden from users>",
-					"Starts with [Iron Working] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Drama and Poetry] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Currency] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Engineering] <if starting in the [Classical era]> <hidden from users>",
 			
 					"Starts with [Civil Service] <if starting in the [Classical era]> <hidden from users>",
 					"Starts with [Machinery] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Guilds] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Theology] <if starting in the [Classical era]> <hidden from users>",
 			
 					"Starts with [Astronomy] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Acoustics] <if starting in the [Classical era]> <hidden from users>",
 					"Starts with [Chemistry] <if starting in the [Classical era]> <hidden from users>",
 
 					"Starts with [Industrialization] <if starting in the [Classical era]> <hidden from users>",
+					"Starts with [Biology] <if starting in the [Classical era]> <hidden from users>",
 				//Medieval era
 					"Starts with [Civil Service] <if starting in the [Medieval era]> <hidden from users>",
 					"Starts with [Machinery] <if starting in the [Medieval era]> <hidden from users>",
+					"Starts with [Guilds] <if starting in the [Medieval era]> <hidden from users>",
+					"Starts with [Theology] <if starting in the [Medieval era]> <hidden from users>",
 					"Starts with [Education] <if starting in the [Medieval era]> <hidden from users>",
 			
 					"Starts with [Astronomy] <if starting in the [Medieval era]> <hidden from users>",
+					"Starts with [Acoustics] <if starting in the [Medieval era]> <hidden from users>",
+					"Starts with [Economics] <if starting in the [Medieval era]> <hidden from users>",
 					"Starts with [Chemistry] <if starting in the [Medieval era]> <hidden from users>",
 
 					"Starts with [Industrialization] <if starting in the [Medieval era]> <hidden from users>",
@@ -205,11 +215,13 @@
 					"Starts with [Replaceable Parts] <if starting in the [Medieval era]> <hidden from users>",
 				//Renaissance era
 					"Starts with [Astronomy] <if starting in the [Renaissance era]> <hidden from users>",
-					"Starts with [Chemistry] <if starting in the [Renaissance era]> <hidden from users>",
+					"Starts with [Acoustics] <if starting in the [Renaissance era]> <hidden from users>",
 					"Starts with [Economics] <if starting in the [Renaissance era]> <hidden from users>",
+					"Starts with [Chemistry] <if starting in the [Renaissance era]> <hidden from users>",
 
 					"Starts with [Industrialization] <if starting in the [Renaissance era]> <hidden from users>",
 					"Starts with [Biology] <if starting in the [Renaissance era]> <hidden from users>",
+					"Starts with [Fertilizer] <if starting in the [Renaissance era]> <hidden from users>",
 
 					"Starts with [Replaceable Parts] <if starting in the [Renaissance era]> <hidden from users>",
 					"Starts with [Combustion] <if starting in the [Renaissance era]> <hidden from users>",
@@ -231,26 +243,19 @@
 					"Starts with [Replaceable Parts] <if starting in the [Modern era]> <hidden from users>",
 					"Starts with [Combustion] <if starting in the [Modern era]> <hidden from users>",
 					"Starts with [Plastics] <if starting in the [Modern era]> <hidden from users>",
-					"Starts with [Railroads] <if starting in the [Modern era]> <hidden from users>",
 			
 					"Starts with [Rocketry] <if starting in the [Modern era]> <hidden from users>",
 					"Starts with [Ecology] <if starting in the [Modern era]> <hidden from users>",
 
-					"Starts with [Robotics] <if starting in the [Modern era]> <hidden from users>",
-					"Starts with [Nuclear Fusion] <if starting in the [Modern era]> <hidden from users>",
+					"Starts with [Particle Physics] <if starting in the [Modern era]> <hidden from users>",
 				//Atomic era
 					"Starts with [Rocketry] <if starting in the [Atomic era]> <hidden from users>",
 					"Starts with [Ecology] <if starting in the [Atomic era]> <hidden from users>",
-					"Starts with [Computers] <if starting in the [Atomic era]> <hidden from users>",
 
-					"Starts with [Robotics] <if starting in the [Atomic era]> <hidden from users>",
+					"Starts with [Particle Physics] <if starting in the [Atomic era]> <hidden from users>",
 					"Starts with [Nuclear Fusion] <if starting in the [Atomic era]> <hidden from users>",
-					"Starts with [Satellites] <if starting in the [Atomic era]> <hidden from users>",
 				//Information era
-					"Starts with [Robotics] <if starting in the [Information era]> <hidden from users>",
 					"Starts with [Nuclear Fusion] <if starting in the [Information era]> <hidden from users>",
-					"Starts with [Satellites] <if starting in the [Information era]> <hidden from users>",
-					"Starts with [Telecommunications] <if starting in the [Information era]> <hidden from users>",
 					"Starts with [Particle Physics] <if starting in the [Information era]> <hidden from users>"
 			//Add events to necessitate military and to add a hard timer for scientific victory
 		]
