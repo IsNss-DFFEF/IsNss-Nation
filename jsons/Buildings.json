@@ -63,7 +63,7 @@
 	"uniqueTo": "Megacity",
     "cost": 630,
 	"isNationalWonder": true,
-	"specialistSlots": {"Scientist": 3, "Merchant": 3, "Artist": 3, "Engineer": 3},
+	"specialistSlots": {"Scientist": 4, "Merchant": 4, "Artist": 4, "Engineer": 4},
     "uniques": [
 		"Enables conversion of city production to [Culture]","[10]% Food is carried over after population increases [in all cities]",
 		"[+1 Science, +1 Gold, +1 Culture, +1 Production] from every specialist [in this city]", "Only available <in cities with at least [60] [Population]>"
@@ -241,4 +241,22 @@
 			"Cost increases by [30] per owned city", "[+1 Faith] [in this city] <for every [[{Military} {Land}] Units]>",],
 		"requiredTech": "Iron Working"
 	},
+	//Conexistate
+	 {
+    "name": "World's Intersection",
+	"uniqueTo": "Conexistate",
+    "cost": 1000,
+	"isWonder": true,
+    "uniques": [
+		"Enables conversion of city production to [Culture]",
+		"[+2 Gold, +2 Culture, +1 Happiness] <for every [[{in all cities connected to capital} {in non-enemy foreign cities}] Cities]>",
+		"Triggers the following global alert: [The world is connected!]"
+	],
+        "requiredTech": "Radio",
+		"civilopediaText": [
+			{
+				"text": "All roads lead to Conexione."
+			}
+		]
+    },
 ]
