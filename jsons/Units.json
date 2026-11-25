@@ -51,4 +51,16 @@
 			"Requires at least [2] population", "[1] population [in this city] <by consuming this unit> <with [50] priority>", "[-1] population [in this city]"],
 		"hurryCostModifier": 20
 	},
+	{
+		"name": "Hand of Proliferation",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 900,
+		"uniques": [
+      		"Only available <if [Arm of Proliferation] is constructed>",
+			"Can pass through impassable tiles",
+			"Turn this tile into a [Grassland] tile <by consuming this unit> <in [Your] cities>",
+    ],
+		"hurryCostModifier": 20
+	},
 ]
