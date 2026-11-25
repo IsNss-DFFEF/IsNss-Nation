@@ -295,11 +295,11 @@
 	},
 {
         "name": "Conexistate",
-        "leaderName": "Road",
+        "leaderName": "CONEX Organization",
         "adjective": ["Conexite"],
         "startBias": ["Plains"],
-        "preferredVictoryType": "Diplomatic", "Cultural",
-        "personality": "IsNssB",
+        "preferredVictoryType": "Diplomatic",
+        "personality": "CONEX Organization",
 
         "startIntroPart1": "its roading time :3",
         "startIntroPart2": "i missed this civ lol its been 2 years",
@@ -318,12 +318,12 @@
 
         "outerColor": [38,38,104],
         "innerColor": [255,192,0],
-        "uniqueName": "Roadbuilders",
+        "uniqueName": "Cooperative of Networking Extraodinaire",
         "uniques": [
             "[+1 Happiness, +1 Culture, +2 Gold] from every trade route",
             "[-50]% maintenance on road & railroads",
             "Can build [All Road] improvements at a [+100]% rate",
-			"Starts with [The Wheel]",
+			"Starts with [Commerce] adopted",
         ]
         "cities": ["Conexione","Solaile","Emerra","Vinitra","Concregacione"]
     },
