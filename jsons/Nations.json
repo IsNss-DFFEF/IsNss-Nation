@@ -50,7 +50,7 @@
 		"startIntroPart2": "Can you build a biggest city in Unciv history? Can you maintain a megalopolis throughout all the eras? Can this Megacity stand the test of time?",
 		
 		"declaringWar": "There can only be one city.",
-		"attacked": "...",
+		"attacked": "Jealous?",
 		"defeated": "...",
 		
 		"introduction": "Interesting cities there.",
@@ -99,12 +99,12 @@
 		
 		"declaringWar": "Consume! Multiply! Proliferate!",
 		"attacked": "Consume! Multiply! Proliferate!",
-		"defeated": "...",
+		"defeated": "Noooo!!!",
 		
-		"introduction": "...",
+		"introduction": "Hello humans.",
 		
-		"neutralHello": "...",
-		"hateHello": "...",
+		"neutralHello": "Hello humans.",
+		"hateHello": "Consume! Multiply! Proliferate!",
 
 		"afterPeace": "...",
 		"tradeRequest": "...",
@@ -126,7 +126,7 @@
 			"[+1 Food, -2 Science] from every [Scientist]",
 			"[+1 Food, -2 Gold] from every [Merchant]",
 			
-			"Comment [50% of respective stat yields from all Great Improvements are converted into Food]",
+			"Comment [50% of respective stat yields from all Great Improvements are converted into Food with 67% efficiency]",
 			
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
 			"Provides [2] [Horrible Matter]",
@@ -146,17 +146,17 @@
 		"startIntroPart2": "You arrive with tattered knowledge of the universe your forebearers once held and you have exactly 5800 years before that spiteful deity arrives in full force. Can you lead this generation of entropic refugee fugitives to live another millenia? Can this civilization continue to cheat the test of time?",
 		
 		"declaringWar": "...",
-		"attacked": "...",
-		"defeated": "...",
+		"attacked": "What? Why?",
+		"defeated": "I am sorry...",
 		
 		"introduction": "...",
 		
-		"neutralHello": "...",
-		"hateHello": "...",
+		"neutralHello": "Greetings.",
+		"hateHello": "What? Why?",
 
-		"afterPeace": "...",
-		"tradeRequest": "...",
-		"denounced": "...",
+		"afterPeace": "Very well.",
+		"tradeRequest": "In your language, I think this is called a 'trade'",
+		"denounced": "I see",
 
 		"outerColor": [80,15,60],
 		"innerColor": [255,255,255],
