@@ -27,5 +27,8 @@
 
         "[+2 Food, -1 Science, -1 Culture, -1 Happiness] from every [Academy] <for [Cytosia] civilizations> <after adopting [Accelerationism]> <if [Modern Policy Trees] is enabled>",
         "[+3 Food, -2 Production, -2 Happiness] from every [Citadel] <for [Cytosia] civilizations> <after adopting [Surveillance State]> <if [Modern Policy Trees] is enabled>",
+        
+        "[+1 Food, -1 Culture, -1 Happiness] from every [Great Improvement] <for [Cytosia] civilizations> <after adopting [Authority complete]> <if [Modern Policy Trees] is enabled>",
+        "[+1 Food] from every [Landmark] <for [Cytosia] civilizations> <after adopting [Authority complete]> <if [Modern Policy Trees] is enabled>",
     ]
 },
