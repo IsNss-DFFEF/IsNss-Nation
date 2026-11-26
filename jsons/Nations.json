@@ -290,6 +290,8 @@
 		"uniqueName": "Righteous Hand of the God of Man",
 		"uniques": [
 		"[{Military} {Land}] units gain the [Arbiter of Judgement] promotion",
+		"[+1]% Strength <for every [[Faith] per turn]>",
+		"[+50]% [Faith] <when at war>"
 
 		]
 		"cities": ["Manudeii"]
