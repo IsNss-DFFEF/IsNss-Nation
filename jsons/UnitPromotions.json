@@ -110,8 +110,10 @@
 	{
 		"name": "Human Valor",
 		"uniques": ["[Target Unit] gains the [Holy Flame] status for [7] turn(s)",
-		"Earn [100]% of killed [Military] unit's [Cost] as [Faith] <vs [Cytosia] units>",
+		"Earn [50]% of killed [Military] unit's [Cost] as [Faith] <vs [Cytosia] units>",
+		"Earn [75]% of killed [Military] unit's [Cost] as [Faith] <vs [Cytosia] units>",
 		"Earn [100]% of killed [Military] unit's [Cost] as [Faith] <vs [The Xiseyu] units>",
+		"[+75]% Strength <vs [Culicia] units>",
 		"[+75]% Strength <vs [Cytosia] units> <when attacking>",
 		"[+50]% Strength <vs [The Xiseyu] units> <when attacking>",],
         "column": 333,
