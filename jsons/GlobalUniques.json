@@ -16,8 +16,8 @@
         "[+2 Food, -3 Culture] from every [Landmark] <for [Cytosia] Civilizations>",
         "[+1 Food, -2 Culture] from every [Landmark] <for [Cytosia] Civilizations> <after adopting [Aesthetics complete]> <if [Brave New World] is enabled>",
 
-        "[+1 Food, -2 Production] from every [Manufactury] <for [Cytosia] Civilizations>",
-        "[+1 Food] from every [Manufactury] <for [Cytosia] Civilizations> <after discovering [Chemistry]>",
+        "[+1 Food, -2 Production] from every [Manufactory] <for [Cytosia] Civilizations>",
+        "[+1 Food] from every [Manufactory] <for [Cytosia] Civilizations> <after discovering [Chemistry]>",
 
         "[+1 Food, -2 Gold] from every [Customs House] <for [Cytosia] Civilizations>",
         "[+1 Food] from every [Customs House] <for [Cytosia] Civilizations> <after discovering [Economics]>",
