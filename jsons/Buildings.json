@@ -238,13 +238,13 @@
 	 {
     "name": "World's Intersection",
 	"uniqueTo": "Conexistate",
-    "cost": 2000,
 	"isWonder": true,
 	"culture": 2,
 	"happiness": 2,
     "uniques": [
+		"Only available <in [capital] cities>",
 		"Enables conversion of city production to [Culture]",
-		"[+2 Gold, +1 Culture, +1 Happiness] <for every [[{in all cities connected to capital} {in non-enemy foreign cities}] Cities]>",
+		"[+2 Gold, +1 Culture, +1 Happiness] [in this city] <for every [[{in all cities connected to capital} {in non-enemy foreign cities}] Cities]>",
 		"Triggers a [World's Intersection Built] event <for [Major] civilizations>"
 	],
         "requiredTech": "Radio",
