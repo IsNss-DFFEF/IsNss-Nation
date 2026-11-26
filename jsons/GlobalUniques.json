@@ -1,13 +1,14 @@
 {
-    "name": "World's Intersection Built",
+    "name": "IsNss Nation",
     "uniques": [
-      "[+1 Happiness, +2 Culture] [in capital] <if [World's Intersection] is constructed by anybody>",
-      "[+1 Happiness, +2 Gold] [in all cities connected to capital] <if [World's Intersection] is constructed by anybody>"
-    ]
-},
-{
-    "name": "Cytosia Great Improvement Unique",
-    "uniques": [
+
+        //World's Intersection Built
+        
+        "[+1 Happiness, +2 Culture] [in capital] <if [World's Intersection] is constructed by anybody>",
+        "[+1 Happiness, +2 Gold] [in all cities connected to capital] <if [World's Intersection] is constructed by anybody>",
+
+        //Cytosia Great Improvement Unique
+
         "[+2 Food, -4 Science] from every [Academy] <for [Cytosia] civilizations>",
         "[+1 Food, -1 Science] from every [Academy] <for [Cytosia] civilizations> <after discovering [Scientific Theory]>",
         "[+1 Food, -1 Science] from every [Academy] <for [Cytosia] civilizations> <after discovering [Atomic Theory]>",
