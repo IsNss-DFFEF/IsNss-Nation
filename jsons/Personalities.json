@@ -206,4 +206,38 @@
           "Development": 6,
           "Innovation": 0},
       },
+  {
+      "name": "Mosquitoe",
+      "culture": 5,
+      "faith": 5,
+      "food": 50,
+      "gold": 5,
+      "happiness": 0,
+      "production": 5,
+      "science": 5,
+      "military": 50,
+      "aggressive": 50,
+      "declareWar": 5,
+      "commerce": 5,
+      "diplomacy": 0,
+      "loyal": 0,
+      "expansion": 50,
+      "denounceWillingness": 0,
+
+      "priorities": {
+          "Tradition": 0,
+          "Liberty": 50,
+          "Honor": 50,
+          "Commerce": 0,
+          "Patronage": 0,
+          "Piety": 0,
+          "Rationalism": 0,
+          "Freedom": 0,
+          "Autocracy": 10,
+          "Order": 4,
+        
+          "Authority": 0,
+          "Development": 50,
+          "Innovation": 0}
+      },
     ]
