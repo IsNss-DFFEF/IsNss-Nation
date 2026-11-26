@@ -347,7 +347,7 @@
         "adjective": ["Culicid"],
         "startBias": ["Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine"],
         "preferredVictoryType": "Domination",
-        "personality": "",
+        "personality": "Mosquitoe",
 
         "startIntroPart1": "tw mosquitoes",
         "startIntroPart2": ".",
