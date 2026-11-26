@@ -377,9 +377,10 @@
 			"[+1 Food] from [Spices] tiles [in all cities]",
 			"[+1 Food] from [Wine] tiles [in all cities]",
 			"[+1 Food] from [Fresh Water] tiles [in all cities]",
-			"[+1 Food] from [Lakes] tiles [in all cities]",
-			"[+1 Food] from [Oasis] tiles [in all cities]",
+			"[+2 Food] from [Lakes] tiles [in all cities]",
+			"[+2 Food] from [Oasis] tiles [in all cities]",
 			"[+1 Food] from [Grassland] tiles [in all cities]",
+			"[+1 Food] from [all] tiles [in all cities] <after discovering [Fertilizer]>",
 
 			"[+50]% Growth [in all cities]",
 			"[-50]% [Production] [in all cities]",
