@@ -383,13 +383,14 @@
 			"[+1 Food] from [all] tiles [in all cities] <after discovering [Fertilizer]>",
 			"[+1 Food] per [1] population [in all cities]",
 			
-			"[-50]% [Production] [in all cities]",
-			"[-85]% [Science] [in all cities]",
+			"[-60]% [Production] [in all cities]",
+			"[-90]% [Science] [in all cities]",
 			"[-50]% [Culture] [in all cities]",
 			"[-50]% [Faith] [in all cities]",
 
-			"[+150]% Production when constructing [Land] units [in all cities]",
-
+			"[+160]% Production when constructing [Land] units [in all cities]",
+			"[+100]% Production when constructing [{Military} {Land}] units [in all cities]",
+			
 			"Nullifies [Gold] [in all cities]",
 			
 			"Cannot build [Gold] buildings <hidden from users>",
