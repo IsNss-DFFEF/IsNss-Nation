@@ -239,6 +239,9 @@
           "Authority": 0,
           "Development": 50,
           "Innovation": 0,
-      "uniques": []}
+      }
+     "uniques": ["[-50]% weight to [Archery] for AI decisions","[-50]% weight to [Ranged Gunpowder] for AI decisions","[-50]% weight to [Siege] for AI decisions",
+        "[-50]% weight to [Ranged Water] for AI decisions","[-50]% weight to [Submarine] for AI decisions","[-50]% weight to [Aircraft Carrier] for AI decisions",
+      "[-50]% weight to [Fighter] for AI decisions","[-50]% weight to [Bomber] for AI decisions"]
       },
     ]
