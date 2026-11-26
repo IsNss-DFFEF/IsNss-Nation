@@ -238,6 +238,7 @@
         
           "Authority": 0,
           "Development": 50,
-          "Innovation": 0}
+          "Innovation": 0,
+      "uniques": ["[-50]% weight to [Ranged] for AI decisions"]}
       },
     ]
