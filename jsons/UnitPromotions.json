@@ -144,7 +144,7 @@
 
 	{"name": "Arbiter of Pestilence",
 	"uniques": ["Before engaging in combat an extra ranged attack with [15]% of melee combat strength",
-	"[This Unit] takes [10000] damage <every [10] turns> <(modified by game speed)>"],
+	"[This Unit] takes [1000] damage <after [10] turns> <(modified by game speed)>"],
 	"column": 10000
 	"row": 0,
 	},
