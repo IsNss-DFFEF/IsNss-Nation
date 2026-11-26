@@ -289,10 +289,6 @@
 		"innerColor": [255,60,100],
 		"uniqueName": "Righteous Hand of the God of Man",
 		"uniques": [
-		"Earn [75]% of killed [Military] unit's [Cost] as [Faith] <vs [Cytosia] units>",
-		"Earn [40]% of killed [Military] unit's [Cost] as [Faith] <vs [The Xiseyu] units>",
-		"[+75]% Strength <vs [Cytosia] units> <when attacking>",
-		"[+40]% Strength <vs [The Xiseyu] units> <when attacking>",
 		"[{Military} {Land}] units gain the [Arbiter of Judgement] promotion",
 
 		]
