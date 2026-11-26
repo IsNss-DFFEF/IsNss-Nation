@@ -15,7 +15,7 @@
       "diplomacy": 8,
       "loyal": 10,
       "expansion": 5,
-    "denounceWillingness": 2,
+      "denounceWillingness": 2,
 
       "priorities": {
           "Tradition": 10,
@@ -66,7 +66,7 @@
           "Authority": 0,
           "Development": 10,
           "Innovation": 8}
-      "uniques": ["[-50]% weight to [Settler] for AI decisions"]
+      "uniques": ["[-90]% weight to [People for the Megacity] for AI decisions"]
       },
       {
       "name": "Cumbersome Heart",
@@ -84,7 +84,7 @@
       "diplomacy": 2,
       "loyal": 6,
       "expansion": 12,
-        "denounceWillingness": 3,
+      "denounceWillingness": 3,
 
       "priorities": {
           "Tradition": 0,
@@ -118,7 +118,7 @@
       "diplomacy": 1,
       "loyal": 10,
       "expansion": 3,
-"denounceWillingness": 0,
+      "denounceWillingness": 0,
     
       "priorities": {
           "Tradition": 10,
@@ -135,14 +135,7 @@
           "Authority": 0,
           "Development": 0,
           "Innovation": 10},
-    "uniques": ["Will not build [World Wonder]",
-      "Will not adopt [Piety]",
-      "Will not adopt [Liberty] <before adopting [Rationalism]",
-      "Will not adopt [Honor]",
-      "Will not adopt [Patronage]",
-      "Will not adopt [Autocracy]",
-      "Will not adopt [Rationalism] <before adopting [Tradition]",
-      "[-50]% weight to [Settler] for AI decisions"]
+    "uniques": ["[-50]% weight to [Settler] for AI decisions"]
       },
    {
       "name": "Zacharias",
@@ -160,7 +153,7 @@
       "diplomacy": 2,
       "loyal": 3,
       "expansion": 5,
-     "denounceWillingness": 7,
+      "denounceWillingness": 7,
 
       "priorities": {
           "Tradition": 0,
@@ -177,7 +170,7 @@
           "Authority": 10,
           "Development": 0,
           "Innovation": 0},
-    "uniques": ["Will not adopt [Rationalism] <before the [Industrial era]>"]
+    "uniques": []
       },
     {
       "name": "CONEX Foundation",
