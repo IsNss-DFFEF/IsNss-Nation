@@ -333,7 +333,7 @@
         "innerColor": [255,192,0],
         "uniqueName": "Cooperative of Networking Extraodinaire",
         "uniques": [
-            "[+1 Happiness, +1 Culture, +2 Gold] from every trade route",
+            "[+1 Happiness, +1 Culture, +2 Gold] from each Trade Route",
             "[+50]% Production when constructing [Harbor] buildings [in all cities]",
 			"[+50]% Production when constructing [Seaport] buildings [in all cities]",
 			"[+50]% Production when constructing [United Nations] wonders [in all cities]",
