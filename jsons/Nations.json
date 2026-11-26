@@ -341,4 +341,46 @@
         ]
         "cities": ["Conexione","Solaile","Emerra","Vinitra","Concregacione"]
     },
+{
+        "name": "Culicia",
+        "leaderName": "Mosquitoe",
+        "adjective": ["Culicid"],
+        "startBias": ["Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine"],
+        "preferredVictoryType": "Domination",
+        "personality": "",
+
+        "startIntroPart1": "tw mosquitoes",
+        "startIntroPart2": ".",
+
+        "declaringWar": "...",
+        "attacked": "...",
+        "defeated": "...",
+        "introduction": "...",
+
+        "neutralHello": "...",
+        "hateHello": "...",
+
+        "afterPeace": "...",
+        "tradeRequest": "...",
+        "denounced": "...",
+
+        "outerColor": [59, 53, 48],
+        "innerColor": [219, 107, 42],
+        "uniqueName": "Parasitology",
+        "uniques": [
+            "[{Melee} {Land}] units gain the [Arbiter of Pestilence] promotion",
+			"[+1 Food, +1 Happiness] from [{improved} {Citrus}] tiles [in all cities]",
+			"[+1 Food, +1 Happiness] from [{improved} {Dyes}] tiles [in all cities]",
+			"[+1 Food, +1 Happiness] from [{improved} {Incense}] tiles [in all cities]",
+			"[+1 Food, +1 Happiness] from [{improved} {Sugar}] tiles [in all cities]",
+			"[+1 Food, +1 Happiness] from [{improved} {Spices}] tiles [in all cities]",
+			"[+1 Food, +1 Happiness] from [{improved} {Wine}] tiles [in all cities]",
+			"[+1 Food] from [Fresh water] tiles [in all cities]",
+			"[+1 Food] from [Lakes] tiles [in all cities]",
+			"[-50]% [Production] [in all cities]",
+			"[-50]% [Science] [in all cities]",
+			"Nullifies [Happiness] [in all cities]"
+        ]
+        "cities": ["Culicia"]
+    },
 ]
