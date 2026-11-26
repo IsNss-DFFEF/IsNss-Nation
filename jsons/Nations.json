@@ -398,8 +398,8 @@
 			"Cannot build [Happiness] buildings",
 
 			"[-100]% unhappiness from the number of cities",
-			"[-200] Unhappiness from [Population] [in all cities]",
-			"[-4] Happiness from each type of luxury resource",
+			"[-100]% Unhappiness from [Population] [in all cities]",
+			"[-5] Happiness from each type of luxury resource",
 			"[-1] Happiness <for every [Happiness]>"
 			
         ]
