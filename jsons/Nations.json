@@ -62,8 +62,8 @@
 		"tradeRequest": "More for the greatest city in the world, the Megacity!",
 		"denounced": "...",
 
-		"outerColor": [240,185,40],
-		"innerColor": [120,120,120],
+		"outerColor": [241,192,61],
+		"innerColor": [109,109,109],
 		"uniqueName": "One World, One City",
 		"uniques": [
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [8] population [in capital]",
