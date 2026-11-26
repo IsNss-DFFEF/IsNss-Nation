@@ -23,8 +23,8 @@
 		"tradeRequest": "We may reforge eachother.",
 		"denounced": "I see.",
 
-		"outerColor": [30,35,45],
-		"innerColor": [30,120,205],
+		"outerColor": [31, 39, 46],
+		"innerColor": [31, 120, 204],
 		"uniqueName": "Stronger than Steel",
 		"uniques": [
 			"[+1 Culture, +1 Production] from [Fort] tiles [in all cities] <within [1] tiles of a [City center]>",
@@ -62,8 +62,8 @@
 		"tradeRequest": "More for the greatest city in the world, the Megacity!",
 		"denounced": "...",
 
-		"outerColor": [241,192,61],
-		"innerColor": [109,109,109],
+		"outerColor": [240, 167, 10],
+		"innerColor": [109, 109, 109],
 		"uniqueName": "One World, One City",
 		"uniques": [
 			"[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [8] population [in capital]",
@@ -110,8 +110,8 @@
 		"tradeRequest": "...",
 		"denounced": "...",
 
-		"outerColor": [80,235,165],
-		"innerColor": [120,80,165],
+		"outerColor": [65, 204, 123],
+		"innerColor": [115, 77, 161],
 		"uniqueName": "Heart of Proliferation",
 		"uniques": [
 			"[+1 Production, +1 Food, +1 Happiness] [in your cities] <in [Grassland] tiles>",
@@ -158,8 +158,8 @@
 		"tradeRequest": "In your language, I think this is called a 'trade'",
 		"denounced": "I see",
 
-		"outerColor": [80,15,60],
-		"innerColor": [255,255,255],
+		"outerColor": [87, 11, 53],
+		"innerColor": [166, 222, 221],
 		"uniqueName": "Entropic Refugee Fugitives",
 		"uniques": [
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
@@ -295,8 +295,8 @@
 		"tradeRequest": "Trade?",
 		"denounced": "Very well, vile creature!",
 
-		"outerColor": [255,255,170],
-		"innerColor": [255,60,100],
+		"outerColor": [255, 255, 170],
+		"innerColor": [255, 64, 99],
 		"uniqueName": "Righteous Hand of the God of Man",
 		"uniques": [
 		"[{Military} {Land}] units gain the [Human Valor] promotion",
