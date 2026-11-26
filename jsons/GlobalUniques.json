@@ -9,27 +9,27 @@
 
         //Cytosia Great Improvement Unique
 
-        "[+2 Food, -4 Science] from every [Academy] <for [Cytosia] civilizations>",
-        "[+1 Food, -1 Science] from every [Academy] <for [Cytosia] civilizations> <after discovering [Scientific Theory]>",
-        "[+1 Food, -1 Science] from every [Academy] <for [Cytosia] civilizations> <after discovering [Atomic Theory]>",
+        "[+2 Food, -4 Science] from every [Academy] <for [Cytosia] Civilizations>",
+        "[+1 Food, -1 Science] from every [Academy] <for [Cytosia] Civilizations> <after discovering [Scientific Theory]>",
+        "[+1 Food, -1 Science] from every [Academy] <for [Cytosia] Civilizations> <after discovering [Atomic Theory]>",
 
-        "[+2 Food, -3 Culture] from every [Landmark] <for [Cytosia] civilizations>",
-        "[+1 Food, -2 Culture] from every [Landmark] <for [Cytosia] civilizations> <after adopting [Aesthetics complete]> <if [Brave New World] is enabled>",
+        "[+2 Food, -3 Culture] from every [Landmark] <for [Cytosia] Civilizations>",
+        "[+1 Food, -2 Culture] from every [Landmark] <for [Cytosia] Civilizations> <after adopting [Aesthetics complete]> <if [Brave New World] is enabled>",
 
-        "[+1 Food, -2 Production] from every [Manufactury] <for [Cytosia] civilizations>",
-        "[+1 Food] from every [Manufactury] <for [Cytosia] civilizations> <after discovering [Chemistry]>",
+        "[+1 Food, -2 Production] from every [Manufactury] <for [Cytosia] Civilizations>",
+        "[+1 Food] from every [Manufactury] <for [Cytosia] Civilizations> <after discovering [Chemistry]>",
 
-        "[+1 Food, -2 Gold] from every [Customs House] <for [Cytosia] civilizations>",
-        "[+1 Food] from every [Customs House] <for [Cytosia] civilizations> <after discovering [Economics]>",
+        "[+1 Food, -2 Gold] from every [Customs House] <for [Cytosia] Civilizations>",
+        "[+1 Food] from every [Customs House] <for [Cytosia] Civilizations> <after discovering [Economics]>",
 
-        "[+2 Food, -3 Faith] from every [Holy Site] <for [Cytosia] civilizations>",
-        "[+1 Food, -1 Gold] from every [Holy Site] <for [Cytosia] civilizations> <after adopting [Theocracy]>",
-        "[+1 Food, -1 Culture] from every [Holy Site] <for [Cytosia] civilizations> <after adopting [Piety complete]>",
+        "[+2 Food, -3 Faith] from every [Holy Site] <for [Cytosia] Civilizations>",
+        "[+1 Food, -1 Gold] from every [Holy Site] <for [Cytosia] Civilizations> <after adopting [Theocracy]>",
+        "[+1 Food, -1 Culture] from every [Holy Site] <for [Cytosia] Civilizations> <after adopting [Piety complete]>",
 
-        "[+2 Food, -1 Science, -1 Culture, -1 Happiness] from every [Academy] <for [Cytosia] civilizations> <after adopting [Accelerationism]> <if [Modern Policy Trees] is enabled>",
-        "[+3 Food, -2 Production, -2 Happiness] from every [Citadel] <for [Cytosia] civilizations> <after adopting [Surveillance State]> <if [Modern Policy Trees] is enabled>",
+        "[+2 Food, -1 Science, -1 Culture, -1 Happiness] from every [Academy] <for [Cytosia] Civilizations> <after adopting [Accelerationism]> <if [Modern Policy Trees] is enabled>",
+        "[+3 Food, -2 Production, -2 Happiness] from every [Citadel] <for [Cytosia] Civilizations> <after adopting [Surveillance State]> <if [Modern Policy Trees] is enabled>",
         
-        "[+1 Food, -1 Culture, -1 Happiness] from every [Great Improvement] <for [Cytosia] civilizations> <after adopting [Authority complete]> <if [Modern Policy Trees] is enabled>",
-        "[+1 Food] from every [Landmark] <for [Cytosia] civilizations> <after adopting [Authority complete]> <if [Modern Policy Trees] is enabled>",
+        "[+1 Food, -1 Culture, -1 Happiness] from every [Great Improvement] <for [Cytosia] Civilizations> <after adopting [Authority complete]> <if [Modern Policy Trees] is enabled>",
+        "[+1 Food] from every [Landmark] <for [Cytosia] Civilizations> <after adopting [Authority complete]> <if [Modern Policy Trees] is enabled>",
     ]
 }
