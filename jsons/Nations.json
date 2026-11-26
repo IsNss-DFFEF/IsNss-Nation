@@ -345,12 +345,12 @@
         "name": "Culicia",
         "leaderName": "Mosquitoe",
         "adjective": ["Culicid"],
-        "startBias": ["Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine"],
+        "startBias": ["Grassland","Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine"],
         "preferredVictoryType": "Domination",
         "personality": "Mosquitoe",
 
-        "startIntroPart1": "tw mosquitoes",
-        "startIntroPart2": ".",
+        "startIntroPart1": "TW",
+        "startIntroPart2": "mosquitoes",
 
         "declaringWar": "...",
         "attacked": "...",
@@ -369,18 +369,38 @@
         "uniqueName": "Parasitology",
         "uniques": [
             "[{Melee} {Land}] units gain the [Arbiter of Pestilence] promotion",
-			"[+1 Food, +1 Happiness] from [Citrus] tiles [in all cities]",
-			"[+1 Food, +1 Happiness] from [Dyes] tiles [in all cities]",
-			"[+1 Food, +1 Happiness] from [Incense] tiles [in all cities]",
-			"[+1 Food, +1 Happiness] from [Sugar] tiles [in all cities]",
-			"[+1 Food, +1 Happiness] from [Spices] tiles [in all cities]",
-			"[+1 Food, +1 Happiness] from [Wine] tiles [in all cities]",
+			
+			"[+1 Food] from [Citrus] tiles [in all cities]",
+			"[+1 Food] from [Dyes] tiles [in all cities]",
+			"[+1 Food] from [Incense] tiles [in all cities]",
+			"[+1 Food] from [Sugar] tiles [in all cities]",
+			"[+1 Food] from [Spices] tiles [in all cities]",
+			"[+1 Food] from [Wine] tiles [in all cities]",
 			"[+1 Food] from [Fresh Water] tiles [in all cities]",
 			"[+1 Food] from [Lakes] tiles [in all cities]",
 			"[+1 Food] from [Oasis] tiles [in all cities]",
+			"[+1 Food] from [Grassland] tiles [in all cities]",
+
+			"[+50]% Growth [in all cities]",
 			"[-50]% [Production] [in all cities]",
 			"[-50]% [Science] [in all cities]",
-			"Nullifies [Happiness] [in all cities]"
+			"[-50]% [Culture] [in all cities]",
+
+			"[+150]% Production when constructing [{Melee} {Land}] units [in all cities]",
+
+			"Nullifies [Gold] [in all cities]",
+			"Nullifies [Faith] [in all cities]",
+			"Nullifies [Happiness] [in all cities]",
+
+			"Cannot build [Gold] buildings",
+			"Cannot build [Faith] buildings",
+			"Cannot build [Happiness] buildings",
+
+			"[-100]% unhappiness from the number of cities",
+			"[-100] Unhappiness from [Population] [in all cities]",
+			"[-4] Happiness from each type of luxury resource",
+			"[-1] Happiness <for every [Happiness]>"
+			
         ]
         "cities": ["Culicia"]
     },
