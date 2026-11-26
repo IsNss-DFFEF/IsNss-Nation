@@ -242,7 +242,7 @@
 	"culture": 2,
 	"happiness": 2,
     "uniques": [
-		"Only available <in [capital] cities>",
+		"Only available <in [Capital] cities>",
 		"Production to [Culture] conversion in cities changed by [60]%",
 		"Enables conversion of city production to [Culture]",
 		"[+2 Gold, +1 Culture, +1 Happiness] [in this city] <for every [[{in all cities connected to capital} {in non-enemy foreign cities}] Cities]>",
