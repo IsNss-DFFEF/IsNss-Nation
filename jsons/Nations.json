@@ -394,9 +394,9 @@
 			"Nullifies [Gold] [in all cities]",
 			
 			"Cannot build [Gold] buildings <hidden from users>",
-			"[-1000]% maintenance on road & railroads <hidden from users>",
+			"[-120]% maintenance on road & railroads <hidden from users>",
 			"No maintenance for improvements in [all] tiles <hidden from users>",
-			"[-1000]% maintenance cost for [all] buildings [all] <hidden from users>",
+			"[-120]% maintenance cost for [all] buildings [all] <hidden from users>",
 			"[500000] units cost no maintenance <hidden from users>",
 			
 			"Nullifies [Happiness] [in all cities]",
