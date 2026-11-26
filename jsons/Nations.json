@@ -404,8 +404,9 @@
 			"[-100]% unhappiness from the number of cities <hidden from users>",
 			"[-100]% Unhappiness from [Population] [in all cities] <hidden from users>",
 			"[-5] Happiness from each type of luxury resource <hidden from users>",
-			"[-1] Happiness <for every [Happiness]> <hidden from users>"
-			
+			"[-1] Happiness <for every [Happiness]> <hidden from users>",
+
+			"Cannot build [World Wonder] buildings",
         ]
         "cities": ["Culicia"]
     },
