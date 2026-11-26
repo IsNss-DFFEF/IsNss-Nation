@@ -94,7 +94,7 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Cumbersome Heart",
 		
-		"startIntroPart1": "From the loam you were born, only knowing of the water in the soil. By fate or by coincidence you came into contact with humanity. They were suprisingly kind, granting you what they considered waste. You festered and grew, hiding in their manure until you learnt their language and way of life; Within it a bounty of imagination and ingenuity. Oh what a wonderful taste is man's psyche! It is so delectable you must find and consume more! Though even with such a wonderful vessel, be wary of your own basal anatomy, for you cannot handle the hot, cold, and dry.",
+		"startIntroPart1": "From the loam you were born, only knowing of the water in the soil. By fate or by coincidence you came into contact with humanity. They were suprisingly kind, granting you what they considered waste. You festered and grew, hiding in their manure until you learnt their language and way of life; Within it a bounty of imagination and ingenuity. Oh what a wonderful taste is man's psyche! It is so delectable you must find and consume more of their minds! More and more humans!",
 		"startIntroPart2": "You, your territory and name granted by the self proclaimed vanguard of humanity, has had a taste of consciousness and has now developed an insatiable hunger for it. Throughout the annals of time, your heart calls: 'Consume! Multiply! Proliferate!'",
 		
 		"declaringWar": "Consume! Multiply! Proliferate!",
@@ -116,11 +116,21 @@
 		"uniques": [
 			"[+1 Production, +1 Food, +1 Happiness] [in your cities] <in [Grassland] tiles>",
 			"[-25]% Unhappiness from [Population] [in all cities] <in [Grassland] tiles>",
-			"[-1 Science, +1 Production] per [5] population [in all cities]",
+
+			"[+1 Food] per [4] population [in all cities]",
+			"[-1 Science, -1 Production] per [5] population [in all cities]",
+			"[-1 Culture] per [6] population [in all cities]",
+			
+			"[+1 Food, -1 Culture] from every [Artist]",
+			"[+1 Food, -1 Production] from every [Engineer]",
+			"[+1 Food, -2 Science] from every [Scientist]",
+			"[+1 Food, -2 Gold] from every [Merchant]",
+			
+			"Comment [50% of respective stat yields from all Great Improvements are converted into Food]",
+			
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
 			"Provides [2] [Horrible Matter]",
 			"Cannot build [{Military} {Land}] units <when below [1] [Horrible Matter]>",
-			"[+1 Food, -1 Culture] from every [Artist]", "[+1 Food, -1 Production] from every [Engineer]", "[+1 Food, -2 Science] from every [Scientist]"
 		]
 		"cities": ["Cytosia"]
 	},
@@ -289,7 +299,7 @@
 		"innerColor": [255,60,100],
 		"uniqueName": "Righteous Hand of the God of Man",
 		"uniques": [
-		"[{Military} {Land}] units gain the [Arbiter of Judgement] promotion",
+		"[{Military} {Land}] units gain the [Human Valor] promotion",
 		"[+1]% Strength <for every [[Faith] per turn]>",
 		"[+50]% [Faith] <when at war>"
 
