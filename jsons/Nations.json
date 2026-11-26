@@ -126,7 +126,7 @@
 			"[+1 Food, -2 Science] from every [Scientist]",
 			"[+1 Food, -2 Gold] from every [Merchant]",
 			
-			"Comment [50% of respective stat yields from all Great Improvements are converted into Food with 67% efficiency]",
+			"Comment [50% of stat yields from all Great Improvements are converted into Food with 66.7% efficiency]",
 			
 			"[{Military} {Land}] units gain the [Horrible Matter] promotion",
 			"Provides [2] [Horrible Matter]",
