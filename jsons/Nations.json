@@ -159,7 +159,7 @@
 		"denounced": "I see",
 
 		"outerColor": [117, 23, 86],
-		"innerColor": [226, 209, 255],
+		"innerColor": [230, 244, 255],
 		"uniqueName": "Entropic Refugee Fugitives",
 		"uniques": [
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
