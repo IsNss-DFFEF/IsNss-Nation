@@ -158,8 +158,8 @@
 		"tradeRequest": "In your language, I think this is called a 'trade'",
 		"denounced": "I see",
 
-		"outerColor": [87, 11, 53],
-		"innerColor": [230, 156, 119],
+		"outerColor": [117, 23, 86],
+		"innerColor": [240, 185, 158],
 		"uniqueName": "Entropic Refugee Fugitives",
 		"uniques": [
 			"Provides [1] [Entropy] <for every [turns]> <(modified by game speed)>",
