@@ -104,7 +104,9 @@
         "column": 28952,
         "row": 4
 	  },
-	  //Holy Flame
+	
+	  //civ unique promotions
+	
 	{
 		"name": "Human Valor",
 		"uniques": ["[Target Unit] gains the [Holy Flame] status for [7] turn(s)",
@@ -122,7 +124,7 @@
         "column": 333,
         "row": 2
 			},
-	  //other
+	
 	{"name": "Horrible Matter",
 	"uniques": ["Eliminates combat penalty for attacking over a river",
 	"[This Unit] heals [10] HP <upon ending a turn in a [Grassland] tile>",
@@ -139,6 +141,15 @@
 	"column": 289
 	"row": 0,
 	},
+
+	{"name": "Arbiter of Pestilence",
+	"uniques": ["Before engaging in combat an extra ranged attack with [15]% of melee combat strength",
+	"[This Unit] takes [10000] damage <every [10] turns> <(modified by game speed)>"],
+	"column": 10000
+	"row": 0,
+	},
+
+	
 		//default promotions
 	{
 		"name": "Heal Instantly",
