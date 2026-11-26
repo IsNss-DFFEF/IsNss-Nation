@@ -15,13 +15,13 @@
 			  "uniques": [
           "[8] free [Worker] units appear",
           "[3] free [Melee] units appear",
-          "[+33]% Production when construction [all] units [in all cities] <for [20] turns> <(modified by game speed)>"
+          "[+33]% Production when constructing [all] units [in all cities] <for [20] turns> <(modified by game speed)>"
         ]
       },
      	{
         "text": "Capital!",
 			  "uniques": [
-          "Instantly gain [16000] [Gold]", "Empire enters a [20]-turn golden age <(modified by game speed)>"
+          "Instantly gain [16000] [Gold]", "Empire enters a [20]-turn Golden Age <(modified by game speed)>"
         ]
       },
       {
@@ -39,8 +39,8 @@
           "Free Great Person",
           "[+15]% Great Person generation [in all cities] <for [20] turns> <(modified by game speed)>",
           "[5] free [Worker] units appear",
-          "[+15]% Production when construction [all] units [in all cities] <for [20] turns> <(modified by game speed)>",
-          "Instantly gain [6000] [Gold]", "Empire enters a [20]-turn golden age <(modified by game speed)>",
+          "[+15]% Production when constructing [all] units [in all cities] <for [20] turns> <(modified by game speed)>",
+          "Instantly gain [6000] [Gold]", "Empire enters a [20]-turn Golden Age <(modified by game speed)>",
           "Free Social Policy", "[+15]% [Culture] <for [20] turns> <(modified by game speed)>",
 			"[+10]% [Happiness] <for [20] turns> <(modified by game speed)>"
         ]
