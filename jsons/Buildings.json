@@ -14,7 +14,7 @@
 			"[-15]% enemy spy effectiveness [in this city]",
 			"Cost increases by [30] per owned city",
 	
-			"[-10]% Unhappiness from Population in [All] cities"],
+			"[-10]% Unhappiness from [Population] [in all cities]"],
         "requiredTech": "Radio"
     },
 	{
@@ -246,7 +246,7 @@
 		"Production to [Culture] conversion in cities changed by [60]%",
 		"Enables conversion of city production to [Culture]",
 		"[+2 Gold, +1 Culture, +1 Happiness] [in this city] <for every [[{in all cities connected to capital} {in non-enemy foreign cities}] Cities]>",
-		"Triggers a [World's Intersection Built] event <for [Major] civilizations>"
+		"Triggers a [World's Intersection Built] event <for [Major] Civilizations>"
 	],
         "requiredTech": "Radio",
 		"quote": "'All roads lead to Conexione' - The CONEX Foundation"
