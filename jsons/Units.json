@@ -77,18 +77,78 @@
 		"Ignores Zone of Control"]
         "attackSound": "shot"
     },
-	{
-		"name": "Scourge of Fauna",
+	
+		{
+		"name": "Pestilence I",
 		"unitType": "Culicidae",
+		"uniqueTo": "Culicia",
 		"movement": 2,
 		"replaces": "Archer",
 		"strength": 3,
 		"rangedStrength": 4,
-		"range": 3,
+		"range": 2,
 		"cost": 20,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Mobile Tactics",
-		"upgradesTo": "Mechanized Infantry",
-		"attackSound": "arrow"
+		"requiredTech": "Calendar",
+		"obsoleteTech": "Drama and Poetry",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "machinegun"
+	},
+		{
+		"name": "Pestilence II",
+		"unitType": "Culicidae",
+		"uniqueTo": "Culicia",
+		"movement": 2,
+		"replaces": "Composite Bowman",
+		"strength": 4,
+		"rangedStrength": 6,
+		"range": 2,
+		"cost": 50,
+		"requiredTech": "Drama and Poetry",
+		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "machinegun"
+	},
+		{
+		"name": "Pestilence III",
+		"unitType": "Culicidae",
+		"uniqueTo": "Culicia",
+		"movement": 2,
+		"replaces": "Crossbowman",
+		"strength": 10,
+		"rangedStrength": 14,
+		"range": 3,
+		"cost": 90,
+		"requiredTech": "Chivalry",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Military Science",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Pestilence IV",
+		"unitType": "Culicidae",
+		"uniqueTo": "Culicia",
+		"movement": 2,
+		"replaces": "Gatling Gun",
+		"strength": 18,
+		"rangedStrength": 21,
+		"range": 4,
+		"cost": 170,
+		"requiredTech": "Military Science",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Pharmaceuticals",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Pestilence V",
+		"unitType": "Culicidae",
+		"uniqueTo": "Culicia",
+		"movement": 2,
+		"replaces": "Machine Gun",
+		"strength": 30,
+		"rangedStrength": 30,
+		"range": 4,
+		"cost": 350,
+		"requiredTech": "Pharmaceuticals",
+		"attackSound": "machinegun"
 	},
 ]
