@@ -345,7 +345,7 @@
         "name": "Culicia",
         "leaderName": "Mosquitoe",
         "adjective": ["Culicid"],
-        "startBias": ["Grassland","Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine"],
+        "startBias": ["Grassland","Flood plains","Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine","Sheep","Cattle","Horses"],
         "preferredVictoryType": "Domination",
         "personality": "Mosquitoe",
 
@@ -376,10 +376,20 @@
 			"[+1 Food] from [Sugar] tiles [in all cities]",
 			"[+1 Food] from [Spices] tiles [in all cities]",
 			"[+1 Food] from [Wine] tiles [in all cities]",
+			
+			"[+1 Food] from [Sheep] tiles [in all cities]",
+			"[+1 Food] from [Cattle] tiles [in all cities]",
+			"[+1 Food] from [Horses] tiles [in all cities]",
+
+			"[+1 Food] from [Plantation] tiles [in all cities]",
+			"[+1 Food] from [Pasture] tiles [in all cities]",
+			
 			"[+1 Food] from [Fresh Water] tiles [in all cities]",
 			"[+2 Food] from [Lakes] tiles [in all cities]",
 			"[+2 Food] from [Oasis] tiles [in all cities]",
 			"[+1 Food] from [Grassland] tiles [in all cities]",
+			"[+1 Food] from [Flood plains] tiles [in all cities]",
+			
 			"[+1 Food] from [all] tiles [in all cities] <after discovering [Fertilizer]>",
 			"[+1 Food] per [1] population [in all cities]",
 			
