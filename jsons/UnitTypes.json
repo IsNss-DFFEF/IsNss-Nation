@@ -3,4 +3,8 @@
         "name": "IISA",
         "movementType": "Land"
     },
+    {
+        "name": "Culicid",
+        "movementType": "Air"
+    },
 ]
