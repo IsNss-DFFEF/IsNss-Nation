@@ -203,19 +203,4 @@
 	"column": 289
 	"row": 0,
 	},
-
-	{"name": "Arbiter of Pestilence",
-	"uniques": ["Before engaging in combat an extra ranged attack with [15]% of melee combat strength",
-		"[-33]% Strength",
-		"[This Unit] heals [10] HP <when attacking> <upon entering combat>",
-	"Can carry [2] [Culicidae] units",
-	"Can carry [1] extra [Culicidae] units <after discovering [Calendar]>",
-	"Can carry [1] extra [Culicidae] units <after discovering [Civil Service]>",
-	"Can carry [1] extra [Culicidae] units <after discovering [Military Science]>",
-	"Can carry [1] extra [Culicidae] units <after discovering [Pharmaceuticals]>",
-	"Can carry [1] extra [Culicidae] units <after discovering [Mobile Tactics]>",
-	"Can carry [1] extra [Culicidae] units <after discovering [Nanotechnology]>",],
-	"column": 10000
-	"row": 0,
-	},
 ]
