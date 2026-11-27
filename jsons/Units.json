@@ -1,4 +1,5 @@
 [
+	//Isnisia
 	{
 		"name": "IISA Corps",
 		"unitType": "IISA",
@@ -38,6 +39,7 @@
 		],
 		"attackSound": "tankshot"
 	},
+	//Megacity
 		{
 		"name": "People for the Megacity",
 		"unitType": "Civilian",
@@ -50,6 +52,7 @@
 			"Requires at least [2] population", "[1] population [in this city] <by consuming this unit> <with [50] priority>", "[-1] population [in this city]"],
 		"hurryCostModifier": 20
 	},
+	//Cytosia
 	{
 		"name": "Hand of Proliferation",
 		"uniqueTo": "Cytosia",
@@ -63,6 +66,7 @@
     ],
 		"hurryCostModifier": 20
 	},
+	//Conexistate
 	{"name": "Motorcycle Infantry",
         "unitType": "Mounted",
         "uniqueTo": "Conexistate",
@@ -77,7 +81,16 @@
 		"Ignores Zone of Control"]
         "attackSound": "shot"
     },
-	
+		{
+		"name": "Roadbuilder",
+		"unitType": "Civilian",
+		"uniqueTo": "Conexistate",
+        "replaces": "Worker",
+		"movement": 2,
+		"requiredTech": "Agriculture",
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Can build [All Road] improvements at a [+50]% rate","May enter foreign tiles without open borders"],
+		"cost": 70
+	},
 		{
 		"name": "Pestilence I",
 		"unitType": "Culicidae",
