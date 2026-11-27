@@ -77,4 +77,18 @@
 		"Ignores Zone of Control"]
         "attackSound": "shot"
     },
+	{
+		"name": "Scourge of Fauna",
+		"unitType": "Culicidae",
+		"movement": 2,
+		"replaces": "Archer",
+		"strength": 3,
+		"rangedStrength": 4,
+		"range": 3,
+		"cost": 20,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Mobile Tactics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "arrow"
+	},
 ]
