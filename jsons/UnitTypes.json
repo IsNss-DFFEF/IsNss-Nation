@@ -3,8 +3,5 @@
         "name": "IISA",
         "movementType": "Land"
     },
-    {
-        "name": "Culicidae",
-        "movementType": "Air"
-    },
+
 ]
