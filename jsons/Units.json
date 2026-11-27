@@ -91,6 +91,7 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Can build [All Road] improvements at a [+50]% rate","May enter foreign tiles without open borders"],
 		"cost": 70
 	},
+	//Culicia
 		{
 		"name": "Pestilence I",
 		"unitType": "Culicidae",
