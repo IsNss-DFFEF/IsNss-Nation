@@ -345,7 +345,7 @@
         "name": "Culicia",
         "leaderName": "Mosquitoe",
         "adjective": ["Culicid"],
-        "startBias": ["Grassland","Flood plains","Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine","Sheep","Cattle","Horses","Deer","Ivory"],
+        "startBias": ["Grassland","Flood plains","Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine","Cotton","Sheep","Cattle","Horses","Deer","Ivory"],
         "preferredVictoryType": "Domination",
         "personality": "Mosquitoe",
 
