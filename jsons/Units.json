@@ -146,7 +146,7 @@
 		"replaces": "Machine Gun",
 		"strength": 30,
 		"rangedStrength": 30,
-		"range": 4,
+		"range": 6,
 		"cost": 350,
 		"requiredTech": "Pharmaceuticals",
 		"attackSound": "machinegun"
