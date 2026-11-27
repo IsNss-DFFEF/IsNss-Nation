@@ -149,7 +149,7 @@
 		"range": 6,
 		"cost": 150,
 		"requiredTech": "Pharmaceuticals",
-		"upgradesTo": "Machine Gun",
+		"upgradesTo": "Pestilence VI",
 		"obsoleteTech": "Pharmaceuticals",
 		"attackSound": "machinegun"
 	},
