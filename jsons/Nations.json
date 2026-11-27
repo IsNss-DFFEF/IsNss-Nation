@@ -345,7 +345,7 @@
         "name": "Culicia",
         "leaderName": "Mosquitoe",
         "adjective": ["Culicid"],
-        "startBias": ["Grassland","Flood plains","Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine","Sheep","Cattle","Horses"],
+        "startBias": ["Grassland","Flood plains","Lakes","River","Oasis", "Citrus","Dyes","Incense","Sugar","Spices","Wine","Sheep","Cattle","Horses","Deer","Ivory"],
         "preferredVictoryType": "Domination",
         "personality": "Mosquitoe",
 
@@ -369,7 +369,7 @@
         "uniqueName": "Parasitology",
         "uniques": [
             "[{Melee} {Land}] units gain the [Arbiter of Pestilence] promotion",
-			
+
 			"[+1 Food] from [Citrus] tiles [in all cities]",
 			"[+1 Food] from [Dyes] tiles [in all cities]",
 			"[+1 Food] from [Incense] tiles [in all cities]",
@@ -380,17 +380,22 @@
 			"[+1 Food] from [Sheep] tiles [in all cities]",
 			"[+1 Food] from [Cattle] tiles [in all cities]",
 			"[+1 Food] from [Horses] tiles [in all cities]",
+			"[+1 Food] from [Deer] tiles [in all cities]",
+			"[+1 Food] from [Ivory] tiles [in all cities]",
 
 			"[+1 Food] from [Plantation] tiles [in all cities]",
 			"[+1 Food] from [Pasture] tiles [in all cities]",
+			"[+1 Food] from [Camp] tiles [in all cities]",
 			
 			"[+1 Food] from [Fresh Water] tiles [in all cities]",
 			"[+2 Food] from [Lakes] tiles [in all cities]",
 			"[+2 Food] from [Oasis] tiles [in all cities]",
 			"[+1 Food] from [Grassland] tiles [in all cities]",
 			"[+1 Food] from [Flood plains] tiles [in all cities]",
-			
-			"[+1 Food] from [all] tiles [in all cities] <after discovering [Fertilizer]>",
+
+			"[+1 Food] from [all] tiles [in all cities] <after discovering [Calendar]>",
+			"[+1 Food] from [all] tiles [in all cities] <after discovering [Military Science]>",
+			"[+1 Food] from [all] tiles [in all cities] <after discovering [Pharmaceuticals]>",
 			"[+1 Food] per [1] population [in all cities]",
 			
 			"[-75]% [Production] [in all cities]",
