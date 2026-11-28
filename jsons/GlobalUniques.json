@@ -31,5 +31,43 @@
         
         "[+1 Food, -1 Culture, -1 Happiness] from every [Great Improvement] <for [Cytosia] Civilizations> <after adopting [Authority complete]> <if [Modern Policy Trees] is enabled>",
         "[+1 Food] from every [Landmark] <for [Cytosia] Civilizations> <after adopting [Authority complete]> <if [Modern Policy Trees] is enabled>",
+
+        //The Xiseyu Faith -> Science unique
+
+        //buildings
+        "[+1 Science] from all [Shrine] buildings <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from all [Shrine] buildings <after adopting [Organized Religion]> <for [The Xiseyu] Civilizations>",
+        "[+2 Science] from all [Temple] buildings <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from all [Temple] buildings <after adopting [Organized Religion]> <for [The Xiseyu] Civilizations>",
+        "[+8 Science] from all [Grand Temple] buildings <for [The Xiseyu] Civilizations>",
+        
+        "[+1 Science] from all [Cathedral] buildings <after adopting [Cathedrals]> <for [The Xiseyu] Civilizations>",
+        "[+2 Science] from all [Monastery] buildings <after adopting [Monasteries]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from [Wine] tiles <in cities with a [Monastery]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from [Incense] tiles <in cities with a [Monastery]> <for [The Xiseyu] Civilizations>",
+        "[+3 Science] from all [Mosque] buildings <after adopting [Mosques]> <for [The Xiseyu] Civilizations>",
+        "[+2 Science] from all [Pagoda] buildings <after adopting [Pagodas]> <for [The Xiseyu] Civilizations>",
+
+        //religion
+        "[+1 Science] from [Tundra] tiles <without [Forest]> <in [this] city> <after adopting [Dance of the Aurora]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from [Desert] tiles <after adopting [Desert Folklore]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Salt] <after adopting [Earth Mother]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Copper] <after adopting [Earth Mother]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Iron] <after adopting [Earth Mother]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] [in cities following this religion <for every [5] [Researched [All] Technologies]> <after adopting [Estrixaelbhi]> <for [The Xiseyu] Civilizations>",
+        "Earn [50]% of [Military] unit's [Strength] as [Science] when killed within 4 tiles of a city following this religion <after adopting [God of War]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Palace] <after adopting [God-King]> <for [The Xiseyu] Civilizations> <if [Brave New World] is enabled>",
+        "[+1 Science] from every [Wine] <after adopting [Goddess of Festivals]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Incense] <after adopting [Goddess of Festivals]> <for [The Xiseyu] Civilizations>",
+        "[+4 Science] from every [Natural Wonder] <after adopting [One with Nature]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Gold Ore] <after adopting [Religious Idols]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Silver] <after adopting [Religious Idols]> <for [The Xiseyu] Civilizations>",
+        "[+2 Science] from every [Quarry] <after adopting [Stone Circles]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Gems] <after adopting [Tears of the Gods]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Pearls] <after adopting [Tears of the Gods]> <for [The Xiseyu] Civilizations>",
+        "[+2 Science] from every [Wonder] <after adopting [Divine Inspiration]> <for [The Xiseyu] Civilizations>",
+        "[+1 Science] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]> <after adopting [Liturgical Drama]> <for [The Xiseyu] Civilizations>",
+        "[+2 Science] for each global city following this religion <after adopting [Pilgrimage]> <for [The Xiseyu] Civilizations>",
+        "Gain [50] [Science] <upon expending a [Great Person] unit> <(modified by game speed)> <after adopting [Reliquary]> <for [The Xiseyu] Civilizations>"
     ]
 }
