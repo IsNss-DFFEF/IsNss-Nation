@@ -336,11 +336,42 @@
         "uniqueName": "Cooperative of Networking Extraodinaire",
         "uniques": [
             "[+1 Happiness, +1 Culture, +2 Gold] from each Trade Route",
+			"[+2 Happiness, +2 Culture, +2 Gold] from every [Harbor]",
 			
             "[+50]% Production when constructing [Harbor] buildings [in all cities]",
 			"[+50]% Production when constructing [Seaport] buildings [in all cities]",
 			"[+50]% Production when constructing [United Nations] wonders [in all cities]",
         ]
         "cities": ["Conexione","Solaile","Emerra","Vinitra","Concregacione"]
+    },
+	{
+        "name": "Gambellia",
+        "leaderName": "",
+        "adjective": ["Gambellite"],
+        "startBias": ["Plains"],
+        "personality": "",
+
+        "startIntroPart1": "lets go gambling!",
+        "startIntroPart2": "",
+
+        "declaringWar": "...",
+        "attacked": "...",
+        "defeated": "...",
+        "introduction": "...",
+
+        "neutralHello": "...",
+        "hateHello": "...",
+
+        "afterPeace": "...",
+        "tradeRequest": "...",
+        "denounced": "...",
+
+        "outerColor": [230, 23, 23],
+        "innerColor": [102, 102, 41],
+        "uniqueName": "Capricious Divinity",
+        "uniques": [
+            "Gain [1]-[20] [Roll Result] <upon turn start> <every [1] turns>"
+        ]
+        "cities": ["Gambellia"]
     },
 ]
