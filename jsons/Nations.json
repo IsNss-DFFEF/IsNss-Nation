@@ -166,6 +166,8 @@
 			"[+1 Happiness] <for every [12] [Entropy]>",
 			
 			"Cannot build [World Wonder] buildings",
+
+			"Comment [All sources of Faith also produce their yield in Science]",
 			
 			"Comment [Stars with a non-random set of 20% of unresearched technologies researched from atmost 3 eras ahead with decreasing frequency per subsequent era]",
 			"Comment [(Ancient - 16, Classical - 14, Medieval - 12, Renaissance - 10, Industrial - 8, Atomic - 6, Modern - 4, Information - 2)]",
