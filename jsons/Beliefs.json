@@ -10,7 +10,7 @@
         "name": "For the Cumbersome Heart",
         "type": "Pantheon",
         "uniques": ["Only available <for [Cytosia] Civilizations>",
-			"[+1 Faith] from every [Grassland] <within [2] tiles of a [City center]>",
+			"[+1 Faith] from every [Grassland]",
 			"[1000000]% weight to this choice for AI decisions <hidden from users>",]
     },
 ]
