@@ -246,7 +246,7 @@
 		"Production to [Culture] conversion in cities changed by [60]%",
 		"Enables conversion of city production to [Culture]",
 		"[+2 Gold, +1 Culture, +1 Happiness] [in this city] <for every [[{in all cities connected to capital} {in non-enemy foreign cities}] Cities]>",
-		"Triggers a [World's Intersection Built] event <for [Major] Civilizations> <upon turn end>"
+		"Triggers a [World's Intersection Built] event <for [Major] Civilizations> <upon turn start> <for [1] turns>"
 	],
         "requiredTech": "Radio",
 		"quote": "'All roads lead to Conexione' - The CONEX Foundation"
