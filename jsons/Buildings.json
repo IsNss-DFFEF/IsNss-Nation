@@ -219,7 +219,7 @@
 		"culture": 1,
 		"cityStrength": 2.5,
 		"cost": 0,
-		"uniques": ["Indicates the capital city", "Comment [All sources of faith are copied and turned into science per turn in this city]"]
+		"uniques": ["Indicates the capital city", "[+1 Science] [in this city] <for every [[Faith] per turn]>"]
 	},
 	//Manudeii
 	{
