@@ -9,4 +9,9 @@
 		"resourceType": "Strategic",
 		"uniques": ["Untradeable"]
 	},
+	{
+		"name": "Roll Result",
+		"resourceType": "Strategic",
+		"uniques": ["Untradeable","Stockpiled"]
+	},
 ]
